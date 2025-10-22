@@ -1,0 +1,2924 @@
+{
+  "title": "test_savollar_tt",
+  "sourceFileName": "test_savollar_tt.docx",
+  "count": 100,
+  "items": [
+    {
+      "id": "1",
+      "order": 1,
+      "question": "Raqamli transformatsiyaning maqsadi nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Naqd pulni kamaytirish",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Filiallarni ko‘paytirish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bank xizmatlarini avtomatlashtirish va qulaylashtirish",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "Kadrlar sonini oshirish",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "2",
+      "order": 2,
+      "question": "Omnikanal xizmat nimani anglatadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Faqat filial orqali xizmat",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Faqat mobil ilova orqali xizmat",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Barcha kanallarda yagona foydalanuvchi tajribasi",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "Faqat call-markaz",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "3",
+      "order": 3,
+      "question": "MAU metrikasi nimani bildiradi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tizim daromadi",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Oylik faol foydalanuvchilar soni",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "Kredit miqdori",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Server yuklamasi",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "4",
+      "order": 4,
+      "question": "Churn (ketis",
+      "options": [
+        {
+          "key": "A",
+          "text": "Reklama samaradorligi",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Yangi foydalanuvchilar soni",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mahsulotni tark etgan foydalanuvchilar ulushi",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "Server soni",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "5",
+      "order": 5,
+      "question": "Retention nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Foydalanuvchilarning mahsulotda qolish darajasi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Yuklab olishlar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kredit stavkasi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Foydalanuvchi soni",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "lat"
+    },
+    {
+      "id": "6",
+      "order": 6,
+      "question": "NPS (Net Promoter Scor",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xizmat sifati",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Ish haqi miqdori",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijozlarning tavsiya qilish ehtimoli",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "Kredit foizi",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "7",
+      "order": 7,
+      "question": "Referral tizimi nima uchun kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Serverlarni test qilish",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kreditlarni yopish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "API sonini kamaytirish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mavjud foydalanuvchi orqali yangi mijozlarni jalb qilish",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "8",
+      "order": 8,
+      "question": "A/B testning maqsadi nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Eng samarali variantni aniqlash",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Serverni sozlash",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tizimni o‘chirish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kod yozishni osonlashtirish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "lat"
+    },
+    {
+      "id": "9",
+      "order": 9,
+      "question": "Product-market fit nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mahsulot bozor ehtiyojiga to‘liq mos kelishi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "API integratsiyasi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kredit turi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Yangi loyiha nomi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "lat"
+    },
+    {
+      "id": "10",
+      "order": 10,
+      "question": "API integratsiyasining asosiy vazifasi nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Turli tizimlar o‘rtasida ma’lumot almashish",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mobil ilovani test qilish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "UI dizaynni yaratish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Reklama joylashtirish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "lat"
+    },
+    {
+      "id": "11",
+      "order": 11,
+      "question": "A/B test nima uchun o‘tkaziladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kodni qisqartirish",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tizimni qayta ishga tushirish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ikkita variantdan eng samaralisini aniqlash uchun",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "Reklama joylash",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "12",
+      "order": 12,
+      "question": "Microservice arxitekturasi afzalligi nimada?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mustaqil xizmatlar orqali tez yangilanish va kengayish",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Qo‘lda boshqarish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Monolit kod ishlatish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Yagona serverda ishlash",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "lat"
+    },
+    {
+      "id": "13",
+      "order": 13,
+      "question": "API Gateway nima qiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mobil signalni oshiradi",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "API so‘rovlarini boshqaradi va xavfsizlikni ta’minlaydi",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "UI komponentlarini chizadi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Fikr-mulohaza to‘playdi",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "14",
+      "order": 14,
+      "question": "Message Queue (Kafk",
+      "options": [
+        {
+          "key": "A",
+          "text": "nima?",
+          "correct": false
+        },
+        {
+          "key": "A",
+          "text": "DNSni sozlaydi",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Asinxron ma’lumot almashinuvini boshqaradi",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "UI ranglarini boshqaradi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Foydalanuvchini ro‘yxatdan o‘tkazadi",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "15",
+      "order": 15,
+      "question": "SLA (Service Level Agreemen",
+      "options": [
+        {
+          "key": "A",
+          "text": "Test fayli",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "UX dizayn sxemasi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Xizmat ko‘rsatish majburiyatlarini belgilovchi kelishuv",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "Kredit shartnomasi",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "16",
+      "order": 16,
+      "question": "Cloud texnologiyalarining afzalligi nimada?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Faqat lokal server",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Masshtablanuvchanlik va resurslarni samarali boshqarish",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "Faqat oflayn ishlash",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Naqd operatsiyalar",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "17",
+      "order": 17,
+      "question": "API autentifikatsiyasi nima uchun kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "So‘rov yuboruvchi foydalanuvchini aniqlash uchun",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ranglarni sozlash uchun",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "UX dizaynini tahlil qilish uchun",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Serverlarni o‘chirish uchun",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "lat"
+    },
+    {
+      "id": "18",
+      "order": 18,
+      "question": "UX research nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Serverni test qilish",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kodni qisqartirish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Foydalanuvchilar xatti-harakatini o‘rganish jarayoni",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "Reklama tahlili",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "19",
+      "order": 19,
+      "question": "KPI nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mobil qurilma turi",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kredit miqdori",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Xodim yoki loyiha samaradorligini baholovchi ko‘rsatkich",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "API kodi",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "20",
+      "order": 20,
+      "question": "SQL nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "UX platformasi",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Dizayn dasturi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ma’lumotlar bazasi bilan ishlash tili",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "API tarmog‘i",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "21",
+      "order": 21,
+      "question": "NoSQL nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mobil platforma",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Oflayn tizim",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Strukturasiz ma’lumotlar bazasini boshqarish tizimi",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "UX testi",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "22",
+      "order": 22,
+      "question": "API token nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Server manzili",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Avtorizatsiya uchun maxsus kalit",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "Kredit jadvali",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Foydalanuvchi rasmi",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "23",
+      "order": 23,
+      "question": "Log fayllar nima uchun kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kodni qisqartirish uchun",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Fikr-mulohaza olish uchun",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "UI dizayn yaratish uchun",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tizimdagi voqealarni qayd etish uchun",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "24",
+      "order": 24,
+      "question": "Scrum metodologiyasining asosiy elementi nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kredit tahlili",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Monolit arxitektura",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tasodifiy topshiriqlar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Sprintlar va iterativ ishlab chiqish",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "25",
+      "order": 25,
+      "question": "Kanban nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ish jarayonini vizual boshqarish taxtasi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ilova dizayni",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tizimni to‘xtatish usuli",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Fikr olish vositasi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "lat"
+    },
+    {
+      "id": "26",
+      "order": 26,
+      "question": "Backlog nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Amalga oshirilishi kerak bo‘lgan vazifalar ro‘yxati",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Server manzili",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tizim loglari",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijoz ma’lumotlari",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "lat"
+    },
+    {
+      "id": "27",
+      "order": 27,
+      "question": "API rate limit nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fikrlar miqdori",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Ma’lumotlar hajmi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Foydalanuvchi soni",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Belgilangan vaqt ichida maksimal so‘rov soni",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "28",
+      "order": 28,
+      "question": "UX prototip nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "SQL so‘rovi",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Foydalanuvchi sinovlari uchun dastlabki dizayn namunasi",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "API test fayli",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Server konfiguratsiyasi",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "29",
+      "order": 29,
+      "question": "API versiyalash nima uchun kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "UI dizaynni chizish",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kodni qisqartirish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Turli mijozlar uchun mos API variantlarini boshqarish",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "Keshni o‘chirish",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "30",
+      "order": 30,
+      "question": "Wireflow nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "UX ekranlari orasidagi navigatsiya diagrammasi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ma’lumotlar bazasi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mobil tarmoq",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "DNS sozlamasi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "lat"
+    },
+    {
+      "id": "31",
+      "order": 31,
+      "question": "UX usability testi nima uchun kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "API xatolarini topish",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Ma’lumotlar bazasini test qilish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Server yukini o‘lchash",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Foydalanuvchi uchun qulaylikni aniqlash",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "32",
+      "order": 32,
+      "question": "Kreditning to‘liq qiymati (KT",
+      "options": [
+        {
+          "key": "A",
+          "text": "Faqat sug‘urtani",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Faqat foiz stavkasini",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Faqat kredit summasini",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Foiz, komissiya, sug‘urta va boshqa xarajatlarni",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "33",
+      "order": 33,
+      "question": "Grace period nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kreditni bekor qilish",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kreditni o‘chirish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kreditni uzaytirish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Jarimasiz kechiktirilgan to‘lov davri",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "34",
+      "order": 34,
+      "question": "Pre-scoring nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kreditni kechiktirish",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kreditni o‘zgartirish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kreditni yopish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kredit berishdan oldingi baholash jarayoni",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "35",
+      "order": 35,
+      "question": "Post-scoring nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kredit davomida mijozning holatini kuzatish",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Kreditni boshlash",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kreditni o‘chirish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kreditni to‘xtatish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "lat"
+    },
+    {
+      "id": "36",
+      "order": 36,
+      "question": "Murakkab foiz nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Qo‘shimcha to‘lov",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kesh tizimi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Oddiy foiz",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Foizga foiz hisoblanadigan tizim",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "37",
+      "order": 37,
+      "question": "Kredit kalkulyatori nima uchun kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "UX test qilish uchun",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "API ni sinash uchun",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Foydalanuvchi sonini o‘lchash uchun",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Foiz, summa va muddat asosida to‘lovni hisoblash uchun",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "38",
+      "order": 38,
+      "question": "Batch scoring nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Faqat bitta mijozni baholash",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Qo‘lda kredit berish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "API ni tozalash",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Katta hajmdagi mijozlar uchun bir vaqtda scoring o‘tkazish",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "39",
+      "order": 39,
+      "question": "Kredit sug‘urtasi nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kreditni yopish usuli",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kreditni kamaytirish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kreditni bekor qilish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kreditni to‘lovga layoqatsizlikdan himoya qiluvchi mexanizm",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "40",
+      "order": 40,
+      "question": "OAuth2 nima uchun ishlatiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "DNSni sozlash uchun",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "API test qilish uchun",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mobil tarmoqni ulash uchun",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Autentifikatsiya va avtorizatsiyani boshqarish uchun",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "41",
+      "order": 41,
+      "question": "Token yangilanish jarayoni qanday ataladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Update session",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Restart key",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Access point",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Refresh token",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "42",
+      "order": 42,
+      "question": "API response formati odatda qanday bo‘ladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "DOC",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "TXT",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "HTML",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "JSON",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "43",
+      "order": 43,
+      "question": "API status kodi 500 nimani anglatadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "So‘rov to‘g‘ri",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Resurs topilgan",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Token yangilangan",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Server ichki xatoligi",
+          "correct": true
+        }
+      ],
+      "answerKey": "A",
+      "locale": "lat"
+    },
+    {
+      "id": "44",
+      "order": 44,
+      "question": "KYC (Know Your Custome",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fikrlarni tahlil qilishni",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kredit hisobini yuritishni",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "API sozlashni",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijozni tanish va identifikatsiya qilish jarayonini",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "45",
+      "order": 45,
+      "question": "Firewall nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "UX test tizimi",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Ma’lumotlar bazasi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Reklama vositasi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tarmoq trafikini filtrlovchi xavfsizlik devori",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "46",
+      "order": 46,
+      "question": "Audit log nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "UX dizayn fayli",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kredit to‘lov jadvali",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mobil ilova versiyasi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tizimda amalga oshirilgan barcha harakatlarning yozuvi",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "47",
+      "order": 47,
+      "question": "VPN nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mobil signal kuchaytiruvchi qurilma",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "UX komponenti",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "API server turi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Xavfsiz shifrlangan virtual tarmoq",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "48",
+      "order": 48,
+      "question": "Risk assessment nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "UX tahlili",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kredit tekshiruvi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "API monitoring",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tizimdagi xavflarni aniqlash va baholash jarayoni",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "49",
+      "order": 49,
+      "question": "Access control nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Foydalanuvchilarning tizimdagi ruxsat darajalarini boshqarish",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "API test qilish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "UX komponent yaratish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "SQL yozish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "lat"
+    },
+    {
+      "id": "50",
+      "order": 50,
+      "question": "Two-factor authentication qanday ishlaydi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "VPN orqali kirish",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "UX orqali kirish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Parol va qo‘shimcha tasdiq vositasi orqali kirish",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "Faqat parol bilan kirish",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "51",
+      "order": 51,
+      "question": "Backup nima uchun yaratiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kredit hisoblash uchun",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "UI ni o‘zgartirish uchun",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "API ni test qilish uchun",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ma’lumotlarni yo‘qotilganda qayta tiklash uchun",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "52",
+      "order": 52,
+      "question": "Mobil banking ilovasida autentifikatsiya nima uchun kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fikrlarni yig‘ish uchun",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Reklama ko‘rsatish uchun",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Serverni o‘chirish uchun",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Foydalanuvchini aniqlash va xavfsizlikni ta’minlash uchun",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "53",
+      "order": 53,
+      "question": "Biometrik autentifikatsiya nimani anglatadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Parolni avtomatik yaratish",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "SMS yuborish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "API ni test qilish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Foydalanuvchini barmoq izi yoki yuz orqali aniqlash",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "54",
+      "order": 54,
+      "question": "PFM tizimi nima uchun kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "UX dizayn yaratish uchun",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Mijozning xarajat va daromadlarini tahlil qilish uchun",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "Kredit berish uchun",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tizim loglarini tozalash uchun",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "55",
+      "order": 55,
+      "question": "Mobil ilovada push-bildirishlar nima uchun ishlatiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "UX dizaynini yangilash uchun",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kreditni bekor qilish uchun",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "API so‘rovlarini yuborish uchun",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Foydalanuvchini muhim voqealar haqida xabardor qilish uchun",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "56",
+      "order": 56,
+      "question": "NFC texnologiyasi nima uchun ishlatiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Qurilmalarni yaqin masofada aloqa qilish imkonini beradi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "API chaqiradi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "UX testini o‘tkazadi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Internet tezligini oshiradi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "lat"
+    },
+    {
+      "id": "57",
+      "order": 57,
+      "question": "Chatbot funksiyasi nimani ta’minlaydi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kredit muddatini uzaytirishni",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "UX dizaynni test qilishni",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "API xavfsizligini",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijoz bilan avtomatik muloqotni",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "58",
+      "order": 58,
+      "question": "Open Banking nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kredit stavkasini pasaytirish",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Bank filiallarini yopish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Reklama tizimi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bank ma’lumotlarini API orqali uchinchi tomon bilan ulashish tizimi",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "59",
+      "order": 59,
+      "question": "Mobil ilovada “Kesh” nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "UX dizayn fayli",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kredit fayli",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tezkor kirish uchun vaqtincha saqlanadigan ma’lumotlar",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "SQL jadvali",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "60",
+      "order": 60,
+      "question": "Digital signature (elektron imz",
+      "options": [
+        {
+          "key": "A",
+          "text": "UX dizaynni tasdiqlash uchun",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "API ni o‘chirish uchun",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Raqamli hujjatlarni qonuniy tasdiqlash uchun",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "Fikrlarni yuborish uchun",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "61",
+      "order": 61,
+      "question": "Mijozni segmentatsiya qilish nima uchun kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "API ni yangilash uchun",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Xizmatlarni turli mijoz guruhlariga moslashtirish uchun",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "Keshni tozalash uchun",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "UX faylni yuklash uchun",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "62",
+      "order": 62,
+      "question": "Cross-selling nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yangi mijozni bloklash",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Mavjud mijozga qo‘shimcha mahsulot taklif etish",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "Kreditni bekor qilish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tizimni tozalash",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "63",
+      "order": 63,
+      "question": "P2P to‘lov nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bankdan davlatga to‘lov",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kredit so‘rovi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Omonat ochish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bir foydalanuvchidan boshqasiga to‘g‘ridan-to‘g‘ri o‘tkazma",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "64",
+      "order": 64,
+      "question": "Loyalty tizimi nima uchun kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "UX faylni yaratish uchun",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "API test qilish uchun",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijozlarni rag‘batlantirish va sodiqligini oshirish uchun",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "Kreditni yopish uchun",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "65",
+      "order": 65,
+      "question": "Mobil ilovada OTP (One-Time Passwor",
+      "options": [
+        {
+          "key": "D",
+          "text": "nima?",
+          "correct": false
+        },
+        {
+          "key": "A",
+          "text": "UI dizayn elementi",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Bir martalik parol orqali autentifikatsiya tizimi",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "Doimiy login paroli",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "API test vositasi",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "66",
+      "order": 66,
+      "question": "Device binding nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "API ni o‘chirish",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Ilovani faqat ma’lum qurilmada ishlashga bog‘lash",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "Kredit tizimini tahlil qilish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "UX dizaynni yangilash",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "67",
+      "order": 67,
+      "question": "Rule-based antifraud nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tasodifiy xatarlarni aniqlash",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Oldindan belgilangan shartlar asosida xatarli amaliyotni bloklash",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "UX test o‘tkazish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "API ni o‘chirish",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "68",
+      "order": 68,
+      "question": "Mobil ilovada device ID nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "UX dizayn kodi",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kredit raqami",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Qurilmani noyob identifikatsiya qiluvchi raqam",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "API status kodi",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "69",
+      "order": 69,
+      "question": "Behavior analysis tizimi nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kredit stavkalarini tahlil qilish",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "API kodini test qilish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "UI dizaynni o‘zgartirish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Foydalanuvchi harakatlarini kuzatish orqali firibgarlikni aniqlash",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "70",
+      "order": 70,
+      "question": "Jailbreak detection nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Qurilmaning himoya tizimi buzilganini aniqlash jarayoni",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "API ni o‘chirish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "UX dizaynni tekshirish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mobil tarmoqni test qilish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "lat"
+    },
+    {
+      "id": "71",
+      "order": 71,
+      "question": "Product Owner roli nimani anglatadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "UX dizayner",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Dasturchi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mahsulot rivojlanishini strategik boshqaruvchi shaxs",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "Test muhandis",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "72",
+      "order": 72,
+      "question": "Heatmap nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kredit hisobi",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "API so‘rov",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "UX versiyasi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Foydalanuvchilar qayerda ko‘proq bosganini ko‘rsatuvchi vizual tahlil",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "73",
+      "order": 73,
+      "question": "NPS (Net Promoter Scor",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kreditlar summasi",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tavsiya qiluvchilar ulushi – tanqidchilar ulushi",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "API javob soni",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Foydalanuvchi soni",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "74",
+      "order": 74,
+      "question": "UX audit nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "API testi",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Foydalanuvchi interfeysini tahlil qilib kamchiliklarni aniqlash",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "Kredit auditi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ma’lumotlar bazasi auditi",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "75",
+      "order": 75,
+      "question": "Raqamli strategiya nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bank xizmatlarini texnologiyalar orqali rivojlantirish rejasidir",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Kredit shartnomasidir",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "UX dizayn sxemasidir",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "API versiyasidir",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "lat"
+    },
+    {
+      "id": "76",
+      "order": 76,
+      "question": "Digital ecosystem nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fikr almashish platformasi",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Mobil tarmoq operatori",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Server arxitekturasi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bir nechta raqamli mahsulot va xizmatlarning yagona tizimi",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "77",
+      "order": 77,
+      "question": "Open API siyosati nimani ta’minlaydi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kredit tekshiruvini",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Fikr almashishni",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Uchinchi tomon ilovalari bilan xavfsiz integratsiyani",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "UXni tozalashni",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "78",
+      "order": 78,
+      "question": "Big Data texnologiyalari nimaga xizmat qiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "UX dizayn yaratish",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Katta hajmdagi ma’lumotlarni saqlash va tahlil qilish",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "Kredit so‘rovi yuborish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "API ni test qilish",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "79",
+      "order": 79,
+      "question": "Data Lake nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fikr bazasi",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Strukturalanmagan katta hajmdagi ma’lumotlar ombori",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "Kredit fayli",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mobil log fayli",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "80",
+      "order": 80,
+      "question": "Data Warehouse (DW",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kredit hisoblagich",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Analitik maqsadlarda foydalaniladigan markazlashtirilgan ma’lumotlar bazasi",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "API Gateway",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "UX fayli",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "81",
+      "order": 81,
+      "question": "Predictive Analytics nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "UX interfeys yaratish",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "API test qilish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ma’lumotlar asosida kelajakdagi natijalarni oldindan aniqlash",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "Kredit summasini hisoblash",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "82",
+      "order": 82,
+      "question": "Cloud migration nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kreditni yopish",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "API ni yangilash",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "UX dizaynni o‘zgartirish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tizim va ma’lumotlarni bulutli muhitga ko‘chirish jarayoni",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "83",
+      "order": 83,
+      "question": "SaaS (Software as a Servic",
+      "options": [
+        {
+          "key": "A",
+          "text": "UX dizayn yaratish",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Internet orqali dasturiy ta’minotni xizmat sifatida taqdim etish",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "Kredit hisoblash",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Serverni sotib olish",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "84",
+      "order": 84,
+      "question": "API documentation nima uchun kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "UX dizayn uchun",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kredit jadvali uchun",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Integratsiya qiluvchi dasturchilar uchun yo‘riqnoma sifatida",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "Tizim logi uchun",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "85",
+      "order": 85,
+      "question": "Sandbox muhit nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "API gateway",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kredit tizimi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Test qilish uchun ajratilgan xavfsiz izolyatsiya qilingan muhit",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "UX fayli",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "86",
+      "order": 86,
+      "question": "“BNPL” (Buy Now Pay Late",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kreditni birdan yopadi",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Mijoz hozir xarid qiladi, to‘lovni bo‘lib to‘laydi",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "UX interfeysni o‘zgartiradi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "API testini o‘tkazadi",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "87",
+      "order": 87,
+      "question": "“Digital Credit Lifecycle” bosqichlariga nimalar kiradi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "UX dizayn, API test, deploy",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Fikr yig‘ish, segmentatsiya",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ariza, tekshiruv, tasdiqlash, monitoring",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "Kredit yopish, tahlil, qayta ochish",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "88",
+      "order": 88,
+      "question": "“Payment Hub” tizimining vazifasi nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kredit portfelini ko‘paytirish",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "UX faylni yaratish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bankdagi barcha to‘lov kanallarini markazlashtirish",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "API loglarini o‘chirish",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "89",
+      "order": 89,
+      "question": "“Card Management System (CM",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kredit tasdiqlash",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "UX interfeys yaratish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Plastik kartalarni chiqarish va boshqarish uchun",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "API tahlil qilish",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "90",
+      "order": 90,
+      "question": "“RPA” texnologiyasi kredit bo‘limida qanday foyda beradi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "UX interfeys yaratadi",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Takroriy jarayonlarni avtomatik bajarish orqali samaradorlikni oshiradi",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "Kredit stavkasini pasaytiradi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "API ni yangilaydi",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "91",
+      "order": 91,
+      "question": "“Credit Portfolio Analytics” nima uchun kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "API hujjatini yangilash uchun",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "UX dizaynni yaxshilash uchun",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kreditlar rentabelligi va risk darajasini tahlil qilish uchun",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "Token yaratish uchun",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "92",
+      "order": 92,
+      "question": "“Fraud Detection Model” kredit tizimida nimani aniqlaydi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kreditni tasdiqlash jarayonini",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Shubhali va firibgarlikka oid tranzaksiyalarni",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "UX interfeysni",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "API logini",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "93",
+      "order": 93,
+      "question": "“Digital Signature Validation” nimani ta’minlaydi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Elektron imzoning haqiqiyligini tekshirish",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Kredit qayta ishlash",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "API ni qayta yozish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "UX interfeysni tekshirish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "lat"
+    },
+    {
+      "id": "94",
+      "order": 94,
+      "question": "Raqamli bankning muvaffaqiyatini belgilovchi asosiy ko‘rsatkichlardan biri qaysi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Filiallar soni",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "MAU/DAU nisbati",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "Xodimlar soni",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kredit portfeli hajmi",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "95",
+      "order": 95,
+      "question": "Customer Journey Mapping nima uchun ishlatiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "API tahlil qilish uchun",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "UX rangini tanlash uchun",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kredit so‘rovi yuborish uchun",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijozning mahsulot bilan o‘zaro tajribasini bosqichm",
+          "correct": false
+        },
+        {
+          "key": "A",
+          "text": "bosqich tahlil qilish uchun",
+          "correct": true
+        }
+      ],
+      "answerKey": "A",
+      "locale": "lat"
+    },
+    {
+      "id": "96",
+      "order": 96,
+      "question": "KPI va OKR o‘rtasidagi asosiy farq nimada?",
+      "options": [
+        {
+          "key": "A",
+          "text": "KPI maqsad, OKR natija",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Ikkalasi bir xil",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "KPI natijani o‘lchaydi, OKR esa strategik maqsadni belgilaydi",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "Har ikkalasi marketing ko‘rsatkichi",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "97",
+      "order": 97,
+      "question": "Bank ilovasida 'Behavioural Analytics' nima uchun qo‘llaniladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "API versiyasini tekshirish uchun",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "UX ranglarini o‘zgartirish uchun",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kreditni hisoblash uchun",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Foydalanuvchi xatti-harakatini tahlil qilib mahsulotni yaxshilash uchun",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "98",
+      "order": 98,
+      "question": "'SuperApp ekotizimi'da asosiy afzallik nimada?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Naqd to‘lovni oshirish",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Bir nechta xizmatni yagona ilovada boshqarish",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "Har bir xizmat uchun alohida ilova yaratish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Faqat kredit tizimida ishlash",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "99",
+      "order": 99,
+      "question": "'Customer Retention Rate' nimani bildiradi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kredit stavkalari o‘zgarishi",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "UX tahlil natijasi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Yangi mijozlar soni",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bankda qolayotgan faol mijozlar ulushi",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "100",
+      "order": 100,
+      "question": "'Value Proposition Canvas' nimaga yordam beradi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kredit strukturasini tuzishga",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Mahsulot qiymatini mijoz ehtiyojlariga moslashtirishga",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "API marshrutini yaratishga",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "UX dizaynni chizishga",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    }
+  ],
+  "createdAt": "2025-10-21T07:28:22.989Z",
+  "schema": "v1"
+}

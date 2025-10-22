@@ -1,0 +1,299 @@
+{
+  "title": "Raqamli transformatsiya va omnikanal xizmatlar bo'yicha test savollari",
+  "sourceFileName": "test_savollar_tt.docx",
+  "count": 100,
+  "items": [
+    {
+      "id": "1",
+      "order": 1,
+      "question": "Raqamli transformatsiyaning maqsadi nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Naqd pulni kamaytirish",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Filiallarni ko‘paytirish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bank xizmatlarini avtomatlashtirish va qulaylashtirish",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "Kadrlar sonini oshirish",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "2",
+      "order": 2,
+      "question": "Omnikanal xizmat nimani anglatadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Faqat filial orqali xizmat",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Faqat mobil ilova orqali xizmat",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Barcha kanallarda yagona foydalanuvchi tajribasi",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "Faqat call-markaz",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "3",
+      "order": 3,
+      "question": "MAU metrikasi nimani bildiradi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tizim daromadi",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Oylik faol foydalanuvchilar soni",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "Kredit miqdori",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Server yuklamasi",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "lat"
+    },
+    {
+      "id": "4",
+      "order": 4,
+      "question": "Churn (ketis",
+      "options": [
+        {
+          "key": "A",
+          "text": "Reklama samaradorligi",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Yangi foydalanuvchilar soni",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mahsulotni tark etgan foydalanuvchilar ulushi",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "Server soni",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "5",
+      "order": 5,
+      "question": "Retention nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Foydalanuvchilarning mahsulotda qolish darajasi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Yuklab olishlar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kredit stavkasi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Foydalanuvchi soni",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "lat"
+    },
+    {
+      "id": "6",
+      "order": 6,
+      "question": "NPS (Net Promoter Scor",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xizmat sifati",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Ish haqi miqdori",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijozlarning tavsiya qilish ehtimoli",
+          "correct": true
+        },
+        {
+          "key": "D",
+          "text": "Kredit foizi",
+          "correct": false
+        }
+      ],
+      "answerKey": "C",
+      "locale": "lat"
+    },
+    {
+      "id": "7",
+      "order": 7,
+      "question": "Referral tizimi nima uchun kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Serverlarni test qilish",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kreditlarni yopish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "API sonini kamaytirish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mavjud foydalanuvchi orqali yangi mijozlarni jalb qilish",
+          "correct": true
+        }
+      ],
+      "answerKey": "D",
+      "locale": "lat"
+    },
+    {
+      "id": "8",
+      "order": 8,
+      "question": "A/B testning maqsadi nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Eng samarali variantni aniqlash",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Serverni sozlash",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tizimni o‘chirish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kod yozishni osonlashtirish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "lat"
+    },
+    {
+      "id": "9",
+      "order": 9,
+      "question": "Product-market fit nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mahsulot bozor ehtiyojiga to‘liq mos kelishi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "API integratsiyasi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kredit turi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Yangi loyiha nomi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "lat"
+    },
+    {
+      "id": "10",
+      "order": 10,
+      "question": "API integratsiyasining asosiy vazifasi nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Turli tizimlar o‘rtasida ma’lumot almashish",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mobil ilovani test qilish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "UI dizaynni yaratish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Reklama joylashtirish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "lat"
+    }
+  ],
+  "createdAt": "2025-10-21T07:28:22.989Z",
+  "schema": "v1"
+}
