@@ -39,7 +39,7 @@ const TestCard = forwardRef<HTMLInputElement, { test: any; onOptionSelect: any }
             setCorrectOption(test?.options.find((option: any) => option.text === val)?.correct);
             setValue(val);
           }}>
-          <Stack pt="md" gap="xs">
+          <Stack pt="md" gap={0}>
             {test.options.map((option: any, index: number) => (
               <TestCardOptions key={index} option={option} value={value} />
             ))}
