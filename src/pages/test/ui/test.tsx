@@ -45,7 +45,7 @@ const Test = () => {
       </Title>
       <Stack gap="lg">
         {tests?.items?.length &&
-          tests.items.slice(0, 10).map((test: any, index: number) => (
+          tests.items.map((test: any, index: number) => (
             <Stack key={test.order}>
               <TestCard
                 key={test.order}
