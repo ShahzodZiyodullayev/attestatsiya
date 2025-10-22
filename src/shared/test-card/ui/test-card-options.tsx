@@ -2,7 +2,7 @@ import { Group, Radio, Text } from "@mantine/core";
 
 import classes from "./tests.module.pcss";
 
-const TestCardOptions = (option: any, value: string | null) => {
+const TestCardOptions = ({ option, value }: any) => {
   const bg = value
     ? value === option.text && !option.correct
       ? "#fbbab6"

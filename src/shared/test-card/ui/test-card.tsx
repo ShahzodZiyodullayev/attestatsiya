@@ -40,7 +40,9 @@ const TestCard = forwardRef<HTMLInputElement, { test: any; onOptionSelect: any }
             setValue(val);
           }}>
           <Stack pt="md" gap="xs">
-            {test.options.map((option: any) => TestCardOptions(option, value))}
+            {test.options.map((option: any, index: number) => (
+              <TestCardOptions key={index} option={option} value={value} />
+            ))}
           </Stack>
         </Radio.Group>
       </Card>
