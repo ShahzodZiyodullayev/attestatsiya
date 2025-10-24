@@ -1,0 +1,3672 @@
+{
+  "title": "Mijozlarga xizmat ko'rsatish va Bank bilimi",
+  "sourceFileName": "Fil set.docx",
+  "count": 127,
+  "items": [
+    {
+      "id": "1",
+      "order": 1,
+      "question": "Mijoz bilan birinchi boʻlib muloqotga kirishish nimadan boshlanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijoz bilan munosabat har doim birinchi tabassum bilan salomlashishdan boshlanadi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijoz bilan munosabat har doim birinchi nigohdan boshlanadi. Mijozning koʻzlariga qarang!",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Sotuv shakllari quyidagilardan iboratdir: 1. Mavhum -- Sotuvning ehtimoliy darajasi past; 2. Muqobil -- Sotuvning ehtimoliy darajasi oʻrtacha; 3. Muqobil boʻlmagan -- Sotuvning ehtimoliy darajasi yuqori.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Sotuv shakllari quyidagilardan iboratdir: 1. Muqobil -- Sotuvning ehtimoliy darajasi oʻrtacha; 2. Muqobil boʻlmagan -- Sotuvning ehtimoliy darajasi yuqori.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "2",
+      "order": 2,
+      "question": "Mijoz bilan muloqot davomida mijoz ismini necha martadan kam ishlatmaslik kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Muloqot davomida mijoz ismi 5 martadan kam ishlatilmaydi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Muloqot davomida mijoz ismi 3 martadan kam ishlatilmaydi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Muloqot davomida mijoz ismi 4 martadan kam ishlatilmaydi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Muloqot davomida mijoz ismi 8 martadan kam ishlatilmaydi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "3",
+      "order": 3,
+      "question": "Xodimlar mijozlar uchun moʻljallangan joyga oʻtirsa boʻladimi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijozlar uchun belgilangan oʻrindiqlarga oʻtirish mumkin emas.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Albatta oʻtirsa boʻladi, faqatgina mijoz yoʻq vaqtida.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Albatta oʻtirsa boʻladi, faqatgina tushlik vaqtida.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Faqat mijoz bilan birga oʻtirsa boʻladi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "4",
+      "order": 4,
+      "question": "Mijoz bilan muloqot qanday iboradan boshlanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Birinchi boʻlib mijozni qarshi oling! Mijozning oʻzi murojaat qilishini kutmang! Assalomu alaykum (hayrli kun)! Sizga qanday yordam bera olaman?",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Birinchi boʻlib mijozni qarshi oling! Mijozning oʻzi murojaat qilishini kutmang! Assalomu alaykum (hayrli kun)! Hurmatli mijoz, sizga qanday yordam bera olaman?",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Birinchi boʻlib mijozni qarshi oling! Mijozning oʻzi murojaat qilishini kutmang! Nima yordam kerak?",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Hush kelibsiz, qanday yordam bera olaman?",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "5",
+      "order": 5,
+      "question": "Mijoz bilan muloqot davomida mijozga tabassum qilsa boʻladimi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Koʻz bilan aloqaga kirishgandan soʻng, darhol mijozga tabassum qiling! Salomlashish bosqichidagi tabassum suhbatdan koʻra yorqinroq boʻlishi kerak!",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Tabassum faqatgina mijoz bilan tanishuv vaqtida amalga oshiriladi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tabassum qilish xodimning hohishlariga bogʻliq.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Agarda mijoz tabassum qilsa, xodim tabassum qilishi tavsiya etiladi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "6",
+      "order": 6,
+      "question": "Resepshn xodimining ish joyi qayerda boʻlishi kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Resepshn xodimining ish joyi bank binosining kirish qismida joylashadi. Resepshn xodimi turgan holda mijozlarni bank binosiga kirish joyida qarshi oladi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Resepshn xodimining ish joyi elektron navbat yonida.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Resepshn xodimining ish joyi rahbar qabulxonasida.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Resepshn xodimi mijozlarni kassada kutib oladi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "7",
+      "order": 7,
+      "question": "Mijozlar bilan muloqot davomida qayerlarga qarashga ruxsat beriladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijoz bilan muloqot paytida koʻz bilan aloqa oʻrnatish zarur, mijozga, stolga va kompyuterga qarashlari mumkin.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijoz bilan muloqot paytida mijozga, stolga va hujjatlarga qarashlari mumkin.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijoz bilan muloqot paytida shiftga, stolga va hujjatlarga qarashlari mumkin.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijoz bilan muloqot paytida shiftga, stolga va telefonga qarashlari mumkin.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "8",
+      "order": 8,
+      "question": "Xodimning ish stolida qanday buyumlar turishga ruxsat etiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xodimninig ish joyida uning shaxsiy buyumlari, xizmat koʻrsatilayotgan mijozga tegishli boʻlmagan jismlar va hujjatlar boʻlishi taqiqlanadi!",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Xodimning ish joyida shaxsiy telefon, ruchka, qalam, stepler turishi mumkin.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ish joyida shaxsiy telefon, ruchka, qalam, stepler, mijoz hujjatlari turishi mumkin.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ish joyida suvenir, portret, ruchka, mijoz hujjatlari turishi mumkin.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "9",
+      "order": 9,
+      "question": "Suhbat davomida mijozlarning faol boʻlishi va uning ishonchini uygʻotish uchun nima qilish kerak (\"joziba\" effekti)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xodim tabassum, ism va maqtovlardan foydalanishi zarur.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Tabassum va ismni ishlatish kifoya.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Faqat ismdan foydalanish va maqtovlardan foydalanish.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tabassum, ism, kofe taklif qilish va maqtovlardan foydalanish.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "10",
+      "order": 10,
+      "question": "\"Heyter\" mijoz kim?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mojoro qoʻzgʻatuvchi mijozlardir. Nafratlanuvchilar (xeyterlar) -- hayotda salbiy maʼlumotlarni toʻplaydigan insonlar.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Heyter --- bankning eng sodiq mijozlaridan biri.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Heyter --- bank haqida ijobiy maʼlumotlar tarqatadi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Heyter --- ziddiyatli vaziyatlarni bartaraf etuvchi mijoz.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "11",
+      "order": 11,
+      "question": "Mijoz bankka nisbatan salbiy fikr bildirsa nima qilish kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Har qanday ijobiylik yaxshi taassurot hosil qiladi. Agar mijoz salbiy ohangda gapirsa, uni ijobiy tomonga oʻzgartiring!",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijoz salbiy fikr bildirsa, unga javob qaytarmang.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijoz salbiy fikr bildirsa, uzr soʻrang.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijoz salbiy fikr bildirsa, tashakkur bildiring.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "12",
+      "order": 12,
+      "question": "Agar mijoz ism bilan chaqirishni istamasa, yoki ismi tushunarsiz boʻlsa, nima qilish kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Agar ism tushunarsiz boʻlsa, uni bir marta qayta soʻrang. Agar baribir tushunilmasa, \"Siz\" deb murojaat qiling.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Agar ism tushunarsiz boʻlsa, besh marta qayta soʻrang.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Agar ism tushunarsiz boʻlsa, qayta soʻramang.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Agar ism tushunarsiz boʻlsa, shunchaki \"sen\" deb murojaat qiling.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "13",
+      "order": 13,
+      "question": "Kross-sotuv nima va uning nechta turi mavjud?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kross-sotuv --- bu xaridorga asosiy mahsulot bilan bogʻliq qoʻshimcha mahsulot va xizmatlarni taklif qilish. 1. Tavsiyalar 2. Kross-sotuv 3. Yuqori sotuv",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Kross-sotuv --- asosiy mahsulot bilan bogʻliq boʻlmagan xizmatlarni taklif qilish.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kross-sotuv --- bu faqat takliflar asosida sotish.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kross-sotuv --- bu asosiy mahsulotni majburan qoʻshimcha mahsulot bilan sotish.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "14",
+      "order": 14,
+      "question": "Up-sale nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Up-sale --- kross-sotuv turlaridan biri bo'lib, mijozning dastlabki so'rov hajmini oshirish hisoblanadi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Up-sale --- mijoz so'rovini kamaytirish.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Up-sale --- mijoz so'rovini bekor qilish.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Up-sale --- mijoz so'rovini kamaytirib qo'shimcha mahsulot qo'shish.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "15",
+      "order": 15,
+      "question": "Universal kassirning mijozlar bilan muloqot bosqichlari to'g'ri ko'rsatilgan javobni belgilang.",
+      "options": [
+        {
+          "key": "A",
+          "text": "1. Muloqot o'rnatish. 2. Ehtiyojlarni aniqlash. 3. Pul va hujjatlarni taqdim qilish. 4. Muloqotni yakunlash.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "1. Muloqot o'rnatish. 2. Ehtiyojlarni aniqlash. 3. Rahmat aytish. 4. Yakunlash.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "1. Muloqot o'rnatish. 2. Pul topshirish. 3. Yakunlash.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "1. Muloqot o'rnatish. 2. Pul topshirish. 3. Kross-sotuv. 4. Yakunlash.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "16",
+      "order": 16,
+      "question": "Nima uchun mijoz ismidan foydalanish kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ism --- bu insonda mavjud bo'lgan eng qadrli narsa.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijozni hurmat qilish uchun.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijoz e'tiborini tortish uchun.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Shaxsni aniqlash uchun.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "17",
+      "order": 17,
+      "question": "Mijozlar bilan muloqot o'rnatish bosqichlari to'g'ri ko'rsatilgan javobni belgilang.",
+      "options": [
+        {
+          "key": "A",
+          "text": "1. Nigohli muloqot. 2. Tabassum. 3. Salomlashish. 4. Ehtiyojni aniqlash. 5. O'tirishni taklif qilish. 6. Tanishish.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "1. Nigohli muloqot. 2. Tabassum. 3. Salomlashish. 4. Ehtiyojni aniqlash. 5. Yakunlash.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "1. Muloqot. 2. Ehtiyoj. 3. Mahsulot. 4. Yakunlash.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "1. Ehtiyoj. 2. Pul. 3. Yakunlash.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "18",
+      "order": 18,
+      "question": "Dress-kod nima va nima uchun zarur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dress-kod --- bu xodim tashqi koʻrinishiga qoʻyiladigan talab. Mijoz ishonchini oshiradi va unga kim yordam berishini ko'rsatadi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Dress-kod --- majburiy kiyim, lekin ijobiy ta'sir qilmaydi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Dress-kod --- xodimlarni ajratish uchun zarur.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Dress-kod --- bankni boshqalardan ajratish uchun zarur.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "19",
+      "order": 19,
+      "question": "\"Front-ofis\" qanday vazifalarni bajaradi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijozlar bilan bevosita to'g'ridan-to'g'ri muomala qiladi, xizmat ko'rsatadi va ehtiyojlarini qondiradi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Onlayn muloqot qiladi, lekin mijozlar bilan to'g'ridan-to'g'ri emas.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bek-ofisni qo'llab-quvvatlovchi bo'lim.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Shikoyatlar bo'limi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "20",
+      "order": 20,
+      "question": "Bank xizmatlari ofisi tashkil etilayotgan hududda bankning nechtagacha filiali mavjud boʻlishi mumkin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bankning filiali mavjud boʻlishi mumkin emas.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "1 ta filiali bo'lishi kerak.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "3 ta filiali bo'lishi kerak.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "2 ta filiali bo'lishi kerak.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "21",
+      "order": 21,
+      "question": "Bank muassislari bank roʻyxatga olingan kundan boshlab qancha yil mobaynida bank aksiyadorlari tarkibidan chiqishga haqli emaslar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bir yil",
+          "correct": false
+        },
+        {
+          "key": "B",
+          "text": "ikki yil",
+          "correct": true
+        },
+        {
+          "key": "C",
+          "text": "uch yil",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "toʻrt yil",
+          "correct": false
+        }
+      ],
+      "answerKey": "B",
+      "locale": "mixed"
+    },
+    {
+      "id": "22",
+      "order": 22,
+      "question": "Bank tarmogʻida kassa ishini qanday tashkil etish talab etiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tijorat banklarida kassa ishini tashkil etish boʻyicha №3028-sonli Yoʻriqnoma va texnik talablar asosida tashkil etiladi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Tijorat banklarida kassa ishini tashkil etish boʻyicha №3029-sonli Yoʻriqnoma va texnik talablar asosida tashkil etiladi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tijorat banklarida kassa ishini tashkil etish boʻyicha №668-sonli Yoʻriqnoma va texnik talablar asosida tashkil etiladi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tijorat banklarida kassa ishini tashkil etish boʻyicha №1831-sonli Yoʻriqnoma va texnik talablar asosida tashkil etiladi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "23",
+      "order": 23,
+      "question": "Bank tarmogʻi toifasi deganda nimani tushunasiz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tashkiliy shakli boʻyicha maʼlum toifaga tegishli va ushbu toifaga muvofiq boʻlgan xizmatlar koʻrsatish tarmogʻi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Tashkiliy shakli boʻyicha maʼlum toifaga aloqador boʻlmagan va ushbu toifaga muvofiq boʻlmagan xizmatlar koʻrsatish tarmogʻi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tashkiliy shakli boʻyicha 1-toifaga tegishli va ushbu toifaga muvofiq boʻlgan xizmatlar koʻrsatish tarmogʻi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tashkiliy shakli boʻyicha maʼlum toifaga tegishli va filiallarga boʻlinuvchi xizmatlar koʻrsatish tarmogʻi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "24",
+      "order": 24,
+      "question": "Bank tarmogʻi toʻliq berilgan taʼrifini toping.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yuridik shaxs maqomiga va tugallangan balansga ega boʻlmagan, bank tomonidan berilgan vakolatlar doirasida bank xizmatlarini koʻrsatuvchi alohida tarmoq.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Jismoniy shaxs maqomiga va tugallangan balansga ega boʻlmagan, bank tomonidan berilgan vakolatlar doirasida bank xizmatlarini koʻrsatuvchi alohida tarmoq.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Yuridik shaxs maqomiga va tugallanmagan balansga ega boʻlmagan, bank tomonidan berilgan vakolatlar doirasida bank xizmatlarini koʻrsatuvchi alohida tarmoq.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Yuridik shaxs maqomiga va tugallangan balansga ega boʻlgan, bank tomonidan berilgan vakolatlar doirasida bank xizmatlarini koʻrsatuvchi alohida tarmoq.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "25",
+      "order": 25,
+      "question": "Kreditlar boʻyicha foiz hisoblash formulasi ko‘rinishi qanday?",
+      "options": [
+        {
+          "key": "A",
+          "text": "(Soʻndirilmagan kredit qoldigʻi x foiz stavkasi x amaldagi kunlar soni)/365",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "(Ajratilgan kreditni x foiz stavkasi x amaldagi kunlar soni)/12",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "(Soʻndirilmagan kredit qoldigʻi x foiz stavkasi x amaldagi kunlar soni)/31",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "(Soʻndirilmagan kredit qoldigʻi x foiz stavkasi x amaldagi kunlar soni/12 oy)/365",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "26",
+      "order": 26,
+      "question": "Bank xodimlari buxgalteriya hisobida aks ettirilgan bank siriga oid maʼlumotlarni nimaga amal qilgan holda sir saqlashlari lozim?",
+      "options": [
+        {
+          "key": "A",
+          "text": "\"Bank siri toʻgʻrisida\"gi Qonuni talablariga qatʼiy amal qilgan holda sir saqlashlari lozim.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "\"Tijorat siri toʻgʻrisida\"gi Qonunga muvofiq.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "\"Tijorat siri toʻgʻrisida\"gi Qonunga va \"Bank siri toʻgʻrisida\"gi Qonuni talablariga qatʼiy amal qilgan holda sir saqlashlari lozim.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "\"Bank va banklar faoliyati toʻgʻrisida\"gi Qonunga muvofiq va \"Bank siri toʻgʻrisidagi Qarorga asosan.\"",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "27",
+      "order": 27,
+      "question": "Xoʻjalik subyektlariga banklarda qanday hisobvaraqlar ochishlari mumkin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijozlar banklarda talab qilib olinguncha, jamgʻarma va muddatli depozit hisobvaraqlari ochishlari mumkin.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijozlar banklarda jamgʻarma va muddatli depozit hisobvaraqlari ochishlari mumkin.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijozlar banklarda talab qilib olinguncha, jamgʻarma, ikkilamchi hisobvaraqlari ochishlari mumkin.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijozlar banklarda talab qilib olinguncha va jamgʻarma hisobvaraqlari ochishlari mumkin.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "28",
+      "order": 28,
+      "question": "Talab qilib olinguncha depozit hisobvaragʻi nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijozlarning birinchi talabi bilanoq beriladigan yoki oʻtkazib beriladigan mablagʻlarning hisobi yuritiladigan hisobvaraq",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Muddati tugashi bilanoq beriladigan mablagʻlarning hisobi yuritiladigan hisobvaraq",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijozlarning talabi bilanoq beriladigan lekin, oʻtkazib berilmaydigan mablagʻlarning hisobi yuritiladigan hisobvaraq",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijozlarga belgilangan foiz toʻlovi toʻlangandan keyin oʻtkazib beriladigan mablagʻlarning hisobi yuritiladigan hisobvaraq",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "29",
+      "order": 29,
+      "question": "Qarz va kredit oʻrtasidagi farq qanday?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kredit faqat bank yoki kredit tashkiloti tomonidan pul mablagʻlari koʻrinishida, qarz esa, yuridik yoki jismoniy shaxslar tomonidan pul yoki turga xos alomatlari bilan belgilangan ashyolar koʻrinishida beriladi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Kredit faqat bank tomonidan pul mablagʻlari koʻrinishida, qarz esa, faqat jismoniy shaxslar tomonidan beriladi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kredit faqat kredit uyushmalari tomonidan naqd pul koʻrinishida beriladigan mablagʻ.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kredit mablagi foiz toʻlash sharti asosida kafil bilan, garov taʼminotisiz taqdim etiladi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "30",
+      "order": 30,
+      "question": "Moliyaviy hisobotning hisobot davri toʻgʻri koʻrsatilgan javobni belgilang.",
+      "options": [
+        {
+          "key": "A",
+          "text": "1-yanvardan 31-dekabrga qadar",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "1-yanvardan 31-iyunga qadar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hisobot yilining choraklik muddatlari.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "1-yanvardan 25-dekabrga qadar",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "31",
+      "order": 31,
+      "question": "Mijozlar bilan ishlashning bosqichlari ko'rsatilgan to'g'ri javobni tanlang.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijozlar bilan ishlashning 5 ta bosqichi mavjud; 1. Muloqotni o'rnatish. 2. Ehtiyojlarni aniqlash. 3. Mahsulot taqdimoti. 4. Kross-sotuv. 5. Muloqotni tugatish.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijozlar bilan ishlashning 5 ta bosqichi mavjud; 1. Muloqotni o'rnatish. 2. mijozga savollar berish. 3. Maslahat berish. 4. Kross-sotuv. 5. Muloqotni tugatish.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijozlar bilan ishlashning 4 ta bosqichi mavjud; 1. Muloqotni o'rnatish. 2. Ehtiyojlarni aniqlash. 3. Maslahat berish. 4. Muloqotni tugatish.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijozlar bilan ishlashning 4 ta bosqichi mavjud; 1. Muloqotni o'rnatish. 2. Ehtiyojlarni aniqlash. 3. Kross-sotuv. 4. Muloqotni tugatish.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "32",
+      "order": 32,
+      "question": "Mijoz bilan muloqot davomida \"iltimos\", \"rahmat\" va \"tashakkur\" so'zlari qanday hollarda ishlatiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijozdan biror narsa qilishni so'raganimizda, biz uning ismini va \"iltimos\" so'zini ishlatamiz, mijozning rad javobini bildiruvchi \"so'rasam bo'ladimi...?\" kabi iboralarni ishlatmang!",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijozdan kredit to'lovlarini o'z vaqtida amalga oshirishini so'raganimizda.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijozdan kirim orderiga imzo qo'yishini so'raganimizda, biz uning ismini va \"iltimos\" so'zini ishlatamiz.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijoz tomonidan bank oldidagi majburiyati bajarilganda \"tashakkur\" va \"iltimos\" so'zini ishlatamiz.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "33",
+      "order": 33,
+      "question": "\"Har doim ijobiy gapiramiz\" iborasi nimani anglatadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Har qanday vaziyatning yaxshi va yomon tomoni bor. Misol uchun --- \"Bizda MasterCard kartalari yo'q\" jumlasi o'rniga, \"Bizda faqat Visa. Sizga qanday maqsadlar uchun karta kerak?\"",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Biz mijoz bilan ziddiyatli vaziyatda ham ijobiy ham salbiy muloqot qilamiz, chunki mijoz doim haq.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Har qanday vaziyatda mijozni qo'llab-quvvatlaymiz va yangi kreditlar haqida ham taqdimot qilamiz.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Har qanday vaziyatda mijozning talablarini bajaramiz.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "34",
+      "order": 34,
+      "question": "\"Biz diplomatik suhbat quramiz\" qoidasi nimani anglatadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijoz bilan suhbat davomida yorqin yoki salbiy his-tuyg'ulardan foydalanmang! Mijoz bilan baland ohangda gaplashmang! Diplomatik suhbat quring! Sizning har qanday his-tuyg'ularingiz noprofessionallik belgisidir.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijoz bilan suhbat davomida yorqin yoki ijobiy his-tuyg'ulardan foydalanmang!",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijoz bilan baland ohangda emas, past ovozda gaplashmang!",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijoz bilan suhbat davomida ijobiy va salbiy harakterni ko'rsating!",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "35",
+      "order": 35,
+      "question": "\"Mijoz har doim haq\" iborasi nimani anglatadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bu shuni anglatadiki, mijoz noto'g'ri bo'lsa ham biz uning aybini ko'rsatmaymiz.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijozning har qanday istaklarini bajarishimiz lozim.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijozning xohishlarini talablarimizdan yuqori qo'yishimiz kerak.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Biz mijozni doimo qo'llab-quvvatlashimiz lozim.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "36",
+      "order": 36,
+      "question": "Mijozga bank mahsulotlari va xizmatlarini taqdimot qilish qanday ko'rinishda bo'lishi kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bank mahsulotlari va xizmatlarini taqdimot qilish taklif ko'rinishda bo'lishi lozim.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Tavsiya ko'rinishda bo'lishi lozim.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Maslahat ko'rinishda bo'lishi lozim.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Nasihat ko'rinishda bo'lishi lozim.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "37",
+      "order": 37,
+      "question": "\"Mijoz moliyaviy savodsiz\" tushunchasi nimani anglatadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Har doim mijozning moliyaviy savodxonligi yetarli emasligiga asoslanib, unga iloji boricha batafsil ma'lumot bering! Mijozga mahsulot haqida sodda va batafsilroq tushuncha bering.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijozning moliyaviy savodxonligi yetarliligiga asoslanib, unga batafsil ma'lumot bering.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijoz vaqti ziq bo'lsa ham batafsil tushuntiring.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijozning savodxonligi yetarli emasligiga asoslanib, bank terminlaridan foydalaning.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "38",
+      "order": 38,
+      "question": "Mijozlarga xizmat ko'rsatish jarayonida hamkasblar bilan shaxsiy mavzularda muloqot qilsa bo'ladimi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Shaxsiy mavzulardagi har qanday suhbatlar \"uy\" muhitini shakllantiradi. Shaxsiy mavzular bo'yicha suhbatlar faqat tushlik tanaffusida va xizmat joyidan tashqarida bo'lishi mumkin.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Shaxsiy mavzular bo'yicha suhbatlar mijozga eshittirmasdan o'tkazilishi mumkin.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Shaxsiy mavzulardagi suhbatlar tartibsizlik muhitini shakllantiradi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bank mahsulotlari bo'yicha suhbatlar tushlik payti o'tkaziladi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "39",
+      "order": 39,
+      "question": "Mijozlar bilan muloqot davomida, maqtov (kompliment) iborasini ishlatish mumkinmi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Maqtov ma'lum kishini mag'lub etishning ajoyib usulidir --- mahsulot sotuvi yomonlashganda, ziddiyatli vaziyatlarda, VIP mijozlar bilan ishlashda qo'llaniladi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Maqtov sotuvi kuchayganda ishlatiladi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Maqtov mijozning shaxsiy hususiyatlarini ta'kidlaydi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Maqtov tashqi ko'rinishga qaratilgan bo'lishi kerak.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "40",
+      "order": 40,
+      "question": "\"Qaynoq sotuv\" tushunchasi nimani anglatadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijoz bankka kelgan bo'lsa, u 70 foiz bank mahsulotini xarid qilishga tayyor holda tashrif buyurgan. \"Qaynoq\" mijozga quyidagi tartibda xizmat ko'rsatiladi: 1. Muloqotni o'rnatish. 2. Ehtiyojlarni aniqlash. 3. Maslahat berish. 4. Kross-sotuv. 5. Muloqotni tugatish.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "100 foiz tayyor bo'lgan mijoz.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Xaridga tayyor bo'lmagan mijoz.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "100 foiz tayyor, lekin 4 bosqichda xizmat ko'rsatiladi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "41",
+      "order": 41,
+      "question": "Ziddiyatli vaziyatlarning kelib chiqish sabablari nimalardan iborat?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xodimlarning qo'polligi; mijozga befarqlik; noto'g'ri ma'lumot; va'dalar bajarilmasligi; takabburlik; mijoz bilan tortishuv; tanbeh; xodim xatosi; jarayon xatosi; navbat; tartibsizlik.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Xodimlarning qo'polligi, lekin iltifot qilish holatlari bilan.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijozga kredit bermaslik.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Faqat foizlar bilan bog'liq muammolar.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "42",
+      "order": 42,
+      "question": "Mijoz o'z muammosini ikki marta tushuntirmasligi kerak qoidasini tushuntirib bering.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Agar mijoz sizga o'z holatini tushuntirgan bo'lsa, lekin siz yordam bera olmasangiz --- mijozni kerakli xodimga olib boring va vaziyatni unga tushuntiring.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijozga o'zi hal qilsin, deb aytamiz.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Boshqa vaqtda kelsin, deymiz.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Faqat yo'naltirib qo'yamiz.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "43",
+      "order": 43,
+      "question": "Takabburlik holatlarini belgilang.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Takabburlik qilish mumkin emas. Bunga quyidagilar kiradi: chaynash; ko'z yumish; mijozga aql o'rgatish; mijoz fikrini bo'lish; \"Sen\" deb murojaat qilish.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ba'zida takabburlik qilish mumkin.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Takabburlik hurmatni oshiradi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "\"Sen\" deb murojaat qilish odatiy hol.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "44",
+      "order": 44,
+      "question": "\"Izohlash (Parafraz)\" texnikasi nima uchun qo'llaniladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijoz bilan muloqot davomida tushunmovchiliklarni bartaraf etish uchun \"Izoh\" texnikasidan foydalanish. Misol: \"Firdavs aka, sizni to'g'ri tushungan bo'lsam, bankimizga omonat qo'ymoqchisiz?\"",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Muammo kelib chiqmasligi uchun ishlatiladi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Foydalanish shart emas.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Salbiy holatlar uchun emas.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "45",
+      "order": 45,
+      "question": "\"Mijozlarga xizmat ko'rsatishdan chalg'ish mumkin emas\" tushunchasi nimani anglatadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha mijozlar birdek muhim! Bir vaqtning o'zida ikkita mijoz bilan muloqot qilinmaydi! Avval bittasini tugatib, keyin boshqasini qabul qilamiz.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bir vaqtning o'zida ikkita mijoz bilan muloqot qilsa bo'ladi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijozning roziligi bilan ikki kishiga xizmat ko'rsatish mumkin.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bitta mijoz tugamasdan boshqasini qabul qilish mumkin.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "46",
+      "order": 46,
+      "question": "Mijoz bilan telefon orqali muloqotda chiquvchi qo'ng'iroqni qanday yakunlash mumkin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Qo'ng'iroq qiluvchi muloqotni tugatadi: \"Firdavs aka, yana savollaringiz bormi? Vaqt ajratganingiz uchun rahmat! Savollaringiz bo'lsa, qo'ng'iroq qiling! Barcha ezgu tilaklarni tilayman!\"",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Yakunida \"Ko'rishguncha!\" deyiladi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "\"Salomat bo'ling\" bilan yakunlanadi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "\"Hayr\" bilan yakunlanadi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "47",
+      "order": 47,
+      "question": "Og'zaki bo'lmagan muloqotning qanday shakllari mavjud?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Imo-ishoralar, yuz ifodalari, muloqot ohangi, harakatlar, iforlar, proksemika (masofa), takesika (qo'l harakati).",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Shu ro'yxat + so'zlar.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Imo-ishoralar, lekin so'z bilan.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mahsulotni so'z bilan ifodalash.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "48",
+      "order": 48,
+      "question": "Agar mijozning mahsulotga nisbatan e'tirozi yoki shubhasi bo'lsa, unga nima deyish kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mahsulotimizning raqobatbardosh afzalliklarini aytib o'tish kerak.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Boshqa banklar bilan taqqoslaymiz.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Raqobatchilarni misol keltiramiz.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Shartlarini qayta aytamiz.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "49",
+      "order": 49,
+      "question": "Bank tarmog'i tashkiliy shakli qanday toifalarga bo'linadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hududiy boshqarma. 1-toifali tarmoq Biznes klass. 2-toifali tarmoq Standart klass. 3-toifali tarmoq Optimum klass.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Hududiy boshqarma. 1-toifali -- Biznes klass. 2-toifali -- Standart klass.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Faqat 2 toifa.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Hududiy boshqarma. 1-toifali Biznes klass. 2-toifali -- Standart.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "50",
+      "order": 50,
+      "question": "1, 2 va 3-toifali tarmoqlar qanday nomlanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1, 2 va 3-toifali tarmoqlar \"Tarmoq nomi\" bank xizmatlari ofisi yoki bank xizmatlari markazi deb nomlanadi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Faqat bank xizmatlari ofisi deb nomlanadi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Faqat bank xizmatlari markazi deb nomlanadi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "1--2-toifali ofis, 3-toifali BXKM deb nomlanadi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "51",
+      "order": 51,
+      "question": "Bank tarmog'i faoliyatini tugatish qanday amalga oshiriladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bank tarmog'i faoliyati Boshqarma va Bankning masʼul tuzilmasi taklif va xulosalariga ko'ra Bank boshqaruvi qaroriga muvofiq tugatiladi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bank tarmog'i faoliyati Bankning masʼul tuzilmasi taklif va xulosalariga ko'ra Bank boshqaruvi qaroriga muvofiq tugatiladi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bank tarmog'i faoliyati Boshqarmaning masʼul tuzilmasi taklif va xulosalariga ko'ra Bank boshqaruvi qaroriga muvofiq tugatiladi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bank tarmog'i faoliyati Boshqarma va Bankning masʼul tuzilmasi xulosalariga ko'ra Bank boshqaruvi qaroriga muvofiq tugatiladi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "52",
+      "order": 52,
+      "question": "Bank tarmog'i faoliyatini tugatish to'g'risidagi qaror qabul qilinganda, qaror ijrosi qachondan kuchga kiradi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bank tarmog'ini tugatish to'g'risida qaror qabul qilingan kundan eʼtiboran, tarmoqni tugatish ishlari Boshqarmada tuzilgan maxsus komissiya tomonidan 10 ish kuni ichida amalga oshiriladi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "15 ish kuni ichida amalga oshiriladi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "20 ish kuni ichida amalga oshiriladi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "14 ish kuni ichida amalga oshiriladi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "53",
+      "order": 53,
+      "question": "Bank tarmog'ini tugatish uchun qanday sabablar bo'lishi mumkin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Binoni buzilishi \"snos\"ga tushganligi, tarmoq norentabelligi, ijarachi tashabbusi bilan shartnoma bekor qilinishi va x.k.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Binoni buzilishi \"snos\"ga tushganligi, bilan bekor qilinishi mumkin.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ijarachi tashabbusi bilan shartnoma bekor qilinishi va x.k.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Binoni buzilishi \"snos\"ga tushganligi, tarmoq norentabelligi bilan bekor qilinishi mumkin.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "54",
+      "order": 54,
+      "question": "Bank tarmog'ining to'liq ta'rifini toping.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yuridik shaxs maqomiga va tugallangan balansga ega bo'lmagan, bank tomonidan berilgan vakolatlar doirasida bank xizmatlarini ko'rsatuvchi alohida tarmoq.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Jismoniy shaxs maqomiga ega bo'lmagan ...",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Yuridik shaxs maqomiga va tugallanmagan balansga ega bo'lmagan ...",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Yuridik shaxs maqomiga va tugallangan balansga ega bo'lgan ...",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "55",
+      "order": 55,
+      "question": "Bank tarmoqlari qaysi me'zonlar bo'yicha toifalanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bank mahsulotlari va xizmat turlari. Mijozlar segmenti.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bank mahsulotlari va xizmat turlari.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijozlar segmenti.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Faqatgina bank mahsulotlari.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "56",
+      "order": 56,
+      "question": "Bankning Ustav kapitali 2025-yildan miqdori qancha deb belgilangan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "500 mlrd",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "300 mlrd",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "400 mlrd",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "200 mlrd",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "57",
+      "order": 57,
+      "question": "Valyuta boyliklariga nimalar kiradi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chet el valyutasi, chet el valyutasidagi qimmatli qog'ozlar, chet el valyutasidagi to'lov hujjatlari va sof quyma oltin valyuta boyliklari hisoblanadi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "to'lov hujjatlari hisoblanadi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "qimmatli qog'ozlar hisoblanadi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "sof quyma oltin valyuta boyliklari hisoblanadi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "58",
+      "order": 58,
+      "question": "Bankomatdan bank kartasi orqali naqd pul olinganda, har bir holat uchun qanday buxgalteriya o'tkazmalari amalga oshiriladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dt 17401 -- ...; Kt 10107 -- Bankomatlardagi naqd pullar.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Dt 17405 -- ...; Kt 10101 -- ...",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Dt 10101 -- ...; Kt 10111 -- ...",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Dt 10709 -- ...; Kt 10103 -- ...",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "59",
+      "order": 59,
+      "question": "Daromad va xarajatlar qaysi davrda hisobga olinadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Daromadlar va xarajatlar, to'langan vaqti va pul kelib tushgan sanadan qatʼiy nazar qaysi davrga taalluqli bo'lsa, o'sha davr hisobotida aks ettiriladi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "yil yakuni davrida.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "choraklik hisobotda.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "yillik davr hisobotida.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "60",
+      "order": 60,
+      "question": "Balansning majburiyatlar qismida nimalar hisobga olinadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijozlarning depozitlari, olingan kreditlar va resurslar hamda ular bo'yicha hisoblangan foizlar, kreditorlik qarzlar.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "zaxira va ustav fondi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "soliq to'lovlari.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "lizing to'lovlari va dividend to'lovlari.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "61",
+      "order": 61,
+      "question": "Balansning kapital qismida nimalar hisobga olinadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ustav kapitali, qo'shimcha kapital, umumiy zaxira fondi, taqsimlanmagan foyda va sof foyda.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "foyda.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "sof foyda va real sof foyda.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Aksiyalar.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "62",
+      "order": 62,
+      "question": "Daromad keltiruvchi aktivlar tarkibini ayting.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Jami kreditlar, banklararo depozitlar, investitsiyalar, qimmatli qog'ozlar.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "investitsiyalar.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "banklararo depozitlar.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "investitsiyalar, qimmatli qog'ozlar.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "63",
+      "order": 63,
+      "question": "Foizsiz xarajatlar tarkibini ayting.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bankning foizsiz xarajatlari -- komission xarajatlar, xorijiy valyutalardagi operatsiyalardan ko'rilgan zararlar, qimmatli qog'ozlarni sotib olish--sotish hisobvaraqlari bo'yicha ko'rilgan zararlar kabilardan iborat.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "omonatga to'langan foizlar.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "ish haqi xarajatlari.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "moliyaviy yordam pullari.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "64",
+      "order": 64,
+      "question": "Bank tahlilining asosiy maqsadi nimada?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bank barqarorligi, likvidligi va foydaliligini ta'minlash hamda qaror qabul qilishda asos yaratish.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "zararni qoplash.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "foydaliligini va zarardaligini ta'minlash.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "faoliyatni yakunlash uchun.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "65",
+      "order": 65,
+      "question": "\"Muzlatilgan aktivlar\" nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Muddati o'tgan yoki qaytmay qolgan kreditlar.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bank balansidagi asosiy vositalar.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Pul omboridagi naqd pullar.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Muddati o'tmagan yoki qaytmay qolgan kreditlar.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "66",
+      "order": 66,
+      "question": "Bank tahlilining asosiy obyektlari nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Aktivlar, passivlar, kapital, likvidlik, foydalilik va xavflar.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "foydalilik va xavflar.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "likvidlik, foydalilik va xavflar.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "kapital, likvidlik.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "67",
+      "order": 67,
+      "question": "Qanday holatda bankning foizsiz daromadlari oshishi mumkin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ijara to'lovlari va xizmat haqlari oshganda.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Omonatga pul jalb qilganda.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kredit stavkasi oshganda.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ish haqi xarajatlari qisqarganda.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "68",
+      "order": 68,
+      "question": "Moliyaviy hisobot shakllari qaysi javobda to'g'ri ko'rsatilgan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Buxgalteriya balansi, Moliyaviy natijalar to'g'risidagi hisobot, Pul oqimlari to'g'risidagi hisobot va Xususiy kapital to'g'risidagi hisobot.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "solishtirma dalolatnoma.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "monitoring dalolatnoma.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "1-T.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "69",
+      "order": 69,
+      "question": "Bankning kredit berish majburiyati hisobi qanday yuritiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Debet: 91809 -- Bankning kredit va lizing berish majburiyati. Kredit: 96351 -- Bankning kredit va lizing berish majburiyati bo'yicha kontr-h/v.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Debet: 56809 -- ...",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Debet: 15501 -- ...",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Debet: 16309 -- ...",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "70",
+      "order": 70,
+      "question": "Amaldagi qonunchilikka muvofiq tijorat banklari qaysi faoliyat turlari bilan shug'ullanishi taqiqlangan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Banklar ishlab chiqarish, savdo, sug'urta faoliyati bilan shug'ullanishi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "kredit amaliyotlari, savdo.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "ishlab chiqarish, sug'urta.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "ishlab chiqarish, savdo, qurilish.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "71",
+      "order": 71,
+      "question": "\"Shikoyat\" so'zidan voz keching qoidasi nimani anglatadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "\"Shikoyat\", \"Muammo\", \"Daʼvo\" so'zlari salbiy bo'lib, salbiy munosabatni keltirib chiqaradi. Hech bir mijoz o'zini \"shikoyatchi\" kabi his qilishni xohlamaydi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "\"Shikoyat\", \"Ariza\", \"Daʼvo\" ...",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "\"Eʼtiroz\", \"Taklif\", \"Daʼvo\" ...",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "\"Shikoyat\", \"Maslahat\", \"Daʼvo\" ...",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "72",
+      "order": 72,
+      "question": "\"DIPLOMATIYA\" qoidasi nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ziddiyatlarni hal qilishning asosiy qoidasi -- mijoz beradigan savollardan qatʼiy nazar, u bilan xotirjam suhbat qurish. Har qanday his-tuyg'u salbiy ta'sir ko'rsatishi mumkin. Ijobiy iboralarni ishlating, so'zlarni faktlar bilan tasdiqlang, his-tuyg'ulardan xoli bo'ling, mijozni tinglang.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "kelib chiqishining asosiy qoidasi ...",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "asabiy suhbat qurish ...",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "unga e'tirozingizni bildiring.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "73",
+      "order": 73,
+      "question": "Mijozlar bilan mavhum mavzularda suhbatlashsa bo'ladimi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mavhum mavzular bo'yicha suhbat bank mahsulotlari va xizmatlari, o'zaro savdo, ziddiyatli vaziyatlarda, VIP mijozlar bilan ishlashda qo'llaniladi. Biz suhbatni faqat ruxsat etilgan mavzularda olib boramiz: ob-havo, yangiliklar, bayramlar, bank mahsulotlari, aksiyalar va maxsus takliflar.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "mijozning oilasi ...",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "salbiy mavzular ...",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "mijozning shaxsiy hayoti haqida.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "74",
+      "order": 74,
+      "question": "Ziddiyatli vaziyatlarda bank tomonidan amalga oshiriladigan kutilgan harakatlar nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kutilgan harakatlar vaziyat yechimi uchun amalga oshiriladi: mijozning muammosiga e'tibor berish, bank nomidan uzr so'rash, muammoni hal qilish, zararni qoplash, kelajakda shunga o'xshash holatlarning oldini olish.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "rahmat aytish ...",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "choy, kofe taklif qilish ...",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "faqat zararni qoplash.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "75",
+      "order": 75,
+      "question": "Sovuq sotuv nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sovuq sotuv -- bu sotib olishni o'ylamagan yoki rejalashtirmagan mijozlarga mahsulot va xizmatlarni sotish. Sovuq sotuvda 8 bosqich mavjud: 1. Muloqot o'rnatish 2. Mavhum mavzular bo'yicha suhbat 3. Bank haqida ma'lumot 4. Mavjud mahsulot va xizmatlar haqida savollar 5. Ehtiyojni shakllantirish 6. Mahsulot va xizmat taqdimoti 7. Imtiyozlar haqida savollar 8. Muloqotni yakunlash",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "5 bosqich ...",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "7 bosqich ...",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "qisqartirilgan 5 bosqich ...",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "76",
+      "order": 76,
+      "question": "Sotuv shakllari koʻrsatilgan toʻgʻri javobni belgilang",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sotuv shakllari quyidagilardan iboratdir: 1. Salbiy -- Sotuvning ehtimoliy darajasi nihoyatda past; 2. Mavhum -- Sotuvning ehtimoliy darajasi past; 3. Muqobil -- Sotuvning ehtimoliy darajasi oʻrtacha; 4. Muqobil boʻlmagan -- Sotuvning ehtimoliy darajasi yuqori.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Sotuv shakllari quyidagilardan iboratdir: 1. Salbiy -- Sotuvning ehtimoliy darajasi nihoyatda past; 2. Mavhum -- Sotuvning ehtimoliy darajasi past; 3. Muqobil -- Sotuvning ehtimoliy darajasi oʻrtacha;",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijoz bilan munosabat har doim birinchi qoʻl berib salomlashishdan boshlanadi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijoz bilan munosabat har doim birinchi ogʻzaki salomlashishdan boshlanadi (Assalomu aleykuz, hush kelibsiz).",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "77",
+      "order": 77,
+      "question": "Mijozlar bilan norasmiy suhbat davomida taʼqiqlangan mavzularni tanlang",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijozlar bilan norasmiy suhbatlarda quyidagi mavzularda muloqot qilish taʼqiqlanadi: mijozning tashqi koʻrinishi va buyumlari; salomatlik; turmush oʻrtogʻi; bolalari; ish haqi; ish; dam olish; sport (agar qarashlar boshqacha boʻlsa); din.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "ob havo",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "ijobiy yangiliklar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "ish haqi, bayramlar",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "78",
+      "order": 78,
+      "question": "Mijozning shikoyati bilan ishlashda kutilmagan harakatlar nima uchun kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kutilmagan harakatlar -- sodiq mijozlar sonini oshiradi: mijozga minnatdorchilik bildirish, choy yoki qahva taklif qilish, navbatsiz xizmat koʻrsatish, sovgʻa yoki suvenir berish, bank mahsulotlari yoki xizmatlariga chegirmalar taqdim qilish.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "bank nomidan uzr soʻrash.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "doimiy chegirmalar taqdim qilish.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "sovgʻa yoki suvenir berish.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "79",
+      "order": 79,
+      "question": "Agar mijoz filial xodimining qoʻpolligidan shikoyat qilsa, unga nima deyish kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "\"Xodimimizning ishi uchun sizdan uzr soʻrayman. Xodim qoʻshimcha taʻlim olishi uchun men maʻlumotni boshqaruvchiga yuboraman. Bu haqda bizga xabar berganingiz uchun tashakkur. Ehtimol, men sizning savolingizga yordam bera olaman?\"",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "mehnat shartnomasini bekor qilinadi...",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "jarima qoʻllaniladi...",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "bonusidan kamaytirib jazolaymiz...",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "80",
+      "order": 80,
+      "question": "Mijoz soʻraydi: \"Men hech qayerda ishlamayman, lekin menga qarz kerak\". Mijozga nima deyish kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "\"Afsuski, kredit faqat ishlaydigan mijozga berilishi mumkin. Ehtimol, turmush oʻrtogʻingiz, farzandlaringiz va ota-onangiz sizning oilangizda ishlaydi. Ular kredit olish uchun murojaat qilishlari mumkin. Kredit shartlari haqida batafsil aytib beraymi?\"",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "doʻstlaringiz...",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "kechirasiz...",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "ishlamaydigan mijozga...",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "81",
+      "order": 81,
+      "question": "\"Biznesni rivojlantirish banki\" ATBda qaysi meʼyoriy hujjatlarga asosan bank tarmoqlari ochiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3252-sonli nizom hamda 27-sonli tartibiga asosan.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "3029 va 97-sonli...",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "3028 va 27-sonli...",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "3620 va 29-sonli...",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "82",
+      "order": 82,
+      "question": "Bank tarmogʻining taʼmirlash jarayonida qaysi talablar mavjud?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tarmoqlarni taʼmirlash bilan bogʻliq xarajatlar moliyalashtirilishidan oldin noturar joy egasi bilan kamida 3 yil muddatga ijara shartnomasi rasmiylashtirilishi lozim.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "1 yil...",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "2 yil...",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "6 oy...",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "83",
+      "order": 83,
+      "question": "Moliyaviy hisobotlarning tarkibi nimalardan iborat?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Buxgalteriya balansi, moliyaviy natijalar toʻgʻrisida hisobot, pul oqimlari toʻgʻrisida hisobot, xususiy kapital toʻgʻrisida hisobot, izohlar hisob-kitoblar va tushuntirishlar.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Buxgalteriya balansi, moliyaviy natijalar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Faqat buxgalteriya balansi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Pul oqimlari hisoboti",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "84",
+      "order": 84,
+      "question": "Aktivlarning rentabelligi koʻrsatkichi nimani anglatadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mazkur koʻrsatkich orqali mablagʻlar manbasidan qatʼiy nazar, aktivlarning 1 soʻm qiymatiga qancha foyda toʻgʻri kelishini koʻrsatadi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "0 soʻm...",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "hajmiga...",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "passivlarning...",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "85",
+      "order": 85,
+      "question": "Aktivlarning rentabelligi (ROA) qanday aniqlanadi va meʼyorning quyi chegarasi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "ROA = Sof foyda / Jami aktivlar, 2%.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "3%",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "5%",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "1%",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "86",
+      "order": 86,
+      "question": "Kapital rentabelligi (ROE) qanday aniqlanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "ROE = Sof foyda / Kapital.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "foyda/Kapital",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Sof foyda/Aktivlar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Sof foyda/Kapital va aktivlar",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "87",
+      "order": 87,
+      "question": "CIR (biznes samaradorligi) indeksi qanday aniqlanadi va meʼyorning yuqori chegarasi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "CIR = Amaliyot xarajatlari / ((Foizli daromad - foizli xarajat) + (Foizsiz daromad - foizsiz xarajat)), 50%.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "40%",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "100%",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "55%",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "88",
+      "order": 88,
+      "question": "Sof foizli marja qanday aniqlanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "SFM = Sof foizli daromad / Daromad keltiruvchi aktivlar.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "/ keltiruvchi aktivlar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Daromad keltiruvchi aktivlar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "foizli daromad / Daromad keltiruvchi aktivlar",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "89",
+      "order": 89,
+      "question": "Bankning kunlik balansi qanday tekshiriladi va kimlar tomonidan imzolanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Balansni tekshirishda -- aktiv va passivlarning qoldiqlar boʻyicha yakunlari tengligi, kontr-hisobvaraqlar muvofiqligi tekshiriladi va bank rahbari hamda bosh buxgalteri tomonidan imzolanadi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "kassa mudiri...",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "faqat rahbari...",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "boshqa xodimlar...",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "90",
+      "order": 90,
+      "question": "Sof foyda (net profit) koʻrsatkichi qaysi javobda toʻgʻri aniqlangan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bankning daromadlaridan xarajatlarni ajratish orqali hisoblanadi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "va ish haqi...",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "kapital xarajatlar...",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "foizsiz daromadlar...",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "91",
+      "order": 91,
+      "question": "Agar bankning \"capital adequacy ratio\" (CAR) yuqori boʻlsa, bu qanday holatni anglatadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bankning moliyaviy holati mustahkam.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "majburiyati yoʻqligi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "zararda faoliyat...",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "majburiyati oshgan...",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "92",
+      "order": 92,
+      "question": "Daromadlilik darajasi koeffitsiyenti koʻrsatkichi qanday hisoblanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Jami daromadlar / Jami aktivlar.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "/ jami xarajatlar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "/ jami kapital",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "va qisman aktivlar",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "93",
+      "order": 93,
+      "question": "Boʻlib-boʻlib toʻlash sharti bilan sotilgan bankning boshqa mulklari hisobi balansning qaysi hisobvaragʻida yuritiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "16707",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "16309",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "12505",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "14901",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "94",
+      "order": 94,
+      "question": "Nominal daromad va real daromad farqi nimada?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Real daromad inflyatsiyani hisobga olgan holda hisoblanadi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Real foyda...",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Real sof foyda...",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "harajatlarni...",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "95",
+      "order": 95,
+      "question": "Likvidlikni boshqarish usuli?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Aktiv va passivlarni moslashtirish, qoʻshimcha resurslarni jalb qilish.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "foydaga chiqish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "jalb qilish orqali",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "kredit ajratish orqali",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "96",
+      "order": 96,
+      "question": "Qaysi hollarda mijozning bank hisobvaragʻi boʻyicha operatsiyalar toʻxtatib qoʻyiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Oʻz arizasiga asosan, sud ajrimiga koʻra, soliq organlari tomonidan, majburiy ijro organlari tomonidan, ichki nazorat qoidalariga koʻra.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "ichki nazorat...",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "soliq...",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "arizasiga asosan...",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "97",
+      "order": 97,
+      "question": "Qayta sanash vaqtida kassada kamomad aniqlanganda qanday buxgalteriya oʻtkazmasi beriladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dt 19935 -- Naqd pullarni qayta hisoblashda aniqlangan kamomad; Kt 10101 -- Kassadagi naqd pul va boshqa toʻlov hujjatlari",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Dt 19934...",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Dt 10101...",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Dt 17401...",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "98",
+      "order": 98,
+      "question": "Daromad keltiruvchi aktivlar tarkibini koʻrsating",
+      "options": [
+        {
+          "key": "A",
+          "text": "Jami kreditlar, banklararo depozitlar, investitsiyalar, qimmatli qogʻozlar.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "investitsiyalar...",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "investitsiyalar, qimmatli qogʻozlar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "banklararo depozitlar...",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "99",
+      "order": 99,
+      "question": "Nomoddiy aktivlarga taʼrif bering",
+      "options": [
+        {
+          "key": "A",
+          "text": "Moddiy-ashyoviy mazmunga ega boʻlmagan identifikatsiyalanadigan mol-mulk obyektlari.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "ega boʻlgan...",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "identifikatsiyalanmaydigan...",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "mol-mulk obyektlari",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "100",
+      "order": 100,
+      "question": "Depozit portfeli tahlili nima uchun muhim?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bankning barqaror resurs bazasini baholash uchun.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "aniqlash uchun",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "sof foydani aniqlash uchun",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "moddiy bazasini baholash uchun",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "101",
+      "order": 101,
+      "question": "Qanday hollarda mijozdan kechirim soʻrash kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Agar mijoz hamkasbingiz qoʻpolligidan shikoyat qilsa, Agar mijozga 2 daqiqa ichida aniqlik kiritishga vaʻda berilgan boʻlsa, lekin aniqlik kiritish uchun 5 daqiqa ketgan boʻlsa",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Agar mijoz hamkasbingiz qoʻpolligidan shikoyat qilsa, Agar mijozga 2 daqiqa ichida aniqlik kiritishga vaʻda berilgan boʻlsa va 2 daqiqa aniqlik kiritsa",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hamkasbingizning qoʻpolligidan shikoyat qilsa hamda bankdagi mavjud boʻlmagan mahsulotlar uchun",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Hamkasbingizning qoʻpolligidan shikoyat qilsa hamda elektron navbat ishlamayotgan boʻlsa",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "102",
+      "order": 102,
+      "question": "Eng yaxshi hid nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hech qanday hidning yoʻqligi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Qimmatbaho parfumning hidi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Front ofisdagi hid taratuvchi hidi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Dezodarant va gullar ifori",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "103",
+      "order": 103,
+      "question": "Bankda mijoz soni va tartibsizliklar yuzaga kelsa kim nazorat qiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tartibsizlik, navbatlar va tozalikni resepshn xodimi nazorat qiladi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Tartibsizlik, navbatlar va tozalikni farrosh xodimi nazorat qiladi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tartibsizlik, navbatlar va tozalikni barcha xodimlar nazorat qiladi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tartibsizlik, navbatlar va tozalikni rahbar oʻrinbosari nazorat qiladi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "104",
+      "order": 104,
+      "question": "Mijoz sudga murojaat qilishini aytdi. Ushbu holatda unga nima deysiz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "\"Alisher aka, agar bank yoki uning xodimining harakatini qonunga xilof deb hisoblasangiz, sudga murojaat qilishga haqlisiz\"",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "\"Alisher aka, siz bizning ustimizdan shikoyat qilavering biz aybdor emasmiz\"",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "\"Alisher aka, siz shikoyat qilishga haqlisiz, biz mutlaqo haqmiz\"",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "\"Alisher aka, siz ustimizdan arz qilishga haqlisiz, biz barbr yutib chiqamiz\"",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "105",
+      "order": 105,
+      "question": "Agar mijozning mahsulotga nisbatan eʻtirozlari yoki shubhalari boʻlsa, unga nima deyish kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mahsulotning raqobatchilar orasidagi afzalliklarini aytib oʻtish kerak",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mahsulot haqida yana bir bor toʻliq tanishtiring",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Boshqa banklar bilan taqqoslaymiz",
+          "correct": false
+        },
+        {
+          "text": "(Soʻndirilmagan kredit qoldigʻi x foiz stavkasi x amaldagi kunlar soni)/31",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "(Soʻndirilmagan kredit qoldigʻi x foiz stavkasi x amaldagi kunlar soni/12 oy)/365",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "106",
+      "order": 106,
+      "question": "Nima uchun mijozning shikoyati bilan ishlashda kutilmagan harakatlar kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijozni bankga sodiq qilish uchun",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijozni bankda olib qolish uchun",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijoz bilan ziddiyatli vaziyat kelib chiqmasligi uchun",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijozni heytr mijozga aylantirmaslik uchun",
+          "correct": false
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "id": "107",
+      "order": 107,
+      "question": "Ogʻzaki muloqot nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bu maʻlumotni soʻzlar bilan yetkazishdir",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bu maʻlumotni imo-ishoralar, qoʻl harakatlari bilan yetkazishdir",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bu maʻlumotni takesika, proksemika va mimikalar bilan yetkazishdir",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bu maʻlumotni soʻzlar va yuz ifodalari bilan yetkazishdir",
+          "correct": false
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "id": "108",
+      "order": 108,
+      "question": "Suhbat jarayonida xodim va mijoz oʻrtasida ruxsat etilgan minimal masofa qancha?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ijtimoiy masofa 120 sm boʻlishi lozim",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ijtimoiy masofa 150 sm boʻlishi lozim",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ijtimoiy masofa 100 sm boʻlishi lozim",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ijtimoiy masofa 90 sm boʻlishi lozim",
+          "correct": false
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "id": "109",
+      "order": 109,
+      "question": "Mijoz xatoga yoʻl qoʻygan xodimni jazolashni talab qiladi. Ushbu holatda mijozga nima deyish kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "“Alisher aka, xodimga nisbatan Oʻzbekiston Respublikasi Mehnat kodeksida nazarda tutilgan maʻmuriy choralar qoʻllaniladi”",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "“Alisher aka, xodimga nisbatan Oʻzbekiston Respublikasi Mehnat kodeksida nazarda tutilgan maʻmuriy chora Hayfsan qoʻllaniladi”",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "“Alisher aka, xodimga nisbatan jarima qoʻllab mehnat shartnomasini bekor qilamiz”",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "“Alisher aka, xodimga nisbatan Oʻzbekiston Respublikasi Mehnat kodeksida nazarda tutilgan maʻmuriy choralar qoʻllaniladi” hamda bonusdan mahrum qilinadi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "id": "110",
+      "order": 110,
+      "question": "Ish joyida ovqatlanish yoki suyuqlik ichish mumkinmi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ish joyida suyuqlik (jumladan suv ham) ichish va ovqatlanish taqiqlanadi!",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ish joyida suyuqlik ichish va ovqatlanish mumkin faqat mijoz yoʻq vaqtda",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ish joyida suyuqlik ichish va ovqatlanish mumkin faqat tushlik vaqtida",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ish joyida faqatgina suyuqlik ichishga ruhsat etiladi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "id": "111",
+      "order": 111,
+      "question": "Nima uchun ziddiyatlar kelib chiqadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijoz kutganidek natija boʻlmasa",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bankda navbatlar soni koʻp boʻlsa",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bankda mijoz hohlagan mahsulot mavjud boʻlmasa",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijoz hohlagan xizmatlar va mahsulotlar boʻlmasa",
+          "correct": false
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "id": "112",
+      "order": 112,
+      "question": "Ziddiyatlar bizga nima beradi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Biznes jarayonlar, mahsulotlar va texnologiyalarimizni yaxshilashga imkon beradigan bebaho fikr-mulohazalarni olamiz",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bank va bank mahsulotlariga oʻzgartirishlar kiritishga va yaxshilashga imkon beradi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Texnologiyalarimizni yaxshilashga va oʻz ustimizda ishlashga imkon beradi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijoz shikoyatlari bilan ishlashni oʻrganishga imkon beradi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "id": "113",
+      "order": 113,
+      "question": "Mijoz ismini qisqartirib murojaat qilsa boʻladimi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijoz ismini qisqartirish yoki hato aytish mumkin emas",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijoz ismini qisqartib aytish mumkin",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Agar mijoz ruxsat bersa qisqartirish mumkin",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijoz ismini qisqartirish yoki szi formatidan foydalanish mumkin",
+          "correct": false
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "id": "114",
+      "order": 114,
+      "question": "Agar mijozning savoliga javobni bilmasangiz, nima deysiz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Men bu savolga hozir aniqlik kiritaman",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Men buni bilmayman",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Men mutaxassis emasman",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Men buni aniqlashlarini aytaman",
+          "correct": false
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "id": "115",
+      "order": 115,
+      "question": "Qanday hollarda mijozga eʻtiroz bildirishingiz mumkin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijoz sizni haqorat qilsa va kamsitsa",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijoz bank va bank mahsulotlarimizdan norozi boʻlsa",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijoz bizning xizmatlarimizdan qoniqmasa",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijoz ustimizdan shikoyat qilishi haqida aytsa",
+          "correct": false
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "id": "116",
+      "order": 116,
+      "question": "Agar bank xodimi mijozga qoʻngʻiroq qilgan boʻlsa, uni kim yakunlashi kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xodim yakunlaydi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijoz yakunlaydi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Vaziyatga qarab yakunlanadi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijozdan ruhsat soʻragan holda xodim yakunlaydi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "id": "117",
+      "order": 117,
+      "question": "Telefonda mijoz bilan muloqot qilishda tabassum qilish kerakmi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ha, tabassum qilinadi, mijoz buni his qiladi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Yoʻq, tabassum qilinmaydi, chunki mijoz buni koʻrmaydi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ha, tabassum qilinadi faqatgina mijoz bilan salomlashayotganda",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Yoʻq, tabassum qilinmaydi, mijoz buni his qilmaydi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "id": "118",
+      "order": 118,
+      "question": "Telefon goʻshagini nechta gudokgacha koʻtarish kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3 ta chaqiriqqacha koʻtarish kerak",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "5 ta chaqiriqqacha koʻtarish kerak",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "2 ta chaqiriqqacha koʻtarish kerak",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "6 ta chaqiriqqacha koʻtarish kerak",
+          "correct": false
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "id": "119",
+      "order": 119,
+      "question": "Telefonda muloqot qilganda kross-sotuvni amalga oshirsa boʻladimi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Telefonda muloqot qilganda kross-sotuvni amalga oshirish mumkin emas",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Telefonda muloqot qilganda kross-sotuvni amalga oshirish mumkin",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Telefonda muloqot qilganda kross-sotuvni amalga oshirish mumkin faqat mijozdan ruhsat soʻragan holda",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Telefonda muloqot qilganda kross-sotuvni amalga oshirish mumkin emas, telefon orqali faqat mijoz savollariga javob berish mumkin",
+          "correct": false
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "id": "120",
+      "order": 120,
+      "question": "Ayol mijoz bilan qoʻl berib salomlashish mumkinmi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ayol mijoz birinchi boʻlib qoʻl uzatsa mumkin",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ayol mijozlar bilan ham qoʻl berib soʻrashish kerak, hurmat yuzasidan",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ayol mijoz bilan qoʻl berib soʻrashish qatiyan taqiqlanadi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ayol mijozlar bilan qoʻl berib soʻrashish mumkin, mijozdan ruhsat soʻragan holda",
+          "correct": false
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "id": "121",
+      "order": 121,
+      "question": "Xodim ish joyida oʻzini tartibga solsa boʻladimi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ish joyida oʻzini tartibga solish mumkin emas, faqat mijoz koʻzi tushmaydigan tegishli hududlardagina",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Xodim ish joyida oʻzini tartibga solish mumkin emas, bu parazit harakat hisoblanadi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Xodim ish joyida oʻzini tartibga solish mumkin, bu unga qulaylik yaratadi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Xodim ish joyida oʻzini tartibga solish mumkin, mijoz boʻlmagan vaqtda",
+          "correct": false
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "id": "122",
+      "order": 122,
+      "question": "Kross-sotuvni nechtagacha amalga oshirish mumkin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kross-sotuvni ikkitagacha amalga oshirish mumkin",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Kross-sotuvni uchtagacha amalga oshirish mumkin",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kross-sotuvni toʻrttagacha amalga oshirish mumkin",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kross-sotuvni mijoz ehtiyojidan kelib chiqqan holda hohlagancha amalga oshirish mumkin",
+          "correct": false
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "id": "123",
+      "order": 123,
+      "question": "Universal kassa kassiri mijoz ismini necha marotabagacha ishlatsa boʻladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3 tagacha",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "1 tagacha",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "5 tagacha",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "2 tagacha",
+          "correct": false
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "id": "124",
+      "order": 124,
+      "question": "Resepshn xodimi yoʻq vaqtida uning oʻrnini bosuvchi kimlar boʻlishi mumkin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Oʻrindosh shaxs",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Boshqa xodim turishga ruhsat etilmaydi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Milliy gvardiya xodimi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ish oʻrganuvchi xodimlar",
+          "correct": false
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "id": "125",
+      "order": 125,
+      "question": "Mijoz bilan telefonda muloqot qilganda jumlalar qancha soʻzdan oshmaslik kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "15 ta",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "10 ta",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "20 ta",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "13 ta",
+          "correct": false
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "id": "126",
+      "order": 126,
+      "question": "Agar jamoa aʼzosi topshiriqni bajarmasa unda kim aybdor?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rahbar aybdor",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Jamoa aybdor",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Jamoa aʼzosi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Jamoa va jamoa aʼzosi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A"
+    },
+    {
+      "id": "127",
+      "order": 127,
+      "question": "Agar jamoa aʼzosi butun jamoa uchun natijaga erishsa bu kimning xizmati?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ushbu loyiha jamoasi va loyihani amalga oshirgan xodim",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ushbu loyiha jamoasining xizmati",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ushbu loyihani amalga oshirgan xodimning xizmati",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Jamoa rahbarining xizmati",
+          "correct": false
+        }
+      ],
+      "answerKey": "A"
+    }
+  ]
+}

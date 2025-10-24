@@ -1,5 +1,7 @@
-import { Button, Center, Container, Flex } from "@mantine/core";
+import { Button, Center, Container, Flex, Text } from "@mantine/core";
 import { Link } from "react-router-dom";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faCopyright } from "@fortawesome/free-regular-svg-icons/faCopyright";
 
 const Home = () => {
   return (
@@ -14,6 +16,10 @@ const Home = () => {
             </Center>
           </Link>
         ))}
+        <Text fz={14} style={{ position: "absolute", bottom: 10 }}>
+          <FontAwesomeIcon icon={faCopyright} size="xs" /> Innovatsion va raqamli texnologiyalari
+          departamenti
+        </Text>
       </Flex>
     </Container>
   );
@@ -27,6 +33,8 @@ const LINKS = [
   { label: "Strategiya", to: "strategiya" },
   { label: "Axborot xizmati", to: "axborot" },
   { label: "Yuridik departament", to: "yuridik" },
+  { label: "Fil set", to: "fil" },
+  { label: "Komplens", to: "komplens" },
   { label: "Tasodifiy 50 ta", to: "random" },
   // { label: "Dev mode", to: "testing" },
 ];
