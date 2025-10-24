@@ -23,8 +23,8 @@ const Test = () => {
       setTimeout(() => {
         nextCard.scrollIntoView({
           behavior: "smooth",
-          block: "end",
-          inline: "nearest",
+          block: "nearest",
+          inline: "end",
         });
       }, 100);
     }
