@@ -2471,17 +2471,17 @@
     {
       "id": "86",
       "order": 86,
-      "question": "Qiyin daraja“OAV erkindir va senzura taqiqlanadi” degan qoida Konstitutsiyaning qaysi moddasida belgilangan?",
+      "question": "“OAV erkindir va senzura taqiqlanadi” degan qoida Konstitutsiyaning qaysi moddasida belgilangan?",
       "options": [
         {
           "key": "A",
           "text": "67-modda",
-          "correct": false
+          "correct": true
         },
         {
           "key": "B",
           "text": "63-modda",
-          "correct": true
+          "correct": false
         },
         {
           "key": "C",
