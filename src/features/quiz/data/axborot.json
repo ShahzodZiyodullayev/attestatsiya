@@ -79,12 +79,12 @@
         {
           "key": "C",
           "text": "Jamoatchilik bilan aloqalar",
-          "correct": true
+          "correct": false
         },
         {
           "key": "D",
           "text": "Barchasi toʻgʻri",
-          "correct": false
+          "correct": true
         }
       ],
       "answerKey": "C",
@@ -1548,7 +1548,7 @@
         {
           "key": "A",
           "text": "Monitoring",
-          "correct": false
+          "correct": true
         },
         {
           "key": "B",
@@ -1563,7 +1563,7 @@
         {
           "key": "D",
           "text": "Qiyoslash",
-          "correct": true
+          "correct": false
         }
       ],
       "answerKey": "D",
