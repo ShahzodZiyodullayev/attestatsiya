@@ -66,8 +66,20 @@ export default function UploadTestPage() {
   };
 
   return (
-    <Container size="lg" p="lg">
-      <Title order={2}>Test upload &rarr; JSON parser</Title>
+    <Container
+      size="lg"
+      p="lg"
+      mih="100vh"
+      style={{
+        display: "flex",
+        flexDirection: "column",
+        justifyContent: "center",
+        alignItems: "center",
+        transition: "all 400ms ease-in-out",
+      }}>
+      <Title order={2} mb={20}>
+        Test upload &rarr; JSON parser
+      </Title>
 
       <Card withBorder radius="lg" shadow="sm" p="lg">
         <Stack>
@@ -80,7 +92,6 @@ export default function UploadTestPage() {
             accept=".docx"
             clearable
           />
-
           <Group>
             <Button
               leftSection={<FontAwesomeIcon icon={faInfoCircle} />}

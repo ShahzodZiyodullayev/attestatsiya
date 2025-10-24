@@ -6,7 +6,7 @@ import classes from "@/pages/test/ui/tests.module.pcss";
 import { TestCardOptions } from "@/shared/test-card";
 import { setResult } from "@/entities/result/model";
 
-const TestCard = forwardRef<HTMLInputElement, { test: any; onOptionSelect: any }>(
+const TestCard = forwardRef<HTMLDivElement, { test: any; onOptionSelect: any }>(
   ({ test, onOptionSelect }, ref) => {
     const [value, setValue] = useState<string | null>(null);
     const [correctOption, setCorrectOption] = useState<boolean | null>(null);

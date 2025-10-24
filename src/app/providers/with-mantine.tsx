@@ -8,7 +8,7 @@ import { emotionTransform, MantineEmotionProvider } from "@mantine/emotion";
 
 export const withMantine = (component: ComponentType) => () => {
   const theme = createTheme({
-    fontFamily: "Manrope, serif",
+    fontFamily: "Monospace, serif",
     components: {
       List: List.extend({
         styles: () => ({

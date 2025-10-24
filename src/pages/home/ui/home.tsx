@@ -8,7 +8,7 @@ const Home = () => {
         {LINKS.map(({ label, to }) => (
           <Link to={to} style={{ width: 300 }}>
             <Center>
-              <Button fullWidth maw={300}>
+              <Button fullWidth maw={300} color="dark">
                 {label}
               </Button>
             </Center>
@@ -22,10 +22,11 @@ const Home = () => {
 export default Home;
 
 const LINKS = [
-  { label: "IT", to: "it" },
-  { label: "Raqamli", to: "raqamli" },
-  { label: "Karta", to: "karta" },
+  { label: "Raqamli texnologiyalar", to: "raqamli" },
+  { label: "Ijro", to: "ijro" },
   { label: "Strategiya", to: "strategiya" },
-  { label: "Test", to: "test" },
-  { label: "Dev mode", to: "testing" },
+  { label: "Axborot xizmati", to: "axborot" },
+  { label: "Yuridik departament", to: "yuridik" },
+  { label: "Tasodifiy 50 ta", to: "random" },
+  // { label: "Dev mode", to: "testing" },
 ];

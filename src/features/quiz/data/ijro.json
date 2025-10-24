@@ -1,0 +1,2907 @@
+{
+  "title": "Ijro Test (fixed parser 2)",
+  "sourceFileName": "Ijro Test.docx",
+  "count": 100,
+  "items": [
+    {
+      "id": "1",
+      "order": 1,
+      "question": "Bank boshqaruv organlari qaysilar hisoblanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Aktsiyadorlar umumiy yig‘ilishi, Kuzatuv kengashi, Boshqaruv",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Aktsiyadorlar umumiy yig‘ilishi, kuzatuv kengashi, boshqaruv raisi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kuzatuv kengashi, boshqaruv, bank tarkibiy tuzilmalari",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "2",
+      "order": 2,
+      "question": "Bank boshqaruvi a’zolari necha kishidan iborat bo‘lishi kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "7 ta",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "6 ta",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "8 ta",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Cheklov yo‘q",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "3",
+      "order": 3,
+      "question": "Bank kredit siyosati kim tomonidan tasdiqlanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bank Kuzatuv kengashi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Kredit qo‘mitasi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bank boshqaruvi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bank aktsiyadorlari",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "4",
+      "order": 4,
+      "question": "Markaziy bank raisi necha yil muddatga saylanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 yil",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "4 yil",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "3 yil",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "2 yil",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "5",
+      "order": 5,
+      "question": "Jismoniy va yuridik shaxslarning murojaatlari qo‘yilgan masalalarni hal etish vakolat doirasiga kirmaydigan davlat organiga yuborilgan taqdirda necha kunlik muddat ichida tegishli organlarga jo‘natiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 kunlik",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "3 kunlik muddatda",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "4 kunlik",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "6 kunlik",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "6",
+      "order": 6,
+      "question": "Qo‘shimcha o‘rganishni talab qilmaydigan murojaatlar necha kunlik muddat ichida ko‘rib chiqilishi lozim?",
+      "options": [
+        {
+          "key": "A",
+          "text": "15 kunlik",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "5 kunlik",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "10 kunlik",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "20 kunlik",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "7",
+      "order": 7,
+      "question": "Murojaatlarga javoblar qaysi tilda bayon etilishi kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Murojaatlarga javoblar mumkin qadar murojaat etilgan tilda bayon qilinadi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Murojaatlarga javoblar davlat tilida bayon etilishi kerak",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Murojaatlarga javoblar o‘zbek va rus tillarida bayon etilishi kerak",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Murojaatlarga javoblar o‘zbek va qoraqalpoq tillarida bayon etilishi kerak",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "8",
+      "order": 8,
+      "question": "Anonim murojaatlar deganda nimani tushunasiz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Fuqaro murojaatida muallifning familiyasi (ismi, otasining ismi) mavjud emasligi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Fuqaro murojaatida muallifning yashash joyi to‘g‘risidagi ma’lumotlar ko‘rsatilmaganligi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Fuqaro murojaatida muallifning shaxsiga tegishli ma’lumotlarning soxta ko‘rsatilganligi, shuningdek imzo qo‘yilmaganligi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "9",
+      "order": 9,
+      "question": "Murojaatlar qanday turlarga bo‘linadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Murojaatlar arizalar, takliflar va shikoyatlar tarzida bo‘lishi mumkin",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ariza va shikoyat",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Shikoyat va taklif",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Yozma va elektron",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "10",
+      "order": 10,
+      "question": "Murojaatlar qanday shakllarda bo‘ladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Murojaatlar og‘zaki, yozma yoxud elektron shaklda bo‘lishi mumkin",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Yozma va elektron shaklda",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Og‘zaki va yozma shaklda",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "11",
+      "order": 11,
+      "question": "Hududiy boshqarmalarda EHA dasturi orqali kelgan hujjatlarning ijrosini tashkil etish uchun kim javobgar hisoblanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hududiy boshqarma boshlig‘i",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bosh buxgalter",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ish yuritish va ijro nazorati bo‘yicha mas’ul xodim",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bo‘lim boshliqlari",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "12",
+      "order": 12,
+      "question": "Bank o‘zining moliyaviy xizmatlari to‘g‘risidagi ma’lumotlarni iste’molchilarga qaysi tilda yetkazishi lozim?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Davlat tilida",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "O‘zbek va rus tillarida",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "O‘zbek, rus va ingliz tillarida",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "O‘zbek va ingliz tillarida",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "13",
+      "order": 13,
+      "question": "Tarkibiy bo‘linmalarga noto‘g‘ri kelib tushgan hujjatlar holatida qanday choralar ko‘riladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Noto‘g‘ri tushganligi haqida izoh qoldiriladi va mas’ullarga xabar beriladi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Hujjat arxivga yuboriladi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hujjat Boshqaruv raisiga yetkaziladi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "14",
+      "order": 14,
+      "question": "Qarzdorning va (yoki) garovga qo‘yu vchining qanday huquqlari bank tomonidan cheklanishi mumkin emas?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Murojaat qilish huquqi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Sug‘urta kompaniyasini tanlash huquqi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Baholovchini tanlash huquqi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "15",
+      "order": 15,
+      "question": "Bankning call-markazlari telefon raqamlari qayerda joylashtirilishi lozim?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bank filiallari, mini-banklarning axborot stendlarida",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bank binosidan tashqarida joylashgan kassalarning axborot stendlarida",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bank rasmiy veb-sayti bosh sahifasida",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "16",
+      "order": 16,
+      "question": "Bank xizmatlari iste’molchilarining huquqlari va qonuniy manfaatlari buzilishi qanday qoidabuzarliklar jumlasiga kiradi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Qo‘pol",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Jiddiy",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Juz’iy",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "To‘g‘ri javob yo‘q",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "17",
+      "order": 17,
+      "question": "Qaysi normativ-huquqiy hujjat bilan tijorat banklariga dastlabki ruxsatsiz va shaxsni tasdiqlovchi hujjatlarsiz mijozlarga xizmat ko‘rsatish hududiga to‘siqsiz kirish belgilangan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "O‘zbekiston Respublikasi Prezidentining PQ–3620-son qarori",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "“Banklar va bank faoliyati to‘g‘risida”gi Qonun",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "“Bank xizmatlari iste’molchilari bilan o‘zaro munosabatlarni amalga oshirishda tijorat banklarining faoliyatiga qo‘yiladigan minimal talablar to‘g‘risida”gi nizom",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Vazirlar Mahkamasining 486-sonli qarori",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "18",
+      "order": 18,
+      "question": "Iste’molchilarning murojaatlari qo‘shimcha o‘rganish va (yoki) tekshirish, qo‘shimcha hujjatlarni so‘rab olish talab etilmaganda qancha muddatda ko‘rib chiqilishi lozim?",
+      "options": [
+        {
+          "key": "A",
+          "text": "15 kun",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "5 kun",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "1 oy",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "2 oy",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "19",
+      "order": 19,
+      "question": "Hududiy boshqarma rahbari elektron hujjatlarning ijrosini tashkil qilish uchun qanday mas’uliyatga ega?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hujjatlarni mas’ul ijrochilarga o‘z vaqtida yuborish",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Hujjatni qo‘lda tasdiqlash",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hujjatni qayta ko‘rib chiqish uchun ortga qaytarish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "20",
+      "order": 20,
+      "question": "Taklif qanday murojaat hisoblanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Taklif — davlat va jamiyat faoliyatini takomillashtirishga doir tavsiyalarni o‘z ichiga olgan murojaat",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Taklif — korxona va tashkilot faoliyatini takomillashtirishga doir tavsiyalarni o‘z ichiga olgan murojaat",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Taklif — ixtirochilik tavsiyalarini o‘z ichiga olgan murojaat",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Taklif — huquqlarni, erkinliklarni va qonuniy manfaatlarni amalga oshirishda yordam ko‘rsatish to‘g‘risidagi murojaat",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "21",
+      "order": 21,
+      "question": "Bankda hujjatlarning umumiy ijro nazorati kimlar tomonidan amalga oshiriladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Boshqaruv raisi tegishli o‘rinbosarlari, BXO va BXM rahbarlari o‘rinbosarlari, mas’ul bo‘linma",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mas’ul ijrochi va tasdiqlovchi shaxslar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mas’ul bo‘linma va ijrochilar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mas’ul ijrochi va tasdiqlovchi shaxslar",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "22",
+      "order": 22,
+      "question": "Vazirlik va idoralardan kelib tushgan xat-hujjatlarning ijro muddati qanday?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xat-hujjatlarda boshqa muddat belgilanmagan bo‘lsa, 15 kun ichida",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bir oy ichida",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "10 ish kuni ichida",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Muddatga talab qo‘yilmagan",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "23",
+      "order": 23,
+      "question": "Bankning umumiy faoliyatiga bog‘liq bo‘lgan buyruqlar qayerda ro‘yxatga olinadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Devonxona bo‘limida EHA dasturida",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Xodimlarni boshqarish departamentida",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Korporativ boshqaruv xizmatida",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mas’ul tarkibiy tuzilma",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "24",
+      "order": 24,
+      "question": "Xat-hujjatlarni jo‘natishdan oldin mas’ul xodimlar qanday tekshiruvlarni amalga oshirishlari kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hujjatda sanalar va raqamlarning mavjudligini hamda manzilning to‘g‘ri yozilganligini tekshirish",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Hujjatning arxivda saqlanishini tekshirish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hujjatni rahbar tasdiqlaganligini tekshirish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "25",
+      "order": 25,
+      "question": "Hujjatlarda manzillarni ko‘rsatishda qanday qoidalarga rioya qilinadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hujjat tashkilot yoki shaxsning to‘liq manzilini ko‘rsatadi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Barcha manzillar alifbo tartibida keltiriladi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hujjat har bir manzil uchun alohida tayyorlanadi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "26",
+      "order": 26,
+      "question": "Qanday holatlarda topshiriqlarning o‘z vaqtida va sifatli bajarilmaganligi uchun rahbariyatga ta’sir choralari taklif etiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ijrochi tomonidan belgilangan muddatga rioya qilinmaganida",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Tarkibiy bo‘linmaning talabiga ko‘ra",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hujjat ijrosi kechiktirilganda, ammo to‘liq hujjatlangan holda",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "27",
+      "order": 27,
+      "question": "Qaysi holatlarda vazirlik va idoralardan kelib tushgan hujjatlarning ijro muddati bir oygacha uzaytirilishi mumkin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Qo‘shimcha o‘rganish talab etilganda",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bank rahbarlari istagiga ko‘ra",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hujjat kechiktirib kelib tushganda",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ishlab chiqish zaruratidan kelib chiqib",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "28",
+      "order": 28,
+      "question": "“Jismoniy va yuridik shaxslarning murojaatlari to‘g‘risida”gi O‘zbekiston Respublikasi Qonuni qachon qabul qilingan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2017 yil 11 sentyabrda",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "1994 yil 30 avgustda",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "2010 yil 10 yanvarda",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "1998 yil 5 mayda",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "29",
+      "order": 29,
+      "question": "Hujjatlar ijrosi nazorati qaysi amallarni o‘z ichiga oladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hujjatni nazoratga qo‘yish, chora-tadbirlar ishlab chiqish, ijroni tekshirish va xulosalar kiritish",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Topshiriqlar bajarilishiga baho berish va natijalarni e’lon qilish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hujjatlarni qayta ro‘yxatga olish va tasdiqlash, Boshqaruv raisiga hisobot taqdim etish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "30",
+      "order": 30,
+      "question": "Ariza qanday murojaat hisoblanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ariza — huquqlarni, erkinliklarni va qonuniy manfaatlarni amalga oshirishda yordam ko‘rsatish to‘g‘risidagi iltimos bayon etilgan murojaat",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ariza — huquqlarni va qonuniy manfaatlarni amalga oshirishda yordam ko‘rsatish to‘g‘risidagi iltimos bayon etilgan murojaat",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ariza – moddiy yordam so‘rab bayon etilgan murojaat",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ariza – buzilgan huquqlarni, erkinliklarni tiklash va qonuniy manfaatlarni himoya qilish to‘g‘risidagi talab bayon etilgan murojaat",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "31",
+      "order": 31,
+      "question": "“Ijro.gov.uz” tizimini joriy etish maqsadida qaysi hujjat qabul qilingan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2021-yil 31-maydagi PQ-5132-sonli qaror",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "O‘zbekiston Respublikasi Prezidentining 2021-yil 10-fevraldagi PF-6166-sonli Farmoni",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "1999-yil 12-yanvardagi 12-sonli qaror",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "2017-yil 9-avgustdagi F-5017-sonli farmoyish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "32",
+      "order": 32,
+      "question": "Nazorat qilinadigan hujjatlarning tayyorlangan ichki hujjati nechanchi kungacha hududiy boshqarmalarga yetkazilishi shart?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 kecha-kunduz ichida",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "2 kun ichida",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "3 ish kuni ichida",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Muddat belgilanmagan",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "33",
+      "order": 33,
+      "question": "Jamoaviy murojaatlarga javoblar qanday tartibda yuboriladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Agar murojaatda javobni boshqa shaxsga yuborish talab etilmagan bo‘lsa, murojaat qiluvchilarning ro‘yxatida birinchi ko‘rsatilgan shaxsga",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Murojaatda nomlari ko‘rsatilgan shaxslarning har biriga",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Murojaat qiluvchilarning ro‘yxatida birinchi ko‘rsatilgan shaxsga",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "34",
+      "order": 34,
+      "question": "Murojaat qilish muddatlari qaysi javobda to‘g‘ri ko‘rsatilgan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Murojaatlarni berish muddatlari, qoida tariqasida, belgilanmaydi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bir oy muddatda",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "15 kundan oshmagan muddatda",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "1 oydan kechiktirmagan muddatda",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "35",
+      "order": 35,
+      "question": "Qanday murojaatlar ko‘rib chiqilmaydi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Anonim murojaatlar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Jismoniy va yuridik shaxslarning vakillari orqali berilgan murojaatlar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Murojaatchilarning vakolatini tasdiqlovchi hujjatlar mavjud bo‘lmagan taqdirda",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "36",
+      "order": 36,
+      "question": "Murojaatlarni ko‘rib chiqish muddati qancha?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Murojaat kelib tushgan kundan e’tiboran 15 kun ichida, qo‘shimcha o‘rganish va (yoki) tekshirish, qo‘shimcha hujjatlarni so‘rab olish talab etilganda esa, bir oygacha bo‘lgan muddatda",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Murojaat kelib tushgan kundan boshlab 15 kun ichida",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Murojaat kelib tushgan kundan boshlab 1 oygacha bo‘lgan muddatda",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Murojaat kelib tushgan kundan boshlab 15 kun ichida",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "37",
+      "order": 37,
+      "question": "Nazorat qilinadigan hujjatlarning ijrosi bo‘yicha ichki hujjat tayyorlash muddatlari qanday holatlarda o‘zgarishi mumkin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Agar boshqa muddat belgilanmagan bo‘lsa",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bank rahbariyatining ko‘rsatmasiga ko‘ra",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hujjat kechiktirib kelib tushgan holatlarda",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Xodimlarning bandlik darajasiga qarab",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "38",
+      "order": 38,
+      "question": "Murojaatni ko‘rib chiqish uni chaqirib olish to‘g‘risidagi ariza bo‘yicha tugatilganda, murojaat murojaat qiluvchiga davlat organining, tashkilotning yoki ularning mansabdor shaxsining xati bilan necha kun ichida qaytariladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Uch kun ichida qaytariladi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bir kun ichida qaytariladi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Besh kun ichida qaytariladi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Murojaat kelib tushgan kundan boshlab 15 kun ichida",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "39",
+      "order": 39,
+      "question": "“Fuqarolarning murojaatlari to‘g‘risida”gi Qonunning asosiy maqsad va vazifalari nimadan iborat?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ushbu qonun fuqarolarning davlat organlariga, muassasalariga murojaatlari sohasidagi munosabatlarni tartibga soladi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ushbu qonun fuqarolar o‘rtasidagi o‘zaro munosabatlarni tartibga soladi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ushbu qonun jismoniy va yuridik shaxslar o‘rtasidagi o‘zaro munosabatlarni tartibga soladi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "40",
+      "order": 40,
+      "question": "Ariza tushunchasiga ta’rif bering.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ariza – fuqarolarning o‘z huquqlari, erkinliklari va qonuniy manfaatlarini ro‘yobga chiqarishda yordam ko‘rsatish to‘g‘risidagi iltimosi bayon etilgan murojaatidir",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ariza – fuqarolarning davlat va jamiyat faoliyatini takomillashtirishga doir tavsiyalarini o‘z ichiga olgan murojaatidir",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ariza – fuqarolarning buzilgan huquqlari, erkinliklari va qonuniy manfaatlarini tiklash to‘g‘risidagi talabi bayon etilgan murojaatidir",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "41",
+      "order": 41,
+      "question": "Taklif tushunchasiga ta’rif bering.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Taklif – fuqarolarning davlat va jamiyat faoliyatini takomillashtirishga doir tavsiyalarini o‘z ichiga olgan murojaatidir",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Taklif – fuqarolarning buzilgan huquqlari, erkinliklari va qonuniy manfaatlarini tiklash to‘g‘risidagi talabi bayon etilgan murojaatidir",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Taklif – fuqarolarning o‘z huquqlari, erkinliklari va qonuniy manfaatlarini ro‘yobga chiqarishda yordam ko‘rsatish to‘g‘risidagi iltimosi bayon etilgan murojaatidir",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "42",
+      "order": 42,
+      "question": "Murojaatlar qanday turlarga bo‘linadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Murojaatlar arizalar, takliflar va shikoyatlar tarzida bo‘lishi mumkin",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ariza va shikoyat",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Shikoyat va taklif",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Yozma va elektron",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "43",
+      "order": 43,
+      "question": "Murojaatlar qanday shakllarda bo‘ladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Murojaatlar og‘zaki, yozma yoxud elektron shaklda bo‘lishi mumkin",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Yozma va elektron shaklda",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Og‘zaki va yozma shaklda",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "44",
+      "order": 44,
+      "question": "Kredit shartnomasi tuzilgunga qadar bank iste’molchiga qanday axborotni taqdim etmaydi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bank omonati (depoziti) shartnomasi bo‘yicha nazarda tutilgan bank va iste’molchining huquq va majburiyatlari, ularning javobgarligi to‘g‘risida",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Vositachilik haqlari, tariflar va kredit olish hamda unga xizmat ko‘rsatish bilan bog‘liq bo‘lgan boshqa to‘lovlarning batafsil ro‘yxati va miqdorlari",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kredit shartnomasi bo‘yicha majburiyatlar bajarilmagan taqdirda iste’molchining javobgarligi va tavakkalchiliklari",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Garovga qo‘yuvchi, kafillik beruvchi va kredit shartnomasining boshqa tomonining javobgarligi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "45",
+      "order": 45,
+      "question": "Qo‘pol qoidabuzarliklarni sodir etganlik uchun Markaziy bank tomonidan qo‘llaniladigan chora to‘g‘ri ko‘rsatilgan javobni belgilang.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Litsenziyani chaqirib olish",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bank kuzatuv kengashining yoki muhim ahamiyatga ega xodimining mukofotidan 80% gacha jarima undirish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Moliyaviy operatsiyalardan olingan daromadlarning uch baravarigacha jarima undirish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Sof foydaning 10% yoki jami kapitalning 2% gacha jarima undirish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "46",
+      "order": 46,
+      "question": "Hujjatlarning ijro etilishini to‘xtatish, bekor qilish yoki o‘zgartirish huquqiga kim ega?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yuqori tashkilot, hujjatning muallif tashkiloti va davlat nazorat organlari",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Boshqaruv raisi va uning o‘rinbosarlari",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mas’ul bo‘linma rahbari va nazoratchilar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mas’ul ijrochi va nazoratchi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "47",
+      "order": 47,
+      "question": "Ariza qanday murojaat hisoblanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ariza — huquqlarni, erkinliklarni va qonuniy manfaatlarni amalga oshirishda yordam ko‘rsatish to‘g‘risidagi iltimos bayon etilgan murojaat",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ariza — huquqlarni va qonuniy manfaatlarni amalga oshirishda yordam ko‘rsatish to‘g‘risidagi iltimos bayon etilgan murojaat",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ariza – moddiy yordam so‘rab bayon etilgan murojaat",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ariza – buzilgan huquqlarni, erkinliklarni tiklash va qonuniy manfaatlarni himoya qilish to‘g‘risidagi talab bayon etilgan murojaat",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "48",
+      "order": 48,
+      "question": "Taklif qanday murojaat hisoblanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Taklif — davlat va jamiyat faoliyatini takomillashtirishga doir tavsiyalarni o‘z ichiga olgan murojaat",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Taklif — korxona va tashkilot faoliyatini takomillashtirishga doir tavsiyalarni o‘z ichiga olgan murojaat",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Taklif — ixtirochilik tavsiyalarini o‘z ichiga olgan murojaat",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Taklif — huquqlarni, erkinliklarni va qonuniy manfaatlarni amalga oshirishda yordam ko‘rsatish to‘g‘risidagi murojaat",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "49",
+      "order": 49,
+      "question": "Shikoyat qanday murojaat hisoblanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Shikoyat – buzilgan huquqlarni, erkinliklarni tiklash va qonuniy manfaatlarni himoya qilish to‘g‘risidagi talab bayon etilgan murojaat",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Shikoyat – fuqaroning qonuniy huquqlarini himoya qilish to‘g‘risidagi talab bayon etilgan murojaat",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Shikoyat – buzilgan huquqlarni, erkinliklarni tiklash to‘g‘risidagi talab bayon etilgan murojaat",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Shikoyat – qonuniy manfaatlarni amalga oshirishda yordam ko‘rsatish to‘g‘risidagi murojaat",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "50",
+      "order": 50,
+      "question": "“Ijro.gov.uz” elektron tizimi asosida hujjatlarning ijrosi qanday maqsadlar uchun tashkil etiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Davlat organlari rahbarlarining shaxsiy mas’uliyatini kuchaytirish",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Xodimlar samaradorligini oshirish uchun hisobot berish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Idoralarda ijro tizimini avtomatlashtirish faoliyatini avtomatlashtirish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "51",
+      "order": 51,
+      "question": "Bankka hujjat kelib tushgandan so‘ng, hujjatni ro‘yxatga olish va Boshqaruv Raisiga (filial rahbariga) ma’lumot berish qancha vaqt ichida amalga oshirilishi zarur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hujjat olingandan so‘ng, 30 daqiqa davomida",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Hujjat olingandan so‘ng, 1 kun davomida",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hujjat olingandan so‘ng, 2 soat davomida",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Hujjat olingandan so‘ng, 10 daqiqa davomida",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "52",
+      "order": 52,
+      "question": "O‘zbekiston Respublikasi Prezidentining PQ-5132-sonli qaroriga asosan, bankda qonunlar, O‘zbekiston Respublikasi Prezidentining farmon, qaror, farmoyish va topshiriqlari ijrosini nazorat qilish qaysi ijro intizomi idoralararo yagona elektron tizimi orqali amalga oshiriladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "“Ijro.gov.uz” tizimi orqali",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "“Project.gov.uz” tizimi orqali",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "“EHA” tizimi orqali",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "“PM.gov.uz” tizimi orqali",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "53",
+      "order": 53,
+      "question": "Hujjatlar bankka kirim qilingandan keyin amalga oshiriladigan ishlar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "O‘sha kunning o‘zidayoq qog‘oz shaklda yoki elektron shaklda EHA orqali rahbarga ko‘rib chiqish uchun beriladi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Rahbar ko‘rsatmasiga asosan hujjatlarni qayd qilish jurnaliga yoki elektron hujjatlar aylanishida kartochkalarga kiritiladi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ijrochi va birgalikdagi ijrochilarga yetkaziladi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "54",
+      "order": 54,
+      "question": "Nazorat qilinadigan va bajarilishi tekshiriladigan hujjatlar kelib tushgandan so‘ng qancha vaqt ichida ro‘yxatdan o‘tkazilishi kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "30 daqiqa ichida",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bir kecha-kunduzda",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ish kuni davomida",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bir soat mobaynida",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "55",
+      "order": 55,
+      "question": "Muddat belgilanmagan Vazirlar Mahkamasining topshiriq hujjatlari qancha muddatda bajarilishi kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "10 kalendar kun mobaynida",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "15 kun davomida",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "15 ish kunida",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "10 ish kunida",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "56",
+      "order": 56,
+      "question": "Davlat organlari va tashkilotlarida qonunchilik hujjatlari va topshiriqlarning ijro holatini muhokama qilib borish muddatlari qanday?",
+      "options": [
+        {
+          "key": "A",
+          "text": "PQ-5132-sonli qarorga muvofiq har hafta juma kuni — rahbarning birinchi o‘rinbosari huzurida; har hafta dushanba kuni — rahbar huzurida; har oyda — hay’at majlislarida muhokama qilib borilishi kerak",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Har hafta dushanba va payshanba kunlari rahbar va uning o‘rinbosari ishtirokida, har oy oxirida esa kengaytirilgan yig‘ilishda muhokama qilinadi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "PQ-5132-sonli qarorga muvofiq har dushanba kuni — birinchi o‘rinbosar huzurida; har juma kuni — rahbar huzurida; har oyda — bo‘lim yig‘ilishida muhokama qilinadi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Har hafta seshanba kuni rahbar huzurida, har ikki haftada bir marta birinchi o‘rinbosar ishtirokida muhokama qilib borish tavsiya etiladi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "57",
+      "order": 57,
+      "question": "Ish vaqtidan tashqari paytda “XDFU” belgisi qo‘yilgan hujjatlar qanday qabul qilinadi va keyin qanday tartibda topshiriladi? (12-son Tartib 103-band)",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bankning navbatchi xodimi tomonidan qabul qilinadi. Navbatchi xodim hujjatlarni ochmasdan, keyingi ish kunidan kechiktirmasdan devonxona (kotibiyat) mas’ul xodimiga topshirishi shart",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bankning har qanday xodimi hujjatni qabul qilishi mumkin, u ochib ko‘rib, mazmuniga qarab rahbarga yoki bo‘lim boshlig‘iga topshiradi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hujjatlar ish vaqtidan tashqari kelgan taqdirda qo‘riqchi yoki qabulxona xodimi tomonidan qabul qilinib, ertasi kuni umumiy bo‘limga topshiriladi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Navbatchi xodim hujjatni qabul qilib, ochib tekshirishi va mazmuniga qarab darhol elektron nusxasini rahbariyatga yuborishi lozim, keyin esa 2 ish kuni ichida devonxonaga topshiradi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "58",
+      "order": 58,
+      "question": "“XDFU” belgisi qo‘yilgan hujjatlar hisobi qanday yuritiladi va ushbu hisobni kim va qanday shartlarda saqlaydi? (12-son Tartib 105-band)",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tikilgan va raqamlangan holda yuritiladi. Devonxona bo‘limi boshlig‘i tomonidan imzolangan va muhrlangan bo‘lishi lozim. Kitob devonxona bo‘limi mas’ul xodimi tomonidan seyfda saqlanadi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Elektron jurnalda yuritiladi, u avtomatik ravishda rahbar kotibiyati serverida saqlanadi va faqat axborot texnologiyalari bo‘limi xodimlari kirish huquqiga ega bo‘ladi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Har oy yangilanadi va devonxona bosh mutaxassisi tomonidan elektron va qog‘oz shaklda rahbarning ish joyida saqlanadi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Oddiy daftar shaklida yuritilib, har bir “XDFU” hujjatni qabul qilgan bo‘lim o‘z seyfida saqlaydi, keyin esa kvartal yakunida devonxonaga topshiradi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "59",
+      "order": 59,
+      "question": "Chiqish hujjatlarini rasmiylashtirishda imzo qo‘yishi lozim bo‘lgan rahbar o‘rniga chiziqcha bilan boshqa rahbar imzo qo‘yishi mumkinmi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yo‘q, mumkin emas. Hujjat faqat belgilangan mas’ul rahbar tomonidan imzolanishi kerak",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ha, mumkin. Agar rahbar ish joyida bo‘lmasa, uning o‘rniga boshqa rahbar chiziqcha bilan imzo qo‘yishi mumkin, keyin bu haqida og‘zaki xabar berish kifoya",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chiziqcha bilan imzo qo‘yish mumkin, lekin bu holatda hujjatda “vazifasini bajaruvchi” deb yozilishi kerak",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Istisno ravishda shoshilinch holatlarda uning o‘rnini bosuvchi shaxs to‘g‘ridan-to‘g‘ri vakolat berilgan buyruq asosida imzo qo‘yishi mumkin, ammo chiziqcha bilan emas",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "60",
+      "order": 60,
+      "question": "Bildirishnoma rasmiylashtirish tartibini ko‘rsating.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bildirishnoma tegishli tarkibiy bo‘linma tomonidan imzolanib, rahbariyatga rezolyutsiya uchun kiritiladi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bildirishnoma avval ijrochi tomonidan ishlab chiqilib, tegishli tarkibiy bo‘linma bilan kelishilib so‘ng tasdiqlanadi, devonxona tomonidan rahbariyatga rezolyutsiya uchun kiritiladi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tashabbuskor tarkibiy bo‘linma tomonidan tayyorlanib, tasdiqlangan hujjat to‘g‘ridan-to‘g‘ri ijrochilarga yuboriladi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bildirishnoma tegishli tarkibiy bo‘linma tomonidan tayyorlanib, tasdiqlash va rezolyutsiya uchun rahbariyatga kiritiladi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "61",
+      "order": 61,
+      "question": "O‘zbekiston Respublikasi Prezidenti va Vazirlar Mahkamasining hujjatlarida belgilangan vazifalar o‘z vaqtida bajarilmagan taqdirda, rahbar va xodimlarga nisbatan qanday chora ko‘riladi? (Vazirlar Mahkamasining 1999-yil 12-yanvardagi 12-son qarori IV-bob, 3-band)",
+      "options": [
+        {
+          "key": "A",
+          "text": "Belgilangan vazifalar o‘z vaqtida va to‘liq bajarilmagan taqdirda, rahbarlar, mansabdor shaxslar va xodimlarga nisbatan shaxsiy javobgarlik chorasi ko‘riladi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Belgilangan vazifalar bajarilmagan taqdirda, tegishli rahbarga ogohlantirish (hayfsan) beriladi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Agar vazifa bajarilmasa, rahbar o‘z xohishiga ko‘ra xodimni qayta tayinlash yoki ish joyini o‘zgartirish to‘g‘risida qaror qabul qilishi mumkin",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "62",
+      "order": 62,
+      "question": "Mehnat munosabatlari va xizmat safari bilan bog‘liq buyruq va farmoyishlar qayerda va qanday tartibda ro‘yxatga olinadi? (12-son Tartib 24-band)",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mehnat munosabatlariga oid buyruqlar va xizmat safari bilan bog‘liq farmoyishlar Bosh bankda Xodimlarni boshqarish departamenti (shuningdek, hududiy boshqarma, bank xizmatlari ofislari va markazlardagi “xodimlar bilan ishlash bo‘yicha mas’ul xodim”) tomonidan alohida kitoblarda ro‘yxatga olinadi va saqlanadi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mehnat munosabatlariga oid buyruqlar va xizmat safariga tegishli farmoyishlar Bankning Devonxona bo‘limi tomonidan rasmiylashtirilib, barcha ma’lumotlar EHA elektron jurnalida ro‘yxatga olinadi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mehnat munosabatlari va xizmat safari bo‘yicha buyruqlar avvalo yuridik bo‘lim tomonidan tayyorlanib, so‘ng Boshqaruv raisi tomonidan imzolanadi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mehnat munosabatlari va xizmat safarlari haqidagi ma’lumotlar markaziy serverda avtomatik ravishda ro‘yxatga olinadi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "63",
+      "order": 63,
+      "question": "Nazorat qilinadigan hujjatlar qabul qilingandan keyin hududiy boshqarmalarga qaysi turdagi ichki hujjatlar yuboriladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bank kengashi qarori, chora-tadbirlar yoki yo‘l xaritalari",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Rahbariyatning og‘zaki topshiriqlari",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Faqat farmoyish va buyruqlar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "64",
+      "order": 64,
+      "question": "Qanday holatlarda bildirishnoma loyihasini Ijro nazorati departamenti bilan kelishish talab etilmaydi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ichki audit departamenti va Komplaens nazorati departamenti tekshiruv natijalari bo‘yicha",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Boshqaruv raisiga taqdim etilmaganda",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Asoslantiruvchi qismda xato bo‘lganda",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Taklif qismi yo‘q bo‘lganda",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "65",
+      "order": 65,
+      "question": "Bank tizimida ichki hujjatlarni tuzish va rasmiylashtirish qanday normativ hujjatlarga asoslanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "O‘zbekiston Respublikasi Vazirlar Mahkamasining 1999-yil 29-martdagi 140-sonli qarori",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "“O‘zbekiston Respublikasi vazirliklari, davlat qo‘mitalari, idoralari, korporatsiyalari, konsernlari, uyushmalari, kompaniyalari va boshqa markaziy muassasalari apparatida ish yuritish va ijro nazoratini tashkil etish bo‘yicha” namunaviy yo‘riqnoma",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "“Biznesni rivojlantirish banki” ATB tizimida ish yuritish va ijro nazorati 12-son Tartibi talablariga asosan",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "66",
+      "order": 66,
+      "question": "Bosh bank va hududiy boshqarma, bank xizmatlari ofislari va markazlarida hujjatlar qanday bosma shaklda rasmiylashtiriladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tegishli ramz (emblema/logotip);Bank, hududiy boshqarma, BXO va BXM nomi;Hujjat turi (masalan, buyruq, farmoyish, ma’lumotnoma va h.k.);Bank manzili va telefon raqamlari;Hujjatning qabul qilingan joyi, sanasi va raqami",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Tegishli ramz (emblema/logotip); Bank, hududiy boshqarma, BXO va BXM nomi; Bank manzili va telefon raqamlari; Hujjatning qabul qilingan joyi, sanasi va raqami",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bank, hududiy boshqarma, BXO va BXM nomi; Hujjat turi; Bank manzili va telefon raqamlari; Hujjatning sanasi va raqami",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tegishli ramz (emblema/logotip); Bank, hududiy boshqarma, BXO va BXM nomi; Hujjat turi; Hujjatning qabul qilingan sanasi va raqami",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "67",
+      "order": 67,
+      "question": "Bank xodimlarini ishga qabul qilish, lavozimidan ozod etish, boshqa lavozimga o‘tkazish va ish haqi to‘lovlari bo‘yicha buyruqlar kim tomonidan qo‘shimcha ravishda imzolanadi? (12-son Tartib 18-band)",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bunday buyruqlar qo‘shimcha ravishda Buxgalteriya hisobi va moliyaviy menejment departamenti rahbari tomonidan imzolanadi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bunday buyruqlar qo‘shimcha ravishda Kadrlar bo‘limi boshlig‘i tomonidan imzolanadi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bunday buyruqlar qo‘shimcha ravishda Yuridik departament direktori tomonidan imzolanadi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bunday buyruqlar qo‘shimcha ravishda barcha Boshqaruv raisi o‘rinbosarlari tomonidan imzolanadi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "68",
+      "order": 68,
+      "question": "“Biznesni rivojlantirish banki” ATB tizimida ish yuritish va ijro nazorati Tartibi qaysi qarorga asosan ishlab chiqilgan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "O‘zbekiston Respublikasi Prezidentining 2021-yil 10-fevraldagi PF-6166-sonli Farmoni",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "O‘zbekiston Respublikasi Vazirlar Mahkamasining 1999-yil 12-yanvardagi 12-sonli qarori",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "O‘zbekiston Respublikasi Vazirlar Mahkamasining 1999-yil 29-martdagi 140-sonli qarori",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "69",
+      "order": 69,
+      "question": "Bankning hududiy boshqarmalari, bank xizmatlari ofislari va markazlarida yig‘ma jildlar qanday organ tomonidan ko‘rib chiqiladi? (12-son Tartib 76-band)",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bank hududiy boshqarmalari, bank xizmatlari ofislari va markazlarida yig‘ma jildlar jamlanma ro‘yxati Hududiy Ekspert komissiyasi tomonidan ko‘rib chiqiladi. Zarur hollarda tegishli arxiv idoralari bilan kelishiladi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Hududiy boshqarma rahbari va xodimlar tomonidan mustaqil ravishda ko‘rib chiqiladi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bank boshqaruvi tomonidan har yili tasdiqlangan ichki nazorat komissiyasi tomonidan ko‘rib chiqiladi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "70",
+      "order": 70,
+      "question": "“XDFU” belgisi qo‘yilgan hujjatlar bilan ishlashda bank xodimlari uchun qanday talablar belgilanadi? (12-son Tartib 101-band)",
+      "options": [
+        {
+          "key": "A",
+          "text": "“XDFU” belgisi qo‘yilgan hujjatlar bilan ishlashga ruxsat etilgan bank xodimlari Tartib (12-son) bilan majburiy ravishda tanishtirilishi shart. Ushbu hujjatlardagi ma’lumotlarni, qonunchilikda belgilangan holatlardan tashqari, uchinchi shaxslarga og‘zaki yoki yozma ravishda ma’lum qilish man etiladi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "“XDFU” belgisi qo‘yilgan hujjatlar faqat elektron shaklda saqlanishi va faqat rahbariyat tomonidan ko‘rib chiqilishi shart",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "“XDFU” belgisi qo‘yilgan hujjatlarga qo‘yilgan cheklovlar 12-son Tartib bilan bekor qilingan",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Hujjatlar faqat buxgalteriya va yuridik departament xodimlari uchun ochiq",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "71",
+      "order": 71,
+      "question": "Ijroning borishini tekshirish barcha bosqichlarda muddati tugagungacha qanday tartibda amalga oshiriladi? (O‘zbekiston Respublikasi Vazirlar Mahkamasining qarori, 29.03.1999 yildagi 140-son, 51-band)",
+      "options": [
+        {
+          "key": "A",
+          "text": "“Keyingi yillar topshiriqlari — yiliga kamida bir marta;Joriy yilning keyingi oylar topshiriqlari — har oyda kamida bir marta;Joriy oy vazifalari va topshiriqlari — har o‘n kunda, muddati tugagungacha besh kun avval.”",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Barcha vazifalar va topshiriqlar har kuni tekshirilishi va muddati tugashidan oldin elektron tizim orqali rahbarga xabar berilishi shart.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ijroning borishini tekshirish faqat muddat tugagandan so‘ng amalga oshiriladi va oldindan xabardor qilish talab etilmaydi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "“Keyingi yillar topshiriqlari — har oyda bir marta;Joriy yilning keyingi oylar topshiriqlari — har oyda kamida bir marta;Joriy oy vazifalari va topshiriqlari — har o‘n kunda.”",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "72",
+      "order": 72,
+      "question": "O‘zbekiston Respublikasi Vazirlar Mahkamasining 1999-yil 29-martdagi 140-sonli qarori maqsadi nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Davlat hokimiyati va boshqaruv organlarida ish yuritish va ijro nazoratini tashkil qilish bo‘yicha normativ hujjatlarni tasdiqlash",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ijro intizomini mustahkamlash chora-tadbirlarini belgilash",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ijro.gov.uz tizimi faoliyatini tartibga solish chora-tadbirlarini belgilash",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "73",
+      "order": 73,
+      "question": "“Biznesni rivojlantirish banki” ATBning ishlab chiqilgan ichki tartiblari asosan qaysi hujjatlarga asoslanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bankning ichki nizomlari va qoidalari",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "O‘zbekiston Respublikasining “Banklar va bank faoliyati to‘g‘risida”gi Qonuni",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "O‘zbekiston Respublikasi Prezidenti va Vazirlar Mahkamasi qarorlari",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "74",
+      "order": 74,
+      "question": "“Biznesni rivojlantirish banki” ATB tizimida ish yuritish va ijro nazorati Tartibi qaysi qarorga asosan ishlab chiqilgan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "O‘zbekiston Respublikasi Prezidentining 2021-yil 10-fevraldagi “Qonunchilik hujjatlari ijrosini samarali tashkil etishda davlat boshqaruvi organlari va mahalliy ijro etuvchi hokimiyat organlari rahbarlarining shaxsiy javobgarligini kuchaytirishga doir qo‘shimcha chora-tadbirlar to‘g‘risida”gi PF-6166-sonli Farmoni",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "O‘zbekiston Respublikasi Vazirlar Mahkamasining 1999-yil 12-yanvardagi “Ijro intizomini mustahkamlash chora-tadbirlari to‘g‘risida”gi 12-sonli qarori",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "O‘zbekiston Respublikasi Vazirlar Mahkamasining 1999-yil 29-martdagi “O‘zbekiston Respublikasi davlat hokimiyati va boshqaruv organlarida ish yuritish va ijro nazoratini tashkil etish bo‘yicha normativ hujjatlarni tasdiqlash haqida”gi 140-sonli qarori hamda “Biznesni rivojlantirish banki” ATB Ustavi va boshqa normativ-huquqiy hujjatlar",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "75",
+      "order": 75,
+      "question": "Bank tizimida ichki hujjatlarni tuzish va rasmiylashtirish qanday hujjatga asosan amalga oshiriladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "O‘zbekiston Respublikasi Vazirlar Mahkamasining 1999-yil 29-martdagi 140-sonli qarori",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "1999-yil 12-yanvardagi 12-sonli qaror",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "2021-yil 31-maydagi PQ-5132-sonli qaror",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "O‘zbekiston Respublikasi Prezidentining 2021-yil 10-fevraldagi PF-6166-sonli Farmoni",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "76",
+      "order": 76,
+      "question": "O‘zbekiston Respublikasi Prezidenti hujjatlari, Vazirlar Mahkamasi, vazirlik va idoralardan kelgan hujjatlar qancha vaqt ichida ro‘yxatdan o‘tkazilishi va rahbarga kiritilishi lozim?",
+      "options": [
+        {
+          "key": "A",
+          "text": "30 daqiqa ichida",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "1 soat ichida",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "2 soat ichida",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "1 kun muddatda",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "77",
+      "order": 77,
+      "question": "Qonunlar, Prezident Farmonlari va qarorlari, Vazirlar Mahkamasining qaror va farmoyishlarida qo‘yilgan vazifalarni amalga oshirishni ta’minlovchi o‘z qarorlari (buyruq, farmoyish, chora-tadbirlar va hokazo) qancha muddatda tayyorlanishi lozim?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hujjat olingan sanadan boshlab 3 kun ichida, agar hujjatda boshqa muddat belgilangan bo‘lmasa",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Hujjat olingan sanadan boshlab 10 kun ichida",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hujjat olingan sanadan boshlab bir hafta ichida",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Hujjat olingan sanadan boshlab 5 kun ichida",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "78",
+      "order": 78,
+      "question": "1a, 1b tartib raqamli nazorat kartochkalari qaysi hujjatlarga rasmiylashtiriladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "O‘zbekiston Respublikasi qonunlari, O‘zbekiston Respublikasi Prezidenti farmonlari, qarorlari, farmoyishlari, topshiriqlari, bayonnomalari, O‘zbekiston Respublikasi Prezidenti kotibiyati va Davlat maslahatchilari topshiriqlari",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "O‘zbekiston Respublikasi qonunlari, O‘zbekiston Respublikasi Prezidenti farmonlari, qarorlari, farmoyishlari, topshiriqlari, bayonnomalari, O‘zbekiston Respublikasi Vazirlar Mahkamasi qarorlari, O‘zbekiston Respublikasi Vazirlar Mahkamasi tarkibiy bo‘linmalari topshiriqlari, vazirliklar topshiriq xatlari",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "O‘zbekiston Respublikasi Markaziy banki qarorlari",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Aksiyadorlar Umumiy yig‘ilishi, bank Kengashi va Boshqaruvi qarorlari",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "79",
+      "order": 79,
+      "question": "2a, 2b tartib raqamli nazorat kartochkalari qaysi hujjatlarga rasmiylashtiriladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "O‘zbekiston Respublikasi Vazirlar Mahkamasi qarorlari, farmoyishlari, majlislari bayonlari, Bosh vazir va uning o‘rinbosarlari topshiriqlari, O‘zbekiston Respublikasi Vazirlar Mahkamasi tarkibiy bo‘linmalari topshiriqlari",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "O‘zbekiston Respublikasi qonunlari, O‘zbekiston Respublikasi Prezidenti farmonlari, qarorlari, farmoyishlari, topshiriqlari, bayonnomalari, O‘zbekiston Respublikasi Prezidenti kotibiyati va Davlat maslahatchilari topshiriqlari",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Aksiyadorlar Umumiy yig‘ilishi, bank Kengashi va Boshqaruvi qarorlari",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "O‘zbekiston Respublikasi Markaziy banki qarorlari",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "80",
+      "order": 80,
+      "question": "Ommaviy axborot vositalari tahririyatlaridan kelib tushgan murojaatlar qaysi Qonunda nazarda tutilgan tartibda va muddatlarda ko‘rib chiqiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Jismoniy va yuridik shaxslarning murojaatlari to‘g‘risidagi qonunda belgilangan tartibda va muddatlarda",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ommaviy axborot vositalari to‘g‘risidagi qonunda belgilangan tartibda va muddatlarda",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Axborot erkinligi prinsiplari va kafolatlari to‘g‘risidagi qonunda belgilangan tartibda va muddatlarda",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "“Bank xizmatlari iste’molchilari bilan o‘zaro munosabatlarni amalga oshirishda tijorat banklarining faoliyatiga qo‘yiladigan minimal talablar to‘g‘risidagi Nizomda (3030) belgilangan tartib va muddatlarda.”",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "81",
+      "order": 81,
+      "question": "Qonunga muvofiq kimlar O‘zbekiston Respublikasi davlat organlariga, tashkilotlariga va ularning mansabdor shaxslariga murojaat etish huquqiga ega?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Jismoniy va yuridik shaxslar, xorijiy davlatlarning jismoniy va yuridik shaxslari, fuqaroligi bo‘lmagan shaxslar",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "O‘zbekiston Respublikasi fuqarolari va O‘zbekiston Respublikasida faoliyat olib borayotgan barcha yuridik shaxslar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Jismoniy va yuridik shaxslar, xorijiy davlatlarning jismoniy va yuridik shaxslari",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "O‘zbekiston Respublikasi fuqarolari, yuridik shaxslar va fuqaroligi bo‘lmagan shaxslar",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "82",
+      "order": 82,
+      "question": "Voyaga yetmagan shaxslarning murojaatlari qanday tartibda ko‘rib chiqiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Davlat organlari, tashkilotlar yoki ularning mansabdor shaxslari tomonidan voyaga yetmagan shaxsning murojaatlarini ko‘rib chiqish uning qonuniy vakillari, shuningdek vasiylik va homiylik organlari ishtirokida amalga oshirilishi mumkin.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Voyaga yetmagan shaxslarning murojaatlari davlat organlari, tashkilotlar yoki ularning mansabdor shaxslari tomonidan ko‘rib chiqilmaydi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Voyaga yetmagan shaxslarning murojaatlari ularning ota-onalari yoki vasiylik organi tomonidan tayinlangan advokatlar ishtirokida ko‘rib chiqiladi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Voyaga yetmagan shaxslarning murojaatlari davlat organlari, tashkilotlar yoki ularning mansabdor shaxslari tomonidan voyaga yetmagan shaxslar ishtirokisiz ko‘rib chiqiladi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "83",
+      "order": 83,
+      "question": "Jismoniy shaxsning murojaatiga qanday talablar qo‘yilgan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Jismoniy shaxsning murojaatida jismoniy shaxsning familiyasi (ismi, otasining ismi), uning yashash joyi to‘g‘risidagi ma’lumotlar ko‘rsatilgan va murojaatning mohiyati bayon etilgan bo‘lishi kerak.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Jismoniy shaxsning murojaatida jismoniy shaxsning familiyasi (ismi, otasining ismi) to‘g‘risidagi ma’lumotlar ko‘rsatilgan va murojaatning mohiyati bayon etilgan bo‘lishi kerak.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Jismoniy shaxsning murojaatida jismoniy shaxsning yashash joyi to‘g‘risidagi ma’lumotlar ko‘rsatilgan va murojaatning mohiyati bayon etilgan bo‘lishi kerak.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "To‘g‘ri javob yo‘q",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "84",
+      "order": 84,
+      "question": "Yuridik shaxsning murojaatiga qanday talablar qo‘yilgan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yuridik shaxsning murojaatida yuridik shaxsning to‘liq nomi, uning joylashgan yeri (pochta manzili) to‘g‘risidagi ma’lumotlar ko‘rsatilgan va murojaatning mohiyati bayon etilgan bo‘lishi kerak.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Yuridik shaxsning murojaatida yuridik shaxsning to‘liq nomi va murojaatning mohiyati bayon etilgan bo‘lishi kerak.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Yuridik shaxsning murojaatida yuridik shaxsning joylashgan yeri (pochta manzili) to‘g‘risidagi ma’lumotlar ko‘rsatilgan bo‘lishi kerak.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Yuridik shaxsning murojaatida yuridik shaxsning to‘liq nomi to‘g‘risidagi ma’lumotlar ko‘rsatilgan bo‘lishi kerak.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "85",
+      "order": 85,
+      "question": "Ariza yoki shikoyatlarni ko‘rib chiqish muddatlarini aytib bering.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ariza yoki shikoyat masalani mazmunan hal etishi shart bo‘lgan davlat organiga kelib tushgan kundan e’tiboran o‘n besh kun ichida, qo‘shimcha o‘rganish va (yoki) tekshirish, qo‘shimcha hujjatlarni so‘rab olish talab etilganda esa bir oygacha bo‘lgan muddatda ko‘rib chiqiladi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ariza va shikoyatlarni ko‘rib chiqish uchun tekshirish o‘tkazish, qo‘shimcha materiallar so‘rab olish yoxud boshqa chora-tadbirlar ko‘rish zarur bo‘lgan hollarda, ularni ko‘rib chiqish muddatlari tegishli davlat organi rahbari tomonidan istisno tariqasida uzo‘gi bilan bir oyga uzaytirilishi mumkin, bu haqda murojaat etuvchiga xabar qilinadi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "To‘g‘ri javob B, V.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "86",
+      "order": 86,
+      "question": "Murojaatlar qaysi hollarda ko‘rmasdan qoldiriladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Anonim murojaatlar; jismoniy va yuridik shaxslarning vakillari orqali berilgan murojaatlar, ularning vakolatini tasdiqlovchi hujjatlar mavjud bo‘lmagan taqdirda; qonunda belgilangan boshqa talablarga muvofiq bo‘lmagan murojaatlar",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Anonim murojaatlar;",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Jismoniy va yuridik shaxslarning vakillari orqali berilgan murojaatlar, ularning vakolatini tasdiqlovchi hujjatlar mavjud bo‘lmagan taqdirda;",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "87",
+      "order": 87,
+      "question": "“Biznesni rivojlantirish banki” ATB tizimida ish yuritish va ijro nazorati Yo‘riqnomasi” talablariga asosan, bankka hujjat kelib tushgandan so‘ng dastlab qanday ishlar amalga oshirilishi zarur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ish yuritishga mas’ul xodim bankka kelgan xat-hujjatlarni qabul qiladi, hujjatni ochadi, buyurtma xatlar jildga solinganligini tekshiradi, belgi qo‘yadi, muhr bosadi, ro‘yxatga oladi va bo‘limlar o‘rtasida taqsimlaydi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Kelgan xat-hujjatlarni filial ish yurituvchisi qabul qilish sanasi, soat va minutini ko‘rsatgan holda uni olganligi to‘g‘risida imzo chekib qabul qiladi;",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bankka keladigan barcha xat-hujjatlar ish yurituvchi tomonidan jurnallarda ro‘yxatga olinadi va ko‘rib chiqish uchun filial rahbari yoki uning o‘rinbosarlariga kiritiladi;",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "88",
+      "order": 88,
+      "question": "“Biznesni rivojlantirish banki” ATB tizimida ish yuritish va ijro nazorati Yo‘riqnomasi”ga muvofiq, bankka kelgan hujjatlar qanday holatlarda 3-sonli nazorat varaqalarida rasmiylashtiriladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bank Kuzatuv kengashi va Boshqaruvi huzurida bo‘lib o‘tgan majlis bayonlari, Boshqaruv qarorlari, Aktiv va passivlarni boshqarish qo‘mitasi hamda Kredit qo‘mitasining qarorlari, Bank rahbariyatining buyruqlari va farmoyishlari, ko‘rsatmalari va chora-tadbirlari va nazorat rejalari kabi Bankning o‘z qarorlari uchun",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bosh bankka mintaqaviy filiallardan kelgan hujjatlar uchun;",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "O‘zbekiston Respublikasi Vazirlar Mahkamasining qarorlari, farmoyishlari, yig‘ilish bayonlari va boshqalar uchun;",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "O‘zbekiston Respublikasi Qonunlari, Prezident farmonlari, qarorlari, farmoyishlari va topshiriqlari uchun",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "89",
+      "order": 89,
+      "question": "Hududiy boshqarmalarda EHA dasturi orqali kelgan hujjatlarning ijrosini tashkil etish uchun kim javobgar hisoblanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hududiy boshqarma boshlig‘i",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bosh buxgalter",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ish yuritish va ijro nazorati bo‘yicha mas’ul xodim",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bo‘lim boshliqlari",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "90",
+      "order": 90,
+      "question": "Bank tizimida qabul qilingan qaror, farmoyish va buyruqlar qancha muddatda ijrochilarga yetkazilishi shart?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Qabul qilingandan so‘ng, bir kecha-kunduz muddatda",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Qabul qilingandan so‘ng, 1 soat muddatda",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Qabul qilingandan so‘ng, soat 18:00 gacha",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Qabul qilingandan so‘ng, 1 kun muddatda",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "91",
+      "order": 91,
+      "question": "Bosh bankda devonxona bo‘limi, filiallarda ish yurituvchilar tomonidan bankdan yuboriladigan hujjatlar konvertlarga joylashtirilishidan avval tekshirilishi kerak bo‘lgan holatlar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hujjatlarning to‘g‘ri rasmiylashtirilganligi, ilovalarning to‘liqligi, nusxalar sonining oluvchilar soniga muvofiqligi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Hujjatlarning to‘g‘ri rasmiylashtirilganligi, ilovalarning to‘liqligi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hujjatlar rahbar tomonidan imzolanganligi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Yuborish uchun taqdim etilgan hujjatlar tekshirilmasdan konvertlarga joylashtiriladi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "92",
+      "order": 92,
+      "question": "“XFU” belgisi bilan kelgan xat-hujjatlarni qayd qilish tartibi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "“XFU” belgisi qo‘yilgan barcha xat-hujjatlar ular bilan ishlash vazifasi yuklatilgan xodim tomonidan qabul qilindi, nusxalari va varaqalari to‘liqligi tekshiriladi va alohida ravishda daftar yoki kartochkalarga ro‘yxatga olinadi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "“XFU” belgisi qo‘yilgan barcha xat-hujjatlar ular bilan ishlash vazifasi yuklatilgan xodim tomonidan qabul qilindi, nusxalari va varaqalari to‘liqligi tekshiriladi va o‘rnatilgan tartibda ro‘yxatga olish daftari hamda EXA dasturiga kiritiladi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "“XFU” belgisi qo‘yilgan barcha xat-hujjatlar ular bilan ishlash vazifasi yuklatilgan xodim tomonidan qabul qilindi, nusxalari va varaqalari to‘liqligi tekshiriladi va umumiy ro‘yxatga olish daftariga qayd qilinib “XFU” belgisi yozib qo‘yiladi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "93",
+      "order": 93,
+      "question": "O‘zbekiston Respublikasi Markaziy banki Boshqaruvining qarori bilan tasdiqlangan “Bank xizmatlari iste’molchilari bilan o‘zaro munosabatlarni amalga oshirishda tijorat banklarining faoliyatiga qo‘yiladigan minimal talablar to‘g‘risida Nizom”ning 1-bandidagi talabga muvofiq, iste’molchilar kimlar bo‘lishi mumkin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Iste’molchilar – bank xizmatidan foydalanuvchi yoki undan foydalanish istagida bankka murojaat qilgan, ushbu xizmatdan foydalangan yoki foydalanayotgan jismoniy yoki yuridik shaxslar",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Iste’molchilar – bank xizmatidan foydalanayotgan jismoniy yoki yuridik shaxslar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Iste’molchilar – bank xizmatidan oldin foydalangan jismoniy yoki yuridik shaxslar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Iste’molchilar – bank omonatchilari bo‘lgan jismoniy shaxslar",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "94",
+      "order": 94,
+      "question": "“Bank xizmatlari iste’molchilari bilan o‘zaro munosabatlarni amalga oshirishda tijorat banklarining faoliyatiga qo‘yiladigan minimal talablar to‘g‘risida Nizom”ning 5-bandidagi talabga asosan, bank xizmatlarini taqdim etish shartlari va boshqa ma’lumotlar iste’molchilarga qanday tartibda e’lon qilinadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bank xizmatlarini taqdim etish shartlari, ushbu shartlarning o‘zgarishi haqidagi ma’lumotlar bankning rasmiy veb-saytida e’lon qilinishi, shuningdek bankning axborot stendlarida doimiy ravishda joylashtirib borilishi kerak",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bank xizmatlarini taqdim etish shartlari, ushbu shartlarning o‘zgarishi haqidagi ma’lumotlar bankning rasmiy veb-saytida e’lon qilinishi kerak",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bank xizmatlarini taqdim etish shartlari, ushbu shartlarning o‘zgarishi haqidagi ma’lumotlar bankning axborot stendlarida doimiy ravishda joylashtirib borilishi kerak",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bank xizmatlarini taqdim etish shartlari, ushbu shartlarning o‘zgarishi haqidagi ma’lumotlar ommaviy axborot vositalari va ijtimoiy tarmoqlar orqali e’lon qilib boriladi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "95",
+      "order": 95,
+      "question": "Quyida noto‘g‘ri ko‘rsatilgan javobni belgilang.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bank iste’molchining shartnomani imzolamasdan oldin tanishib chiqish uchun uni o‘zi bilan olib ketish huquqi haqida xabardor etish majburiyatini o‘z zimmasiga olmaydi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Iste’molchilarga bank xizmatlari to‘g‘risidagi ma’lumotlar shartnomalar tuzilishidan avval bepul taqdim etilishi va tanishtirilishi shart",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Iste’molchi bank xizmatlarini ko‘rsatish to‘g‘risidagi shartnomani (kredit, depozit, bank hisobvarag‘iga xizmat ko‘rsatish, lizing, bank kartalari va boshqalar bo‘yicha) imzolamasdan oldin tanishib chiqishi uchun o‘zi bilan olib ketishga haqli",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bank xizmatlari masofaviy xizmat ko‘rsatish tizimlari orqali ko‘rsatilganda, bank iste’molchiga shartnoma tuzilishidan oldin mazkur tizim orqali shartnoma shartlari bilan tanishib chiqish va undan nusxa olish imkoniyatini yaratib berishi lozim",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "96",
+      "order": 96,
+      "question": "Quyida to‘g‘ri ko‘rsatilgan javobni belgilang.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bank iste’molchining talabiga ko‘ra ular o‘rtasida imzolangan bank xizmatini ko‘rsatish haqidagi shartnomaning tasdiqlangan nusxalarini bitta bank xizmati shartnomasi bo‘yicha bir marta bepul berishga majbur",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bank xizmatlari masofaviy xizmat ko‘rsatish tizimlari orqali ko‘rsatilganda, bank iste’molchiga shartnoma tuzilishidan oldin mazkur tizim orqali shartnoma shartlari bilan tanishib chiqish va undan nusxa olish imkoniyatini yaratib bermaydi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Iste’molchi bank xizmatlarini ko‘rsatish to‘g‘risidagi shartnomani imzo qo‘ygandan so‘nggina tanishib chiqishi uchun o‘zi bilan olib ketishga haqli",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bank tomonidan ko‘rsatiladigan barcha xizmatlar to‘g‘risidagi ma’lumotlar iste’molchiga oshkor etilmasligi mumkin",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "97",
+      "order": 97,
+      "question": "Kredit shartnomasi tuzilguniga qadar bank iste’molchiga qanday axborotni taqdim etmaydi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bank omonati (depoziti) shartnomasi bo‘yicha nazarda tutilgan bank va iste’molchining huquq va majburiyatlari, ularning javobgarligi to‘g‘risida",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Vositachilik haqlari, tariflar va kredit olish hamda unga xizmat ko‘rsatish bilan bog‘liq bo‘lgan boshqa to‘lovlarning batafsil ro‘yxati va miqdorlari",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kredit shartnomasi bo‘yicha majburiyatlar bajarilmagan taqdirda iste’molchining javobgarligi va tavakkalchiliklari",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Garovga qo‘yuvchi, kafillik beruvchi yoki kredit shartnomasining tomoni hisoblangan boshqa shaxsning javobgarligi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "98",
+      "order": 98,
+      "question": "Qo‘pol qoidabuzarliklarni sodir etganlik uchun Markaziy bank tomonidan qo‘llaniladigan chora to‘g‘ri ko‘rsatilgan javobni belgilang.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Litsenziyani chaqirib olish",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bank kuzatuv kengashining, boshqaruvining a’zosi yoki muhim ahamiyatga ega xodimidan jarima qo‘llanilayotgan oydan avvalgi olti oy ichida olingan mukofotning sakson foizidan ortiq bo‘lmagan miqdorda jarima undirish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Banklar va bank faoliyati to‘g‘risidagi qonunchilikni buzgan holda amalga oshirilgan moliyaviy operatsiyalardan olingan daromadlarning miqdorini aniqlash imkoni bo‘lsa, bankdan ushbu daromadlarning uch baravaridan ortiq bo‘lmagan miqdorda jarima undirish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bank tomonidan o‘tgan moliya yili davomida olingan sof foydaning o‘n foizi yoki bank jami kapitalining ikki foizi miqdoridan ortiq bo‘lmagan miqdorda jarima undirish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "99",
+      "order": 99,
+      "question": "Bosh bank va filiallarda ish yuritishni tashkil etish, xat-hujjatlarni o‘z vaqtida ijro etish, shuningdek yig‘ma jildlar but saqlanishi uchun kim javobgar hisoblanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bankning barcha mas’ul xodimlari",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ijro nazorati departamenti va filiallarning ish yuritish va ijro nazorati bo‘yicha mas’ul xodimlari",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Boshqaruv raisi o‘rinbosarlari va filiallar rahbarlari",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bosh bankda departamentlar, filiallarda bo‘limlar rahbarlari",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    },
+    {
+      "id": "100",
+      "order": 100,
+      "question": "Murojaatlarga qo‘yiladigan talablarni ko‘rsating.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javoblar to‘g‘ri",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Jismoniy shaxsning murojaatida jismoniy shaxsning familiyasi (ismi, otasining ismi), uning yashash joyi to‘g‘risidagi ma’lumotlar ko‘rsatilgan bo‘lishi kerak",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Yuridik shaxsning murojaatida yuridik shaxsning to‘liq nomi, uning joylashgan manzili (pochta manzili) to‘g‘risidagi ma’lumotlar ko‘rsatilgan bo‘lishi kerak",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Murojaatlarda murojaat etuvchilarning elektron pochta manzili, aloqa telefonlari va faks raqamlari ko‘rsatilishi mumkin. Murojaatlar davlat tilida va boshqa tillarda berilishi mumkin",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "mixed"
+    }
+  ]
+}

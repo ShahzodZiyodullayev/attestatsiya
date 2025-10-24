@@ -1,31 +1,31 @@
 {
-  "title": "strategiya",
-  "sourceFileName": "strategiya.docx",
-  "count": 111,
+  "title": "Strategiya",
+  "sourceFileName": "Strategiya (2).docx",
+  "count": 101,
   "items": [
     {
       "id": "1",
       "order": 1,
-      "question": "Банкни ривожлантириш стратегияси деганда нимани тушунасиз?",
+      "question": "Bankni rivojlantirish strategiyasi deganda nimani tushunasiz?",
       "options": [
         {
           "key": "A",
-          "text": "Банк фаолиятининг йўналишини белгиловчи узоқ муддатли ривожланиш режаси",
+          "text": "Bank faoliyatining yo'nalishini belgilovchi, uning bozordagi pozisiyasini oshirishga qaratilgan uzoq muddatli rivojlanish rejasi",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Банкнинг кундалик операцияларини бошқариш жараёни",
+          "text": "Kredit portfelini ko'paytirish, aktivlarni oshirish va yuqori sof foyda olishga qaratilgan uzoq muddatli harakatlar rejasi",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Мижозлар учун таклиф этиладиган маҳсулотлар рўйхати",
+          "text": "Barcha moliyaviy ko'rsatkichlarni oshirishga qaratilgan aniq biznes-reja",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Банкнинг ички қоидалари ва стандартлари",
+          "text": "Bankni transformasiya qilishga qaratilgan chora-tadbirlar majmuasi",
           "correct": false
         }
       ],
@@ -35,26 +35,26 @@
     {
       "id": "2",
       "order": 2,
-      "question": "Банк стратегиясини ишлаб чиқишдан кўзланган асосий мақсад нимадан иборат?",
+      "question": "Bank strategiyasini ishlab chiqishdan ko'zlangan asosiy maqsad nimadan iborat?",
       "options": [
         {
           "key": "A",
-          "text": "Банкнинг барқарор ўсишини ва ренгтабеллигини таъминлаш, унинг бозордаги ўрнини яхшилаш (улушини ошириш)",
+          "text": "Bankning bozordagi ulushini oshirish va egallagan o'rnini yaxshilash",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фаолиятни қисқа муддатда оптимизация қилиш",
+          "text": "Bankning barqaror o'sishini va rengtabelligini ta'minlash",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Банк ходимлари сонини камайтириш",
+          "text": "Bankni transformasiya qilish",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Мижозларга хизмат кўрсатишни тўхтатмаслик",
+          "text": "Bank kapitali va aktivlarini oshirish, risklarni minimallashtirish",
           "correct": false
         }
       ],
@@ -64,26 +64,26 @@
     {
       "id": "3",
       "order": 3,
-      "question": "Банк миссияси?",
+      "question": "Bank missiyasi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "key": "A",
-          "text": "Жамият, мамлакат ва бизнес манфаатлари йўлида хизмат қилиш",
+          "text": "Jamiyat, mamlakat va biznes manfaati yo'lida xizmat qilish",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат мижозларга хизмат кўрсатиш",
+          "text": "Хalq, davlat va biznes manfaatlari yo'lida xizmat qilish",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Банк акциядорларига фойда олиб келиш",
+          "text": "Jamiyat, davlat va mijozlar manfaati yo'lida xizmat qilish",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат давлатга ҳисобот бериш",
+          "text": "Davlat, mamlakat va kichik biznes manfaatlari yo'lida xizmat qilish",
           "correct": false
         }
       ],
@@ -93,26 +93,26 @@
     {
       "id": "4",
       "order": 4,
-      "question": "Банкимиз Стратегиясига кўра қарашларимиз нимадан иборат?",
+      "question": "Bankimiz Strategiyasiga ko'ra qarashlarimiz nimadan iborat?",
       "options": [
         {
           "key": "A",
-          "text": "Етакчи инновацион банкмиз: биз фаол ишлаймиз ва илғор ечимлар таклиф қиламиз. Биз бозорнинг ўзгарувчан талабларига мослашувчи, мижозларга илғор ечимларни таклиф қилувчи, кичик бизнес учун етакчи инновацион банк бўлишга интиламиз",
+          "text": "Yetakchi innovasion bankmiz: biz faol ishlaymiz va ilg'or echimlar taklif qilamiz. Biz bozorning o'zgaruvchan talablariga moslashuvchi, mijozlarga ilg'or echimlarni taklif qiluvchi, kichik biznes uchun yetakchi innovasion bank bo'lishga intilamiz",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат анъанавий хизматларга эътибор қаратиш",
+          "text": "Biz bozorning o'zgaruvchan talablariga moslashuvchi, mijozlarga ilg'or echimlarni taklif qiluvchi, kichik biznes uchun yetakchi innovasion bank bo'lishga intilamiz",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Мижозлар билан чекланган алоқа",
+          "text": "Yetakchi innovasion bankmiz: biz faol ishlaymiz va ilg'or echimlar taklif qilamiz",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Ходимлар сонини камайтириш",
+          "text": "Kichik biznesga kompleks xizmatlar ko'rsatuvchi va mijozlarni uzluksiz qo'llab-quvvatlovchi tayanch bankmiz",
           "correct": false
         }
       ],
@@ -122,70 +122,55 @@
     {
       "id": "5",
       "order": 5,
-      "question": "Банкимиз Стратегиясига кўра қадриятларимиз нимадан иборат?",
+      "question": "Bankimiz Strategiyasiga ko'ra qadriyatlarimiz nimadan iborat?",
       "options": [
         {
           "key": "A",
-          "text": "BD",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "B - BETTER, Яхшироқ; D - DEDICATED, Содиқлик; B - BEYOND, Устунлик",
+          "text": "Yaxshiroq Sodiqlik Ustunlik",
           "correct": true
         },
         {
           "key": "B",
-          "text": "FFF: Focus, Fast, Fair",
+          "text": "Yaxshiroq Mijozga yo'naltirilganlik Ustunlik",
           "correct": false
         },
         {
           "key": "C",
-          "text": "AB",
-          "correct": false
-        },
-        {
-          "key": "C",
-          "text": "Accuracy, Balance, Clarity",
+          "text": "Innovasion Sodiqlik Ustunlik",
           "correct": false
         },
         {
           "key": "D",
-          "text": "XYZ: Xtra, Yield, Zeal",
+          "text": "Yaxshiroq Sodiqlik Rentabellik",
           "correct": false
         }
       ],
-      "answerKey": "B",
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "6",
       "order": 6,
-      "question": "Банкимиз Стратегиясига кўра стратегик мақсадларимиз нималардан иборат?",
+      "question": "Bankimiz Strategiyasiga ko'ra nechta strategik maqsad belgilangan?",
       "options": [
         {
           "key": "A",
-          "text": "\"Улар 4 т",
-          "correct": false
-        },
-        {
-          "key": "A",
-          "text": "Кичик бизнесга комплекс хизматлар кўрсатиш бўйича танловда биринчи банк бўлиш\n\nБизнес рентабеллигини ва акциядорлик капитални ошириш\n\nИнновацион IT-ечимлар ва юқори операцион самарадорликни таъминлаш\n\nКучли корпоратив маданият ва аниқ натижага интилувчи жамоа шакллантириш\"",
+          "text": "4 ta",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат бизнес рентабеллигини ошириш",
+          "text": "3 ta",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат мижозларга хизмат кўрсатиш",
+          "text": "2 ta",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Ходимлар сонини ошириш",
+          "text": "1 ta",
           "correct": false
         }
       ],
@@ -195,26 +180,26 @@
     {
       "id": "7",
       "order": 7,
-      "question": "Банкимиз Стратегиясига кўра маҳсулотларимиз қандай 3 та хусусиятга эга бўлиши керак?",
+      "question": "Bankimiz Strategiyasiga ko'ra strategik maqsadlarimiz nimalardan iborat?",
       "options": [
         {
           "key": "A",
-          "text": "Содда, Оммабоп, Тезкор",
+          "text": "1. Kichik biznesga kompleks xizmatlar ko'rsatish bo'yicha tanlovda birinchi bank bo'lish 2. Biznes rentabelligini va aksiyadorlik kapitalni oshirish 3. Innovasion IT-echimlar va yuqori operasion samaradorlikni ta'minlash 4. Kuchli korporativ madaniyat va aniq natijaga intiluvchi jamoa shakllantirish",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат Содда ва Тезкор",
+          "text": "1. Kichik biznesga kompleks xizmatlar ko'rsatish bo'yicha tanlovda birinchi bank bo'lish 2. Biznes rentabelligini va aksiyadorlik kapitalni oshirish 3. Innovasion IT-echimlar va yuqori operasion samaradorlikni ta'minlash",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат Оммабоп ва Содда",
+          "text": "1. Kichik biznesga kompleks xizmatlar ko'rsatish bo'yicha tanlovda birinchi bank bo'lish 2. Kuchli korporativ madaniyat va aniq natijaga intiluvchi jamoa shakllantirish",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат Тезкор ва Оммабоп",
+          "text": "1. Kichik biznesga kompleks xizmatlar ko'rsatish bo'yicha tanlovda birinchi bank bo'lish 2. Mijozlarni uzluksiz qo'llab-quvvatlovchi tayanch bank bo'lish 3. Innovasion IT-echimlar va yuqori operasion samaradorlikni ta'minlash 4. Kuchli korporativ madaniyat va aniq natijaga intiluvchi jamoa shakllantirish",
           "correct": false
         }
       ],
@@ -224,154 +209,403 @@
     {
       "id": "8",
       "order": 8,
-      "question": "Стратегияга оид 3 та асосий савол?",
+      "question": "Bankimiz Strategiyasiga ko'ra mahsulotlarimiz qanday 3 ta xususiyatga ega bo'lishi kerak?",
       "options": [
         {
           "key": "A",
-          "text": "",
+          "text": "Sodda Ommabop Tezkor",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Foydali Ommabop Tezkor",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Sodda Manfaatli Tezkor",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Sodda Ommabop Arzon",
           "correct": false
         }
       ],
-      "answerKey": null,
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "9",
       "order": 9,
-      "question": "Нега?",
-      "options": [],
-      "answerKey": null,
+      "question": "Strategiyaga oid 3 ta asosiy savol?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1. Nega? 2. Qaerda? 3. Qanday?",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "1. Qachon? 2. Qaerda? 3. Qanday?",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "1. Qachon? 2. Kim? 3. Qanday?",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "1. Qachon? 2. Qaerda? 3. Qancha?",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "10",
       "order": 10,
-      "question": "Қаерда?",
-      "options": [],
-      "answerKey": null,
+      "question": "Strategiya ishlab chiqishda qanday omillar inobatga olinishi kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ichki va tashqi omillar",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mavjud moliyaviy resurslar, inson resurslar, tajriba va imkoniyatlar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tashqi omillar - makroiqtisodiy holat, texnologik innovasiyalar, bozordagi trendlar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Markaziy bank talablari",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "11",
       "order": 11,
-      "question": "Қандай? ✔️",
+      "question": "SWOT-analiz nima degani?",
       "options": [
         {
+          "key": "A",
+          "text": "Bankning kuchli va zaif tomonlarining hamda mavjud imkoniyatlar va tahdidlarning tahlili",
+          "correct": true
+        },
+        {
           "key": "B",
-          "text": "",
+          "text": "Bankning asosiy ko'rsatkichlari tahlili",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bankning kuchli va zaif tomonlarining tahlili",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bankning asosiy ko'rsatkichlari prognozi",
           "correct": false
         }
       ],
-      "answerKey": null,
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "12",
       "order": 12,
-      "question": "Қачон?",
-      "options": [],
-      "answerKey": null,
+      "question": "Strategiya ishlab chiqishda Bankimizning qanday kuchli tomonlari inobatga olingan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Keng mijozlar bazasi, keng filiallar tarmog'i, aholining davlat banklariga ishonchi, davlat banki sifatida mijozlarga taqdim etiladigan keng imtiyozlar",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Keng filiallar tarmog'i, aholining davlat banklariga ishonchi, yuqori moliyaviy ko'rsatkichlar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Keng mijozlar bazasi, davlat banki sifatida mijozlarga taqdim etiladigan keng imtiyozlar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Aholining davlat banklariga ishonchi, kichik biznesga taqdim etiladigan keng imtiyozlar",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "13",
       "order": 13,
-      "question": "Қаерда?",
-      "options": [],
-      "answerKey": null,
+      "question": "\"Raqamli transformasiya\" nimani anglatadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mahsulotlarni raqamlashtirish, kanallarni raqamlashtirish, mijozlarni raqamlashtirish, bek-ofis va biznes-jarayonlarni raqamlashtirish",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mahsulotlarni raqamlashtirish, kanallarni raqamlashtirish, mijozlarni raqamlashtirish, filiallarni raqamlashtirish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mahsulotlarni raqamlashtirish, kanallarni raqamlashtirish, asosiy vositalarni raqamlashtirish, bek-ofis va biznes-jarayonlarni raqamlashtirish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kreditlarni raqamlashtirish, kanallarni raqamlashtirish, mijozlarni raqamlashtirish, bek-ofis va biznes-jarayonlarni raqamlashtirish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "14",
       "order": 14,
-      "question": "Қандай?",
+      "question": "Raqamli transformasiya nima beradi?",
       "options": [
         {
+          "key": "A",
+          "text": "Samaradorlik oshadi, xarajatlar kamayadi, xizmat ko'rsatish sifati va sotuv hajmlari oshadi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Kreditlar soni oshadi, xarajatlar kamayadi, xizmat ko'rsatish sifati va sotuv hajmlari oshadi",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "",
+          "text": "Samaradorlik oshadi, xodimlar soni kamayadi, xizmat ko'rsatish sifati va sotuv hajmlari oshadi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Samaradorlik oshadi, xarajatlar kamayadi, filiallar soni ko'payadi",
           "correct": false
         }
       ],
-      "answerKey": null,
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "15",
       "order": 15,
-      "question": "Нега?",
-      "options": [],
-      "answerKey": null,
+      "question": "Bankimiz Strategiyasiga ko'ra 2026 yilga qadar qanday kreditlar ulushini qisqartirish nazarda tutilgan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Davlat dasturiga oid kreditlar ulushini",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ipoteka kreditlari ulushini",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Qurilishga ajratiladigan kreditlar ulushini",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Chakana biznesga oid kreditlar ulushini",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "16",
       "order": 16,
-      "question": "Қачон?",
-      "options": [],
-      "answerKey": null,
+      "question": "Bankimizning amaldagi Strategiyasi qaysi yillarga mo'ljallangan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2024-2026 yillarga",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "2025-2030 yillarga",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "2025-2050 yillarga",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "2025-2035 yillarga",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "17",
       "order": 17,
-      "question": "Қандай?",
+      "question": "Bankimiz Strategiyasiga ko'ra qaysi turdagi daromadlarni keskin oshirish nazarda tutilgan?",
       "options": [
         {
+          "key": "A",
+          "text": "Foizsiz daromadlarni",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Foizli daromadlarni",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Operasion xarajatlarni",
+          "correct": false
+        },
+        {
           "key": "D",
-          "text": "",
+          "text": "Sof daromadni",
           "correct": false
         }
       ],
-      "answerKey": null,
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "18",
       "order": 18,
-      "question": "Нега?",
-      "options": [],
-      "answerKey": null,
+      "question": "Bankimiz Strategiyasiga ko'ra mijozlar sonini oshirish bo'yicha nima nazarda tutilmagan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Filiallar ochib, bank tarmoqlarini kengaytirish",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Sotuv kanallarini raqamlashtirish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Raqamli mahsulotlar sotuvini oshirish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Referal dastur ishlab chiqish va amalga oshirish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "19",
       "order": 19,
-      "question": "Қаерда?",
-      "options": [],
-      "answerKey": null,
+      "question": "Chakana biznes yo'nalishini rivojlantirishda qaysi xizmat ko'rsatish kanali ustuvor hisoblanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mobil ilova",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Yangi filiallar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Veb-sayt",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bank-mijoz",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "20",
       "order": 20,
-      "question": "Қачон?",
-      "options": [],
-      "answerKey": null,
+      "question": "Bankimiz Strategiyasiga ko'ra bir mijozga to'g'ri keladigan mahsulotlar sonini ko'paytirish uchun qanday usullar nazarda tutilgan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javoblar to'g'ri",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijozlarning sodiqlik dasturini joriy etish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kross-sotuvlarni tashkil etish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Paketli takliflar ishlab chiqish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "21",
       "order": 21,
-      "question": "Стратегия ишлаб чиқишда қандай омиллар инобатга олиниши керак?",
+      "question": "Bankimiz Strategiyasiga ko'ra qanday raqamli kanallarni rivojlantirish nazarda tutilgan?",
       "options": [
         {
           "key": "A",
-          "text": "Ички омиллар ва ташқи омиллар",
+          "text": "Barcha javoblar to'g'ri",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат ички омиллар",
+          "text": "Internet-banking",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат ташқи омиллар",
+          "text": "Chat-bot",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Омиллар инобатга олинмайди",
+          "text": "Mobil ilovalar",
           "correct": false
         }
       ],
@@ -381,26 +615,26 @@
     {
       "id": "22",
       "order": 22,
-      "question": "SWOT-анализ нима дегани?",
+      "question": "O'zgarishlar agentlari qanday vazifani amalga oshiradi?",
       "options": [
         {
           "key": "A",
-          "text": "Банкнинг кучли ва заиф томонларининг ҳамда мавжуд имкониятлар ва таҳдидлар таҳлили",
+          "text": "Bankda ijobiy o'zgarishlarni ilgari suradi, joylarda transformasiya mazmuni va natijalarini targ'ib qiladi",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Мижозларнинг кўрсаткичлар таҳлили",
+          "text": "Bankda o'zgarishlarni amalga oshiradi, biznes-jarayonlarni transformasiya qiladi",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Банк хизматларини тақсимлаш",
+          "text": "Bankda o'zgarishlarni amalga oshiradi, operasion samaradorlikni ta'minlaydi",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фаолиятнинг қисқа муддатли режаси",
+          "text": "Bankda o'zgarishlarni amalga oshiradi, kreditlash jarayonlarini transformasiya qiladi",
           "correct": false
         }
       ],
@@ -410,26 +644,26 @@
     {
       "id": "23",
       "order": 23,
-      "question": "Банкимизнинг кучли томонлари нимадан иборат деб ўйлайсиз?",
+      "question": "Loyiha boshqaruvi deganda nimani tushunasiz?",
       "options": [
         {
           "key": "A",
-          "text": "Кенг мижозлар базаси, кенг филиаллар тармоғи, аҳолининг давлат банкларига ишончи, давлат банки сифатида мижозларга тақдим этиладиган кенг имтиёзлар",
+          "text": "Loyiha boshqaruvi - bu muayyan natijaga erishish uchun loyiha ishini rejalashtirish, tashkil etish, boshqarish va nazorat qilish jarayoni",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат молиявий ресурслар",
+          "text": "Loyiha boshqaruvi - bu tarkibiy bo'linmalar o'rtasida kommunikasiyani kuchaytirish hamda loyihalar va vazifalarning o'z muddatida amalga oshirilishini nazorat qilish jarayoni",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат кредитлар улуши",
+          "text": "Loyiha boshqaruvi - bu muayyan natijaga erishish uchun Agile tizimi orqali yangi mahsulotlarni joriy qilish jarayoni",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат рақамли технологиялар",
+          "text": "Loyiha boshqaruvi - bu departamentlar ishtirokida Kanban mitinglar va Retrospektivalar o'tkazish jarayoni",
           "correct": false
         }
       ],
@@ -439,26 +673,26 @@
     {
       "id": "24",
       "order": 24,
-      "question": "Банкимизнинг заиф томонлари нимадан иборат деб ўйлайсиз?",
+      "question": "Loyiha menejeri kim?",
       "options": [
         {
           "key": "A",
-          "text": "Бизнес жараёнларнинг нисбатан мураккаблиги, рақамлаштириш даражасининг пастлиги, таркибий бўлинмалар ўртасидаги коммуникациянинг заифлиги, ходимларда замонавий билим ва кўникмаларнинг етишмаслиги",
+          "text": "Loyiha maqsadlari, vazifalari va loyiha guruhining kundalik boshqaruvi uchun mas'ul bo'lgan xodim",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат мижозлар базаси кичик",
+          "text": "Loyiha ishtirokchilari faoliyatini nazorat qiluvchi xodim",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат филиаллар кам",
+          "text": "Loyiha guruhining kundalik boshqaruvi uchun mas'ul bo'lgan xodim",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат технологиялар етарли эмас",
+          "text": "Loyiha maqsadlari, vazifalari uchun mas'ul bo'lgan xodim",
           "correct": false
         }
       ],
@@ -468,26 +702,26 @@
     {
       "id": "25",
       "order": 25,
-      "question": "Стратегияни муваффақиятли амалга оширишга қандай имкониятлар таъсир қилади?",
+      "question": "Kanban tizimi (usuli) deganda nimani tushunasiz?",
       "options": [
         {
           "key": "A",
-          "text": "Инновацияларнинг такомиллашиши, халқаро молиявий институтларнинг қизиқиши, ЯИМнинг ўсиши, меҳнатга лаёқатли аҳолининг кўпайиши, масофадан хизмат кўрсатиш кўламининг кенгайиши",
+          "text": "Kanban - bu loyiha va ish jarayonini boshqarish usuli bo'lib, u maxsus taxtalarda (doskalarda) vazifalarni ko'rsatadi (vizualizasiya qiladi). Vazifalar ish bosqichlarini ifodalovchi ustunlar bo'ylab harakatlanadigan kartochkalar sifatida ifodalanadi.",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат иқтисодий ўсиш",
+          "text": "Kanban - bu Bankning kuchli va zaif tomonlarining hamda mavjud imkoniyatlar va tahdidlarning tahlili.",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат рақобатнинг кучайиши",
+          "text": "Kanban - bu sof foizli marja, ya'ni sof foizli daromadlarning foizli daromad keltiruvchi aktivlarga nisbati. Bu bank aktivlari va majburiyatlarini qanchalik samarali boshqarayotganligini bildiradi",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат маркетинг",
+          "text": "Kanban - bu muayyan natijaga erishish uchun Agile tizimi orqali yangi mahsulotlarni joriy qilish jarayoni",
           "correct": false
         }
       ],
@@ -497,26 +731,26 @@
     {
       "id": "26",
       "order": 26,
-      "question": "Стратегияни амалга оширишга қандай таҳдидлар таъсир қилади?",
+      "question": "Kanban doskada joylashgan vazifalar (loyihalar) qanday ketma-ketlikda muhokama qilinadi?",
       "options": [
         {
           "key": "A",
-          "text": "Рақобатнинг кучайиши, аҳоли молиявий саводхонлигининг пастлиги, геосиёсий ҳолат, юқори малакали мутахассисларнинг етишмаслиги",
+          "text": "O'ngdan chapga, yuqoridan pastga",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат рақобат",
+          "text": "O'ngdan chapga, pastdan yuqoriga",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат аҳоли сони",
+          "text": "Chapdan o'ngga, yuqoridan pastga",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат технология",
+          "text": "Yuqoridan pastga, chapdan o'ngga",
           "correct": false
         }
       ],
@@ -526,26 +760,26 @@
     {
       "id": "27",
       "order": 27,
-      "question": "\"Рақамли трансформация\" деганда нимани тушунасиз?",
+      "question": "Bank qanday nomoliyaviy xizmatlarni joriy etishni rejalashtirgan?",
       "options": [
         {
           "key": "A",
-          "text": "Маҳсулотларни рақамлаштириш, каналларни рақамлаштириш, мижозларни рақамлаштириш, бэк-офис ва бизнес-жараёнларни рақамлаштириш",
+          "text": "Biznes yuritish, buxgalteriya hisobi, hisobotlar tayyorlash va taqdim etish, soliq to'lovlari, eksport-import operasiyalari sohalarida konsalting, shuningdek o'quv-treninglar",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат мижозларни рақамлаштириш",
+          "text": "Sug'urta faoliyatining quyidagi turlari: hayot sug'urtasi, bino va boshqa ko'chmas mulklarni turli zararlardan sug'urtalash",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат каналларни рақамлаштириш",
+          "text": "Notarius, apostil va logistika xizmatlarini ko'rsatish bilan bog'liq konsalting va qo'llab-quvvatlash, treninglar o'tkazishni tashkil etish",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат бэк-офисни рақамлаштириш",
+          "text": "To'g'ri javob yo'q",
           "correct": false
         }
       ],
@@ -555,26 +789,26 @@
     {
       "id": "28",
       "order": 28,
-      "question": "Рақамли трансформация нима беради?",
+      "question": "Loyiha boshqaruvi ofisi (PMO) tashkil etilishining maqsad va vazifalari nimalardan iborat?",
       "options": [
         {
           "key": "A",
-          "text": "Самарадорликнинг ошиши, харажатларнинг камайиши, хизмат кўрсатиш сифати ва сотув ҳажмларининг ошиши",
+          "text": "Loyihalardan ko'riladigan qiymatni oshirish, loyiha boshqaruvini markazlashtirish va standartlashtirish, loyiha jarayonlarini takomillashtirish",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат самарадорлик",
+          "text": "Bankni transformasiya qilish, loyihalar bo'yicha Raisga axborot tayyorlash, loyiha jarayonlarini takomillashtirish",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат харajatларни камайиши",
+          "text": "Operasion xarajatlarni kamaytirish, loyiha boshqaruvini markazlashtirish va standartlashtirish, Markaziy bankka ma'lumotlar tayyorlash",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат сотув ҳажми",
+          "text": "Har chorakda transformasiya bo'yicha prezentasiyalar tayyorlash, loyiha boshqaruvini markazlashtirish va standartlashtirish, loyiha jarayonlarini takomillashtirish",
           "correct": false
         }
       ],
@@ -584,26 +818,26 @@
     {
       "id": "29",
       "order": 29,
-      "question": "Банкимиз Стратегиясига кўра 2026 йилга қадар қайси йўналишдаги кредитлар улушини қисқартириш назарда тутилган?",
+      "question": "Bankda nimalarni raqamlashtirish kerak?",
       "options": [
         {
           "key": "A",
-          "text": "Давлат дастурига оид кредитлар улушини",
+          "text": "Mahsulotlarni, mijozlarni (raqamli onbording), aloqa va sotuv kanallarini, ma'lumotlarni (hisobotlarni), bek-ofisni va h.k.",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Тижорат кредитлари",
+          "text": "Har bir segmentdagi mijozlar uchun mahsus bank mahsulotlarini taklif qilish, ular bilan muloqot qilishning alohida modellarini ishlab chiqish va qo'llash.",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Ипотека кредитлари",
+          "text": "Mahsulotlar jozibadorligi, tahliliy CRM, kross-sotuvlar, mijozga individual yondashuv va h.k.",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Хорижий кредитлар",
+          "text": "Tushum (aylanma), xodimlar soni, kreditlanganligining o'rtacha darajasi, moliya bozoridagi xulq-atvori (iste'mol qilish xususiyatlari) va b.",
           "correct": false
         }
       ],
@@ -613,26 +847,26 @@
     {
       "id": "30",
       "order": 30,
-      "question": "Банкимизнинг амалдаги Стратегияси қайси йилларга мўлжалланган?",
+      "question": "Mavjud mijozlar orqali chakana biznes mijozlarini ko'paytirishning eng samarali chorasi nima?",
       "options": [
         {
           "key": "A",
-          "text": "2024-2026 йилларга",
+          "text": "Referal dasturlar orqali",
           "correct": true
         },
         {
           "key": "B",
-          "text": "2025-2027 йилларга",
+          "text": "Mutaxassislar maslahati",
           "correct": false
         },
         {
           "key": "C",
-          "text": "2023-2025 йилларга",
+          "text": "Televidenie va radio",
           "correct": false
         },
         {
           "key": "D",
-          "text": "2026-2028 йилларга",
+          "text": "Tashqi reklama",
           "correct": false
         }
       ],
@@ -642,26 +876,26 @@
     {
       "id": "31",
       "order": 31,
-      "question": "Банкимиз Стратегиясига кўра қайси турдаги даромадларни кескин ошириш назарда тутилган?",
+      "question": "Bank Strategiyasida belgilangan maqsadlarga erishish, Yo'l xaritasidagi tashabbuslarning bajarilishini ta'minlash uchun Bankda qanday usullar qo'llanilmoqda?",
       "options": [
         {
           "key": "A",
-          "text": "Фоизсиз даромадларни. Номолиявий ва нобанк хизматларини кенгайтириш орқали",
+          "text": "Barcha javoblar to'g'ri",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат фоизли даромад",
+          "text": "Хodimlar KPI kartasiga talablar kiritilgan, Kanban tizimi yo'lga qo'yilgan",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат кредит орқали даромад",
+          "text": "Smart Ofisda tarkibiy bo'linmalar tomonidan ishlab chiqilgan Harakatlar rejasining ijrosi nazoratga olingan, rahbariyatga muntazam tahliliy ma'lumotnomalar kiritiladi",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат валюта операциялари",
+          "text": "Boshqaruv va Kengashga choraklik hisobotlar tayyorlanadi",
           "correct": false
         }
       ],
@@ -671,26 +905,26 @@
     {
       "id": "32",
       "order": 32,
-      "question": "ESG нима дегани?",
+      "question": "ESG nima degani?",
       "options": [
         {
           "key": "A",
-          "text": "Environmental, Social, Governance - экологик, ижтимоий ва бошқарувдаги факторлар",
+          "text": "Environmental, Social, Governance - ekologik, ijtimoiy faktorlar va korporativ boshqaruv tamoyillari",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Economic, Social, Growth",
+          "text": "Economic, Social, Governance - iqtisodiy, ijtimoiy va boshqaruvdagi prinsiplar",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Environmental, Sustainability, Governance",
+          "text": "Economic, Social, Gravitational - iqtisodiy, ilmiy va gravitasiya qonuni",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Efficiency, Sustainability, Growth",
+          "text": "Economic, Scientific, Gravity - iqtisodiy, ilmiy va gravitasion faktorlar",
           "correct": false
         }
       ],
@@ -700,55 +934,55 @@
     {
       "id": "33",
       "order": 33,
-      "question": "ESG тамойилларини жорий этиш банкка нима беради?",
+      "question": "ESG tamoyillarini joriy etish bankka nima beradi?",
       "options": [
         {
           "key": "A",
-          "text": "Мижозлар сонини қисқартириш ва фақат ички жараёнларни оптималлаштириш.",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Банкнинг халқаро бозордаги нуфузи ошади, инвестицияларни жалб қилиш осонлашади, мижозлар содиқлиги ва қониқиши ошади.",
+          "text": "Bankning xalqaro bozordagi nufuzi oshadi, investisiyalarni jalb qilish osonlashadi",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "Mijozlar soni oshadi, investisiyalarni jalb qilish osonlashadi",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Фақат ички ходимлар самарадорлигини баҳолаш ва иш жараёнларини камайтириш.",
+          "text": "Bankning xorijiy to'g'ridan to'g'ri investisiyalari hajmi oshadi, aksiyalar emissiya qilish imkoniyati ortadi",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Қарз бериш ҳажмини камайтириш ва фоиз даражаларини пасайтириш.",
+          "text": "Mijozlar soni oshadi, obligasiyalar emissiya qilish imkoniyati ortadi",
           "correct": false
         }
       ],
-      "answerKey": "B",
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "34",
       "order": 34,
-      "question": "CRM нима дегани?",
+      "question": "CRM nima degani?",
       "options": [
         {
           "key": "A",
-          "text": "Customer Relationship Management.  Мижозлар билан ўзаро мулоқотни бошқариш бўйича автоматлаштирилган ва рақамлаштирилган тизим.",
+          "text": "Customer Relationship Management. Mijozlar bilan o'zaro muloqotni boshqarish bo'yicha avtomatlashtirilgan va raqamlashtirilgan tizim",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Компютер ресурсларини самарали тақсимлаш тизими.",
+          "text": "Client Relationship Management. Mijozlar bilan o'zaro muloqotni boshqarish loyihasi",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Ходимлар фаолиятини баҳолаш ва мотивация тизими.",
+          "text": "Client Relationship Management. Mijozlarga kredit ajratishning avtomatlashtirilgan va raqamlashtirilgan tizimi",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат маркетинг ва реклама жараёнларини бошқариш учун ишлатиладиган дастур.",
+          "text": "Customer Relationship Management. Mijozlar bilan masofadan turib muloqot qilish kanali",
           "correct": false
         }
       ],
@@ -758,26 +992,26 @@
     {
       "id": "35",
       "order": 35,
-      "question": "Банкимиз Стратегиясига кўра мижозлар сонини ошириш бўйича нима назарда тутилмаган?",
+      "question": "Bankimiz Strategiyasiga ko'ra mahsulotlarni tezkorlik bilan ishlab chiqishni ta'minlovchi qanday yangi tashkiliy tuzilma joriy etilishi nazarda tutilgan?",
       "options": [
         {
           "key": "A",
-          "text": "Мамлакатнинг ҳар бир туманида филиаллар очиб, банк тармоқларини кенгайтириш.",
+          "text": "Agile",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Рақамли каналлар орқали мижозларни жалб қилиш.",
+          "text": "Scrum",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Лояльлик дастурлари ва пакетли таклифларни жорий қилиш.",
+          "text": "Kanban",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Мижозлар билан мулоқотни яхшилаш ва уларнинг қониқишини ошириш.",
+          "text": "Change",
           "correct": false
         }
       ],
@@ -787,31 +1021,26 @@
     {
       "id": "36",
       "order": 36,
-      "question": "Чакана бизнес йўналишини ривожлантиришда қайси хизмат кўрсатиш канали устувор ҳисобланади?",
+      "question": "Loyihaning hayotiy sikli nima degani?",
       "options": [
         {
           "key": "A",
-          "text": "Мобиль илова, мижозларга тезкор ва қулай хизмат кўрсатиш имконини берувчи асосий рақамли канал.",
+          "text": "Loyihaning boshlanishi va tugashi o'rtasidagi vaqt oralig'i",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Телефон орқали фақат қўлда бажариладиган хизматлар.",
+          "text": "Loyiha ishini rejalashtirish, tashkil etish, boshqarish va nazorat qilish",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат банк филиаллари орқали шахсий хизматлар.",
+          "text": "Loyihaning choraklik vazifalari",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Почта орқали ҳисо",
-          "correct": false
-        },
-        {
-          "key": "Б",
-          "text": "китоблар ва хабарлар.",
+          "text": "Loyiha bo'yicha har chorakdagi oraliq hisobotlar",
           "correct": false
         }
       ],
@@ -821,26 +1050,26 @@
     {
       "id": "37",
       "order": 37,
-      "question": "Банкимиз Стратегиясига кўра бир мижозга тўғри келадиган маҳсулотлар сонини кўпайтириш учун қандай усуллар назарда тутилган?",
+      "question": "Loyiha natijalarining kelajakdagi iste'molchisi kim hisoblanadi?",
       "options": [
         {
           "key": "A",
-          "text": "Мижозларнинг содиқлик дастурини жорий этиш, кросс-сотувларни ташкил этиш, пакетли таклифлар ишлаб чиқиш.",
+          "text": "Loyiha buyurtmachisi",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат мижозларга битта асосий маҳсулот таклиф қилиш.",
+          "text": "Bank mijozlari",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Мижозлар базасини қисқартириш ва фақат юқори даромадли мижозларга хизмат кўрсатиш.",
+          "text": "Moliyaviy xizmatlar iste'molchilari",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Ходимлар сонини камайтириш орқали харажатни оптималлаштириш.",
+          "text": "Bank Boshqaruvi",
           "correct": false
         }
       ],
@@ -850,31 +1079,26 @@
     {
       "id": "38",
       "order": 38,
-      "question": "Банкимиз Стратегиясига кўра қандай рақамли каналларни ривожлантириш назарда тутилган?",
+      "question": "Kanban usuli asosida ishni tashkil qilishning byurokratik usuldan farqi nimada?",
       "options": [
         {
           "key": "A",
-          "text": "Интернет-банкинг, Чат-бот, Мобиль иловалар – мижозларга онлайн хизмат кўрсатиш ва самарадорликни ошириш.",
+          "text": "Kanban usuli turli tarkibiy bo'linmalar xodimlariga vazifalar (topshiriqlar, loyihalar) ustida birlashish va uning ijrosini hamkorlikda tashkil etish imkonini beradi",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат офисда хизмат кўрсатиш.",
+          "text": "Kanban usuli har bir departament o'z faoliyati doirasida xodimlariga vazifalar (topshiriqlar, loyihalar) ustida jipslashish va uning ijrosini tashkil etish imkonini beradi",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Телефон орқали консультация ва қўлда амалга ошириладиган хизматлар.",
+          "text": "Kanban usuli Boshqaruv a'zolariga bankning muhim masalalari to'g'risida muhokamalar tashkil qilish va qarorlar qabul qilish imkonini beradi",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат почта орқали ҳисо",
-          "correct": false
-        },
-        {
-          "key": "Б",
-          "text": "китоблар.",
+          "text": "Kanban usuli Bank aksiyadorlariga bankning muhim masalalari bo'yicha to'g'ri qarorlar qabul qilish imkonini beradi",
           "correct": false
         }
       ],
@@ -884,26 +1108,26 @@
     {
       "id": "39",
       "order": 39,
-      "question": "Банкимиз Стратегиясига кўра маҳсулотларни тезкорлик билан ишлаб чиқишни таъминловчи қандай янги ташкилий тузилма жорий этилиши назарда тутилган?",
+      "question": "Kanban usulida nima uchun \"moliyaviy samara\" va metrikalardan foydalanish muhim?",
       "options": [
         {
           "key": "A",
-          "text": "Agile. Agileнинг асосий афзаллиги шундаки, у мижозларнинг ўзгарувчан эҳтиёжларини қондиришга ёрдам беради.",
+          "text": "Bu loyihalarni ustuvorlik bo'yicha taqsimlashga (prioritizasiya) va qaysi tashabbus ayni paytda ahamiyatli ekanligini aniqlashga yordam beradi",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Классик проект бошқаруви (Waterfall) ва бюрократик жараёнларни қўллаш.",
+          "text": "Bu vazifalar qancha muddatda amalga oshirilishini va qaysi tashabbus ayni paytda ahamiyatli ekanligini aniqlashga yordam beradi",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат ички ҳамкорлик ва ходимлар учун тренинглар.",
+          "text": "Bu vazifalar qancha muddatda amalga oshirilishini va qaysi tashabbus ayni paytda yakunlanayotganligini aniqlashga yordam beradi",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат филиаллар самарадорлигини баҳолаш тизими.",
+          "text": "Bu vazifalar qancha muddatda amalga oshirilishini va qaysi tashabbus Boshqaruv muhokamasiga kiritilishi lozimligini aniqlashga yordam beradi",
           "correct": false
         }
       ],
@@ -913,26 +1137,26 @@
     {
       "id": "40",
       "order": 40,
-      "question": "Ўзгаришлар агентлари деганда нимани тушунасиз?",
+      "question": "Kanban usulida vizualizasiyaning ahamiyati nimada?",
       "options": [
         {
           "key": "A",
-          "text": "Банкда ижобий ўзгаришларни илгари сурувчи ходимлар, улар трансформация мазмунини тарғиб қилиш, семинар ва тренинглар ташкил қилишда иштирок этишади.",
+          "text": "To'xtab qolgan (bloker qo'yilgan) vazifalarni alohida nazoratga olish va jarayondagi \"tor joylar\"ni aniq ko'rish imkonini beradi",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат юрисдикция ва ҳуқуқий ўзгаришлар билан шуғулланувчи ходимлар.",
+          "text": "Har bir vazifa yoki loyihaning ijro holatini (bosqichini, maqomini) aniq ko'rish imkonini beradi",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат IT-система ва технологияларни янгилаш учун масъуллар.",
+          "text": "Loyihalar narhini aniqlash imkonini beradi",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Мижозларни жалб қилиш ва маркетинг стратегияларини ишлаб чиқиш ходимлари.",
+          "text": "Boshqaruv Raisiga loyihalar to'g'risida joriy ma'lumotni ko'rib turish imkonini beradi",
           "correct": false
         }
       ],
@@ -942,36 +1166,26 @@
     {
       "id": "41",
       "order": 41,
-      "question": "Лойиҳани бошқариш деганда нимани тушунасиз?",
+      "question": "Kanban tizimida ko'zda tutilgan retorospektivalarni o'tkazish sababi?",
       "options": [
         {
           "key": "A",
-          "text": "Лойиҳани бошқариш – муайян натижага эришиш учун лойиҳа ишини режалаштириш, ташкил этиш, бошқариш ва назорат қилиш жараёни. Бу самарадорликни ошириш, харажатларни камайтириш ва иш сифатини яхшилаш учун муҳим восит",
+          "text": "Loyihalar ustida ishlash jarayonlarini takomillashtirish bo'yicha vazifalar belgilab olish",
           "correct": true
         },
         {
-          "key": "A",
-          "text": "",
-          "correct": false
-        },
-        {
           "key": "B",
-          "text": "Фақат молиявий ҳисо",
-          "correct": false
-        },
-        {
-          "key": "Б",
-          "text": "китобларни тайёрлаш.",
+          "text": "Loyihalar ustida ishlash bo'yicha uch oylik maqsadlarni belgilab olish",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат ходимлар иш фаолиятини мониторинг қилиш.",
+          "text": "Loyihalarning sof foydaga ta'sirini muhokama qilish",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат маркетинг ва реклама жараёнларини назорат қилиш.",
+          "text": "Loyihalar bo'yicha rahbariyatga axborot tayyorlash masalalarini muhokama qilish",
           "correct": false
         }
       ],
@@ -981,26 +1195,26 @@
     {
       "id": "42",
       "order": 42,
-      "question": "Лойиҳанинг ҳаётий цикли нима дегани?",
+      "question": "Kanban doskada loyiha yurmay to'xtab qolsa nima qilish kerak bo'ladi?",
       "options": [
         {
           "key": "A",
-          "text": "Лойиҳанинг бошланиши ва тугаши ўртасидаги вақт оралиғи, бу вақтда лойиҳа режалаштирилади, амалга оширилади ва баҳоланади.",
+          "text": "Muammoni qizil kartochkada aks ettirib, muammo qachon yuzaga kelgani, uni hal qilish uchun mas'ul, qaysi sanada hal bo'lishi kutilayotgani, muammoning mazmuni va h.k.lar to'g'risidagi ma'lumotlar kiritiladi. Muammoni hal qilishga mas'ul bo'lgan xodimga qanday yordam berish birgalikda Kanban-mitingda muhokama qilinadi. Biron qarorga kelib, vazifalar taqsimlanib, uni hal qilishga kirishiladi",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат лойиҳани бошлаш вақти.",
+          "text": "Muammoni hal qilish bo'yicha Markaziy bankka murojaat tayyorlanadi",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат лойиҳани ёпиш вақти.",
+          "text": "Muammoni hal qilish bo'yicha Boshqaruv Raisiga bildirishnoma kiritiladi",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат лойиҳадаги ходимлар сони ва бюджетни назарда тутади.",
+          "text": "Muammoni hal qilish bo'yicha OTBga (yoki boshqa halqaro tashkilotga) murojaat qilinadi",
           "correct": false
         }
       ],
@@ -1010,26 +1224,26 @@
     {
       "id": "43",
       "order": 43,
-      "question": "Лойиҳа натижаларининг келажакдаги истеъмолчиси ким ҳисобланади?",
+      "question": "Kanban doskada loyihaning maqomi (holati) qanday aniqlanadi?",
       "options": [
         {
           "key": "A",
-          "text": "Лойиҳа буюртмачиси (эгаси) – у лойиҳадан фойдаланади ва натижадан манфаат кўради.",
+          "text": "Uning qaysi ustunda ekanligiga qarab aniqlanadi",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат лойиҳада ишловчи ходимлар.",
+          "text": "Uning byudjetiga qarab aniqlanadi",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Мижозлар, аммо лойиҳа натижаси уларга қаратилмаган.",
+          "text": "Uning muddatiga qarab aniqlanadi",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат IT-жамоа ва ички мутахассислар.",
+          "text": "Uning samaradoligiga qarab aniqlanadi",
           "correct": false
         }
       ],
@@ -1039,26 +1253,26 @@
     {
       "id": "44",
       "order": 44,
-      "question": "Лойиҳа менежери ким?",
+      "question": "Bankimiz Strategiyasiga ko'ra bank tarmoqlarini rivojlantirishda qanday modelni joriy etish nazarda tutilgan?",
       "options": [
         {
           "key": "A",
-          "text": "Бу лойиҳа мақсадлари, вазифалари ва лойиҳа гуруҳининг кундалик бошқаруви учун масъул ходим.",
+          "text": "«Hub & Spoke»",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат бюджет ва молиявий ресурслар учун масъул ходим.",
+          "text": "«Business Hub»",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат маркетинг ва реклама жараёнларини назорат қилувчи ходим.",
+          "text": "\"RUN & CHANGE\"",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат техник таъминот ва IT-система учун масъул ходим.",
+          "text": "\"Scrum & CHANGE\"",
           "correct": false
         }
       ],
@@ -1068,26 +1282,26 @@
     {
       "id": "45",
       "order": 45,
-      "question": "Лойиҳа рискларини бошқариш нималарни назарда тутади?",
+      "question": "Bankning yangi tashkiliy-funksional modelidagi RUN tushunchasi nimani bildiradi?",
       "options": [
         {
           "key": "A",
-          "text": "Зарарни камайтириш ва рентабелликни ошириш учун вазиятни аниқлаш, таҳлил қилиш, баҳолаш, қайта ишлаш, хатарларни кузатиш ва ахборот алмашинуви вазифаларига сиёсат, процедура ва бошқарув усулларини мунтазам равишда қўллаш.",
+          "text": "Joriy faoliyat, har kungi vazifalar bilan shug'ullanuvchi xodimlar",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат ходимларнинг иш самарадорлигини баҳолаш.",
+          "text": "Loyihadan olinayotgan daromadni bildiradi",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат бюджетни назорат қилиш ва харажатларни қисқартириш.",
+          "text": "Bank faoliyatiga yangi o'zgarishlarni joriy etish bilan shug'ullanuvchi xodimlar",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат IT ва технологияларни янгилаш.",
+          "text": "Biznes yuritish, buxgalteriya hisobi, hisobotlar tayyorlash va taqdim etish, soliq to'lovlari, eksport-import operasiyalari sohalarida konsalting, shuningdek o'quv-treninglar",
           "correct": false
         }
       ],
@@ -1097,36 +1311,26 @@
     {
       "id": "46",
       "order": 46,
-      "question": "Канбан тизими (усул",
+      "question": "Bankning yangi tashkiliy-funksional modelidagi CHANGE tushunchasi nimani bildiradi?",
       "options": [
         {
           "key": "A",
-          "text": "Канбан – лойиҳа ва иш жараёнини бошқариш усули бўлиб, у махсус тахталарда (доскалард",
+          "text": "Bank faoliyatiga yangi o'zgarishlarni joriy etish bilan shug'ullanuvchi xodimlar",
           "correct": true
         },
         {
-          "key": "A",
-          "text": "вазифаларни кўрсатади (визуализация қилади). Вазифалар иш босқичларини ифодаловчи устунлар бўйлаб ҳаракатланадиган карточкалар сифатида ифодаланади.",
-          "correct": false
-        },
-        {
           "key": "B",
-          "text": "Фақат молиявий ҳисо",
-          "correct": false
-        },
-        {
-          "key": "Б",
-          "text": "китобларни автоматлаштириш усули.",
+          "text": "Bank tarmoqlarini rivojlantirishga qaratilgan modelni bildiradi",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат ходимларнинг соатлик самарадорлигини кузатиш усули.",
+          "text": "Biznes yuritish, buxgalteriya hisobi, hisobotlar tayyorlash va taqdim etish, soliq to'lovlari, eksport-import operasiyalari sohalarida konsalting, shuningdek o'quv-treninglar",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат маркетинг ва реклама жараёнларини назорат қилиш усули.",
+          "text": "Loyihadan olinayotgan daromadni bildiradi",
           "correct": false
         }
       ],
@@ -1136,26 +1340,26 @@
     {
       "id": "47",
       "order": 47,
-      "question": "Канбан усули асосида ишни ташкил қилишнинг бюрократик усулдан фарқи нимада?",
+      "question": "Bank likvidligi deganda nimani tushunasiz?",
       "options": [
         {
           "key": "A",
-          "text": "Турли таркибий бўлинмалар ходимларига вазифалар устида жипслашиш ва унинг ижросини биргаликда ташкил этиш имконини беради.",
+          "text": "Bank aktivlar o'sishini moliyalashtirishi va ko'zda tutilmagan (nomaqbul) yo'qotishlarsiz majburiyatlarining o'z vaqtida bajarilishini ta'minlash imkoniyati",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат раҳбарлар қарорига асосланади.",
+          "text": "Bozor narxini kotirovka bo'yicha aniqlash mumkin bo'lmagan aktivlar",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат шахсий жавобгарликни белгиловчи жараён.",
+          "text": "Bank kapitalining riskni hisobga olib hisoblangan jami aktivlarga nisbati",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат иқтисодий самарадорликни баҳолашга қаратилган.",
+          "text": "Qiymati bozorda shakllanadigan, doimiy ravishda sotiluvchi aktivlar",
           "correct": false
         }
       ],
@@ -1165,26 +1369,26 @@
     {
       "id": "48",
       "order": 48,
-      "question": "Канбан усулида нима учун \"молиявий самара\" ва метрикалардан фойдаланиш муҳим?",
+      "question": "Likvidli aktivlarga nimalar kiradi?",
       "options": [
         {
           "key": "A",
-          "text": "Бу вазифаларни устуворлик бўйича тақсимлашга ва қайси ташаббус айни пайтда аҳамиятли эканлигини аниқлашга ёрдам беради.",
+          "text": "Qiymati bozorda shakllanadigan, bozor qiymati bo'yicha qisqa muddat ichida ularni sotib olishga osonlik bilan xaridor topiladigan, doimiy ravishda ko'zda tutilmagan (nomaqbul) yo'qotishlarsiz sotiluvchi va sotib olinuvchi aktivlar",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат бюджет ва харажатларни қисқартириш учун.",
+          "text": "Bank kapitalining riskni hisobga olib hisoblangan jami aktivlarga nisbati",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат ходимлар самарадорлигини баҳолаш учун.",
+          "text": "Bank aktivlar o'sishini moliyalashtirishi va ko'zda tutilmagan yo'qotishlarsiz majburiyatlarining o'z vaqtida bajarilishini ta'minlash",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат IT жараёнларини мониторинг қилиш учун.",
+          "text": "Bozor narxini kotirovka bo'yicha aniqlash mumkin bo'lmagan aktivlar",
           "correct": false
         }
       ],
@@ -1194,51 +1398,26 @@
     {
       "id": "49",
       "order": 49,
-      "question": "Канбан доскада жойлашган вазифалар (лойиҳала",
+      "question": "CIR",
       "options": [
         {
           "key": "A",
-          "text": "кетликда муҳокама қилинади?",
-          "correct": false
-        },
-        {
-          "key": "A",
-          "text": "Ўнгдан чапга, юқоридан пастг",
+          "text": "Hisobot davridagi bank operasion xarajatlarining bank daromadlariga nisbati",
           "correct": true
         },
         {
-          "key": "A",
-          "text": "",
-          "correct": false
-        },
-        {
           "key": "B",
-          "text": "Чапдан ўнгга, пастдан юқориг",
-          "correct": false
-        },
-        {
-          "key": "A",
-          "text": "",
+          "text": "Kapital rentabelligi ko'rsatkichi",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат юқоридан пастг",
-          "correct": false
-        },
-        {
-          "key": "A",
-          "text": "",
+          "text": "Aktivlar rentabelligi ko'rsatkichi",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат ўнгдан чапг",
-          "correct": false
-        },
-        {
-          "key": "A",
-          "text": "",
+          "text": "Sof foizli marja",
           "correct": false
         }
       ],
@@ -1248,26 +1427,26 @@
     {
       "id": "50",
       "order": 50,
-      "question": "Канбан усулида визуализациянинг аҳамияти нималарда?",
+      "question": "ROE",
       "options": [
         {
           "key": "A",
-          "text": "Ҳар бир вазифа ёки лойиҳанинг ижро ҳолатини (босқичини, мақомини), тўхтаб қолган (блокер қўйилган) вазифаларни алоҳида назоратга олиш ва жараёндаги \"тор жойлар\"ни аниқ кўриш имконини беради.",
+          "text": "Kapital rentabelligi ko'rsatkichi bo'lib, kapitalga qo'yilgan bir so'm keltirgan sof foydani bildiradi",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат ходимларнинг соатлик самарадорлигини кўриш.",
+          "text": "Sof foizli marja",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат лойиҳа бюджетини визуализация қилиш.",
+          "text": "Hisobot davridagi bank operasion xarajatlarining bank daromadlariga nisbati",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат маркетинг ва реклама жараёнларини кузатиш.",
+          "text": "Aktivlar rentabelligi",
           "correct": false
         }
       ],
@@ -1277,26 +1456,26 @@
     {
       "id": "51",
       "order": 51,
-      "question": "Канбан тизимида кўзда тутилган ретроспективаларни ўтказиш сабаби?",
+      "question": "ROA",
       "options": [
         {
           "key": "A",
-          "text": "Лойиҳалар устида ишлаш жараёнларини такомиллаштириш бўйича вазифалар белгилаб олиш.",
+          "text": "Aktivlar rentabelligi ko'rsatkichi bo'lib, bir so'm aktiv keltirgan sof foydani bildiradi",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат ходимларнинг соатлик самарадорлигини баҳолаш.",
+          "text": "Sof foizli marja",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат лойиҳа бюджетини қайта кўриб чиқиш.",
+          "text": "Kapital rentabelligi ko'rsatkichi",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат маркетинг ва реклама жараёнларини кузатиш.",
+          "text": "Hisobot davridagi bank operasion xarajatlarining bank daromadlariga nisbati",
           "correct": false
         }
       ],
@@ -1306,26 +1485,26 @@
     {
       "id": "52",
       "order": 52,
-      "question": "Лойиҳаларни бошқаришда Канбан усули диққат-эътиборни нимага қаратади?",
+      "question": "NIM",
       "options": [
         {
           "key": "A",
-          "text": "Ишларнинг оқимини бошқариш ва вазифаларнинг самарали бажарилишини таъминлаш.",
+          "text": "Sof foizli marja, ya'ni sof foizli daromadlarning foizli daromad keltiruvchi aktivlarga nisbati",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат бюджет ва харажатларни назорат қилиш.",
+          "text": "Hisobot davridagi bank operasion xarajatlarining bank daromadlariga nisbati",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат ходимлар фаолиятини баҳолаш.",
+          "text": "Kapital rentabelligi ko'rsatkichi",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат маркетинг ва реклама жараёнларини кузатиш.",
+          "text": "Aktivlar rentabelligi",
           "correct": false
         }
       ],
@@ -1335,26 +1514,26 @@
     {
       "id": "53",
       "order": 53,
-      "question": "Канбан доскадаги устунлар нимани билдиради?",
+      "question": "Loyihalarning iqtisodiy samaradorligi qanday baholanadi?",
       "options": [
         {
           "key": "A",
-          "text": "Лойиҳани амалга оширишдаги иш жараёнларининг босқичларини: тайёргарлик, режалаштириш, амалга ошириш, текшириш, қабул қилиш, жорий этиш, мониторинг ва ҳ.к.",
+          "text": "Pulning vaqt qiymatini hisobga olgan holda ham statistik (ROI, o'zini qoplash muddati) va dinamik (NPV, IRR) usullardan foydalangan holda olingan natijalarni loyihaga sarflangan mablag'lar bilan solishtirish orqali",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат ходимлар сони ва вазифалар.",
+          "text": "Bankning asosiy moliyaviy ko'rsatkichlarini muqobil investitsiyalar va inflyasiya bilan solishtirish orqali",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат лойиҳа бюджети ва харажатлар.",
+          "text": "Moliyaviy modelda ko'rsatilgan prognoz ko'rsatkichlarini Bankning biznes-reja ko'rsatkichlari bilan taqqoslash orqali",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат маркетинг ва реклама жараёнлари.",
+          "text": "Iqtisodiy normativlarning kovenantlarga nisbatini aniqlash orqali",
           "correct": false
         }
       ],
@@ -1364,26 +1543,26 @@
     {
       "id": "54",
       "order": 54,
-      "question": "Канбан доскага ёпиштириладиган карточкаларда нималар акс эттирилади?",
+      "question": "Loyihalarning vaqt va byudjet chegaralari qanday boshqariladi?",
       "options": [
         {
           "key": "A",
-          "text": "Лойиҳалар ва улар билан боғлиқ маълумотлар, алоҳида иш вазифалари: лойиҳалар номи, муддатлар, топшириқлар, вазифалар ва ҳ.к.",
+          "text": "Vaqt va moliyaviy resurslarni rejalashtirish, nazorat qilish; haqiqiy xarajatlarni kuzatish va rejaga muvofiqligini tekshirish; zarur hollarda tuzatishlar kiritish",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат бюджет ва харажатлар.",
+          "text": "Ish jadvalini tuzish, har bir bosqichning tannarxini hisoblash",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат ходимлар сони ва иш соатлари.",
+          "text": "Filiallarning asosiy moliyaviy ko'rsatkichlarini monitoring qilish",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат маркетинг ва реклама жараёнлари.",
+          "text": "Investision loyihalarning moliyaviy manbalarini aniqlash",
           "correct": false
         }
       ],
@@ -1393,26 +1572,26 @@
     {
       "id": "55",
       "order": 55,
-      "question": "Лойиҳа юрмай тўхтаб қолса нима қилиш керак бўлади?",
+      "question": "Rentabellikni va bank kapitali qiymatini oshirishga qanday erishiladi?",
       "options": [
         {
           "key": "A",
-          "text": "Муаммони қизил карточкада акс эттириб, Канбан доскада визуализация қилиш, масъул ходимни аниқлаш ва уни ҳал қилиш учун чоралар кўриш.",
+          "text": "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, narxlarni riskka asoslangan holda belgilash, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат ходимларни танқид қилиш.",
+          "text": "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog'ozlariga investitsiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат бюджетни кескин қисқартириш.",
+          "text": "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog'ozlariga investitsiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, NFSni joriy qilish",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат маркетинг ва реклама жараёнларини қайта кўриб чиқиш.",
+          "text": "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog'ozlariga investitsiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, kapital qurilish sohasiga kredit ajratish hajmlarini oshirish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish",
           "correct": false
         }
       ],
@@ -1422,31 +1601,26 @@
     {
       "id": "56",
       "order": 56,
-      "question": "Канбан тизимида жараёнларни такомиллаштириш учун дастлаб нимага эътибор қилиш лозим?",
+      "question": "Bankni raqamlashtirish, innovasion IT-yechimlarni joriy etish orqali operasion samaradorlikka qanday erishiladi?",
       "options": [
         {
           "key": "A",
-          "text": "Мавжуд блокировкаларга, юзага келган \"тор жой\"ларга, муддати чўзилаётган вазифаларга ва оқимнинг нотекислигига эътибор қаратиш.",
+          "text": "Biznes-jarayonlarni raqamlashtirish, jarayonlarni boshqarish va xarajatlar nazoratini optimallashtirish, masofaviy xizmatlar soni va hajmini oshirish, UX/UIni takomillashtirish, tashkiliy-funksional model samaradorligini oshirish",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат ходимлар сони ва самарадорликк",
-          "correct": false
-        },
-        {
-          "key": "A",
-          "text": "",
+          "text": "Biznes-jarayonlarni raqamlashtirish, jarayonlarni boshqarish va xarajatlar nazoratini optimallashtirish, masofaviy xizmatlar soni va hajmini oshirish, NFSni joriy qilish, tashkiliy-funksional model samaradorligini oshirish",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат бюджет ва харажатлар.",
+          "text": "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog'ozlariga investitsiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат маркетинг ва реклама жараёнлари.",
+          "text": "Filiallarning asosiy moliyaviy ko'rsatkichlarini raqamlashtirish; Bosh ofis topshiriqlarini o'z muddatida ijrosini nazorat qilish; zarur hollarda biznes-rejalariga tuzatishlar kiritish",
           "correct": false
         }
       ],
@@ -1456,46 +1630,26 @@
     {
       "id": "57",
       "order": 57,
-      "question": "Канбан доскада лойиҳанинг мақоми (ҳолат",
+      "question": "Bank xizmatlarining sodda, oddiy va qulayligini ta'minlash vazifasi nimalarni nazarda tutadi?",
       "options": [
         {
           "key": "A",
-          "text": "Унинг қайси босқичда, яъни қайси устунда эканлигига қара",
+          "text": "- sodda jarayonlar, qulay interfeyslar; mijozlar xulq-atvoriga asoslangan maqsadli segmentasiya; innovasion mahsulotlar va paketli takliflarni o'z ichiga olgan shaffof mahsulotlar to'plamini yaratish; raqamli onbording; mijozlarning sodiqligi dasturini qo'llash; samarali brending va marketing (referal dastur, CVM, storitelling, biznes uchun media)",
           "correct": true
         },
         {
-          "key": "Б",
-          "text": "",
-          "correct": false
-        },
-        {
           "key": "B",
-          "text": "Фақат ходимлар сони ва вазифаларга қара",
-          "correct": false
-        },
-        {
-          "key": "Б",
-          "text": "",
+          "text": "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog'ozlariga investitsiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, NFSni joriy qilish",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат бюджет ва харажатларга қара",
-          "correct": false
-        },
-        {
-          "key": "Б",
-          "text": "",
+          "text": "Filiallarning asosiy moliyaviy ko'rsatkichlarini monitoring qilish; Bosh ofis topshiriqlarini o'z muddatida ijrosini nazorat qilish; zarur hollarda biznes-rejalariga tuzatishlar kiritish",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат маркетинг ва реклама жараёнларига қара",
-          "correct": false
-        },
-        {
-          "key": "Б",
-          "text": "",
+          "text": "Mukammal UX/UIga va daily banking keng funksiyalari (telefon raqami orqali P2P, qulay SWIFT, hujjatlar shablonlari va konstruktorlari, DovTech); mijozlarga 24/7 davomida uzluksiz xizmat ko‘rsatish; to‘lovlarni qabul qilishning keng tarmog‘ini yaratish; Cash-in/cash-out funksiyali bankomatlar orqali naqd pul yechish tizimi; bank tarmoqlarini Hub&Spoke transformatsiyasi",
           "correct": false
         }
       ],
@@ -1505,26 +1659,26 @@
     {
       "id": "58",
       "order": 58,
-      "question": "Банкимиз Стратегиясига кўра банк тармоқларини ривожлантиришда қандай моделни жорий этиш назарда тутилган?",
+      "question": "Foizsiz daromadlar nimalar hisobiga o'stiriladi?",
       "options": [
         {
           "key": "A",
-          "text": "«Hub & Spoke» – муҳим функцияларни марказлаштириш, жойлардаги филиаллар асосан сотув нуқталарига айлантирилади.",
+          "text": "Hisob-kitob-kassa amaliyotlaridan olinadigan komission daromadlar, 1 ta operasiyadan olinadigan sof daromadni oshirish, to'lovlar, o'tkazmalar va konversiya operasiyalarining o'rtacha hajmini oshirish, \"SPOT\" bitimlaridan olinadigan daromadlar, bank kartalaridan olinadigan daromadlarning keng turlari",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат барча филиалларни тенг равишда ривожлантириш.",
+          "text": "Moliyaviy ko'rsatkichlar (ROI, NPV), belgilangan muddatlar va byudjetga muvofiqligi, natijalar sifati, mijozlar va jamoaning qoniqishi, strategik maqsadlarga erishish va biznes asoslanishi",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат онлайн филиаллар орқали хизмат кўрсатиш.",
+          "text": "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog'ozlariga investitsiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат ягона марказдан бошқариш.",
+          "text": "Anderrayting funksiyasini takomillashtirish; doimiy monitoring va risklarni baholash; kredit portfeli barqarorligini baholash; nizolarni sudgacha hal qilish bilan shug‘ullanuvchi xodimlarning ixtisoslashuvini oshirish",
           "correct": false
         }
       ],
@@ -1534,41 +1688,26 @@
     {
       "id": "59",
       "order": 59,
-      "question": "Банк қандай номолиявий хизматларни жорий этишни режалаштирган?",
+      "question": "Bankda yaratilayotgan Business HUB doirasidagi xizmatlar ekotizimida nimalar nazarda tutilgan?",
       "options": [
         {
           "key": "A",
-          "text": "Бизнес юритиш, бухгалтерия ҳисоби, ҳисоботлар тайёрлаш ва тақдим этиш, солиқ тўловлари, экспорт-импорт операциялари соҳаларида консалтинг, шунингдек ўқу",
+          "text": "Konsalting, buxgalteriya hisobi, soliq va huquqiy masalalar bo‘yicha maslahatlar, biznesni on-layn ro‘yxatdan o‘tkazish, biznes-maktabi, paketli takliflar, mijozlarni media vositasida qo‘llab-quvvatlash, ish yuritishda foydalaniladigan hujjatlar konstruktorlari va shablonlari",
           "correct": true
         },
         {
           "key": "B",
-          "text": "тренинглар.",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Фақат молиявий ҳисо",
-          "correct": false
-        },
-        {
-          "key": "Б",
-          "text": "китоблар.",
+          "text": "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog'ozlariga investitsiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат маркетинг ва реклам",
-          "correct": false
-        },
-        {
-          "key": "A",
-          "text": "",
+          "text": "Moliyaviy ko‘rsatkichlar (ROI, NPV), belgilangan muddatlar va byudjetga muvofiqligi, natijalar sifati, mijozlar va jamoaning qoniqishi, strategik maqsadlarga erishish va biznes asoslanishi",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат IT ва технологиялар.",
+          "text": "Tranzaksiyalarni va mijozlar so‘rovini zudlik bilan yoki real vaqt rejimida qayta ishlash; optimallashgan va avtomatlashtirilgan biznes-jarayonlar; samarali risk-menejment; mukammal moliyaviy texnologiyalar va IT-infrastruktura; ma'lumotlar ombori va ularni tahlil qiluvchi vositalar",
           "correct": false
         }
       ],
@@ -1578,84 +1717,84 @@
     {
       "id": "60",
       "order": 60,
-      "question": "Банкнинг янги ташкилий-функционал моделидаги RUN тушунчаси нимани билдиради?",
+      "question": "Bitta mijozga to‘g‘ri keladigan mahsulotlar sonini oshirishga nimalar ta’sir qiladi?",
       "options": [
         {
           "key": "A",
-          "text": "Фаолиятни автоматлаштириш ва рақамлаштириш билан шуғулланувчи ходимлар",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Жорий фаолият, ҳар кунги вазифалар билан шуғулланувчи ходимлар",
+          "text": "Mahsulotlar jozibadorligi, tahliliy CRM, kross-sotuvlar, mijozga individual yondashuv va h.k.",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "Mahsulotlarni, mijozlarni (raqamli onbording), aloqa va sotuv kanallarini, ma’lumotlarni (hisobotlarni), bek-ofisni va h.k.",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Янги лойиҳаларни илгари суриш ва инновация яратувчи ходимлар",
+          "text": "Xizmatlar tezligi oshadi, mijozlar ishonchi, sodiqligi va tajribasi ortadi, turli kanallar orqali xizmat ko‘rsatish uzluksizligi ta’minlanadi, CSI va CLV ko‘rsatkichlari ortadi, sotuv hajmlari oshadi",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат мониторинг ва назорат ишларини бажарувчи ходимлар",
+          "text": "Tushumi (aylanmasi), xodimlar soni, kreditlanganligining o‘rtacha darajasi, moliya bozoridagi xulq-atvori",
           "correct": false
         }
       ],
-      "answerKey": "B",
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "61",
       "order": 61,
-      "question": "Банкнинг янги ташкилий-функционал моделидаги CHANGE тушунчаси нимани билдиради?",
+      "question": "Mijozlarni segmentlarga (subsegmentlarga) ajratishdan maqsad nima?",
       "options": [
         {
           "key": "A",
-          "text": "Фақат ходимларнинг малакасини ошириш билан шуғулланувчи бўлим",
-          "correct": false
+          "text": "Har bir segmentdagi mijozlar uchun mahsus bank mahsulotlarini taklif qilish, ular bilan muloqot qilishning alohida modellarini ishlab chiqish va qo‘llash",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Янги технологияларни жорий этиш бўйича ходим",
+          "text": "Mijozlarga kredit ajratishda anderrayting tizimini qo‘llash, skoring tizimini takomillashtirish",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Банк фаолиятига янги ўзгаришларни жорий этиш билан шуғулланувчи ходимлар",
-          "correct": true
+          "text": "Xizmatlar tezligini oshirish, mijozlar ishonchi, sodiqligi va tajribasi orttirish, turli kanallar orqali xizmat ko‘rsatish uzluksizligini ta’minlash, CSI va CLV ko‘rsatkichlarini oshirish",
+          "correct": false
         },
         {
           "key": "D",
-          "text": "Ҳар кунги операцияларни бажарувчи ходимлар",
+          "text": "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog'ozlariga investitsiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash, ESG tamoyillarini joriy qilish",
           "correct": false
         }
       ],
-      "answerKey": "C",
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "62",
       "order": 62,
-      "question": "Капитал етарлилиги?",
+      "question": "Mijozlarni segmentlash qanday ko‘rsatkichlar asosida amalga oshirilishi mumkin?",
       "options": [
         {
           "key": "A",
-          "text": "Банк капиталининг рискни ҳисобга олиб ҳисобланган жами активларга нисбати",
+          "text": "Tushumi (aylanmasi), xodimlar soni, kreditlanganligining o‘rtacha darajasi, moliya bozoridagi xulq-atvori (iste’mol qilish xususiyatlari) va b.",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат банкнинг умумий активлари ва пассивлари сони",
+          "text": "Soliq hamda bojxona organlariga to‘lanadigan to‘lovlar, bojlar hajmining oxirgi 12 oydagi holati",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Капиталнинг фақат кредит портфелига нисбати",
+          "text": "Top-menejerlarning oxirgi 12 oydagi o‘rtacha daromadi va dividendlari",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Молиявий барқарорликнинг умумий кўрсаткичлари",
+          "text": "To‘g‘ri javob yo‘q",
           "correct": false
         }
       ],
@@ -1665,26 +1804,26 @@
     {
       "id": "63",
       "order": 63,
-      "question": "Банк ликвидлиги деганда нимани тушунасиз?",
+      "question": "Faol bo‘lmagan mijozlarni qanday faollashtirsa bo‘ladi?",
       "options": [
         {
           "key": "A",
-          "text": "Банк активлар ўсишини молиялаштириши ва мажбуриятларни ўз вақтида бажариш имконияти",
+          "text": "Maxsus takliflar taqdim etish, aksiyalar tashkil etish, PUSH-xabarlar yuborish, qo‘ng‘iroq orqali fid-bek olish va ehtiyojlariga mos mahsulotlar taklif etish",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат нақд пул маблағлари",
+          "text": "Maxsus imtiyozli past stavkada kreditlar taklif etish",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат давлат қимматли қоғозларига инвестиция",
+          "text": "Maxsus takliflar taqdim etish, aksiyalar tashkil etish, garovsiz kreditlar, qo‘ng‘iroq orqali fid-bek olish va ehtiyojlariga mos mahsulotlar taklif etish",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат узоқ муддатли активлар",
+          "text": "Maxsus takliflar taqdim etish, aksiyalar tashkil etish, PUSH-xabarlar yuborish, olgan kreditlarini hisobdan chiqarish va ehtiyojlariga mos mahsulotlar taklif etish",
           "correct": false
         }
       ],
@@ -1694,26 +1833,26 @@
     {
       "id": "64",
       "order": 64,
-      "question": "Ликвидли активларга нималар киради?",
+      "question": "Bugungi kunda BRB raqamli xizmatlar ekotizimiga nimalar kiradi?",
       "options": [
         {
           "key": "A",
-          "text": "Нақд пуллар, давлат қимматли қоғозлари, депозит ҳисобварақлардаги маблағлар, бошқа ривожланган давлатлар қимматли қоғозлари",
+          "text": "BRB mobil ilovasi, Mening biznesim, Mening buyurtmam, Mening tomorqam, Biznes 24/7 platformasi, veb-sayt",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат кўчмас мулк активлари",
+          "text": "BХO, BХM, Bosh ofis, Raqamli biznes departamenti",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат кредит портфели",
+          "text": "Bank mahsulotlari va xizmatlari, tariflari, hisobraqamlari va limitlari, on-layn to‘lovlar, nomoliyaviy xizmatlar, moliyaviy hisobotlar",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат бизнес инвестициялар",
+          "text": "Raqamli mahsulotlar, raqamli kanallar, IT-departament, DWH, BI-navigator",
           "correct": false
         }
       ],
@@ -1723,55 +1862,55 @@
     {
       "id": "65",
       "order": 65,
-      "question": "Ноликвидли активлар нима?",
+      "question": "O'rta darajaBank Strategiyasiga ko'ra Aloqa-markazini transformasiya qilish orqali uning funksiyalarini qanday kengaytirish nazarda tutilgan?",
       "options": [
         {
           "key": "A",
-          "text": "Бозор нархи аниқланмайдиган ёки ўзгарувчан қиймати катта активлар",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Бозор нархини котировка бўйича аниқлаш мумкин бўлмаган ёки қиймати катта миқдорда ўзгариши мумкин бўлган активлар",
+          "text": "Sotuv kanaliga aylantirish nazarda tutilgan",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "Qaynoq qo'ng'iroqlar markaziga aylantirish nazarda tutilgan",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Фақат нақд пул ва депозитлар",
+          "text": "Maslahat markaziga aylantirish nazarda tutilgan",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат давлат қимматли қоғозлари",
+          "text": "Hub&Spoke markaziga aylantirish nazarda tutilgan",
           "correct": false
         }
       ],
-      "answerKey": "B",
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "66",
       "order": 66,
-      "question": "Жорий ликвидлик кўрсаткичи?",
+      "question": "O'rta darajaRelationship Manager (RM)larning roli nimada?",
       "options": [
         {
           "key": "A",
-          "text": "30 кун ичида қайтадиган ва ликвидли активларнинг 30 кунгача бўлган мажбуриятларга нисбати",
+          "text": "O'sish imkoniyatiga ega bo'lgan kichik biznes sub'ektlariga, o'rta biznes va korporativ biznes sub'ektlariga xizmat ko'rsatishda muhim aloqa kanali vazifasini bajaradi: har bir mijozga individul yondashgan holda uning ehtiyojlarini to'liq o'rganib, uni doimiy qo'llab-quvvatlaydi, muntazam maslahatlar berib boradi, yangi bank mahsulotlarini taklif qiladi.",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат нақд пул миқдори",
+          "text": "Chakana biznes mijozlariga xizmat ko'rsatishda muhim aloqa kanali vazifasini bajaradi...",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат умумий активлар билан пассивлар сони",
+          "text": "Mijozlarni o'stirishda birgalikda mijozlar ehtiyojini o'rganish...",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат капиталга нисбат",
+          "text": "Bankning asosiy moliyaviy natijalarini kuzatish...",
           "correct": false
         }
       ],
@@ -1781,84 +1920,84 @@
     {
       "id": "67",
       "order": 67,
-      "question": "Соф барқарор молиялаштириш меъёри?",
+      "question": "O'rta darajaBozorda BRBda kimlar bilan raqobat qiladi?",
       "options": [
         {
           "key": "A",
-          "text": "Барқарор молиялаштиришнинг мавжуд суммасининг / зарур суммасига нисбати",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Барқарор молиялаштириш кўрсаткичи, мавжуд ресурсларнинг муддатлари бўйича тақсимланган активлар муддатларига мослиги",
+          "text": "Barcha javoblar to'g'ri",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "Boshqa tijorat banklari",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Фақат капитал қиймати",
+          "text": "Mikromoliya tashkilotlari",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат кредит портфели",
+          "text": "Fintex kompaniyalar",
           "correct": false
         }
       ],
-      "answerKey": "B",
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "68",
       "order": 68,
-      "question": "CIR?",
+      "question": "O'rta darajaBank Strategiyasiga ko'ra chakana biznes mijozlarining sonini oshirishda qaysi kanal muhim hisoblanadi?",
       "options": [
         {
           "key": "A",
-          "text": "Cost to income ratio – банк харажатларининг даромадларга нисбати",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "CIR – ҳисобот давридаги банк операцион харажатларининг банк операцион даромадларига нисбати, 1дан кам бўлиши керак ва қанча паст бўлса шунча яхши",
+          "text": "Raqamli kanallar, Mobil ilovalar",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "BХO, BХM, Bosh ofis",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Фақат умумий харажатлар",
+          "text": "Chakana biznes departamenti, Aloqa markazi...",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат соф фойда",
+          "text": "Face-ID, BNPL, Visa So'm, kredit konveyeri",
           "correct": false
         }
       ],
-      "answerKey": "B",
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "69",
       "order": 69,
-      "question": "ROE?",
+      "question": "O'rta darajaChakana biznes yo'nalishida mijozlarni jalb qilishning eng samarali yo'li qaysi hisoblanadi?",
       "options": [
         {
           "key": "A",
-          "text": "Return on Equity – капитал рентабеллиги кўрсаткичи, капиталга қўйилган бир сўм келтирган соф фойда",
+          "text": "Qarindosh va yaqinlar, tanish va do'stlarning tavsiyasi",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Return on Assets – активларга нисбатан рентабеллик",
+          "text": "Mutaxassislar maslahati",
           "correct": false
         },
         {
           "key": "C",
-          "text": "NIM – соф фоизли маржа",
+          "text": "Televidenie va radio",
           "correct": false
         },
         {
           "key": "D",
-          "text": "NPS – мижозлар содиқлиги",
+          "text": "Tashqi reklama",
           "correct": false
         }
       ],
@@ -1868,26 +2007,26 @@
     {
       "id": "70",
       "order": 70,
-      "question": "ROA?",
+      "question": "O'rta darajaChakana biznes mijozlarining ehtiyojlarini o'rganish qanday amalga oshiriladi?",
       "options": [
         {
           "key": "A",
-          "text": "Return on Assets – активлар рентабеллиги, бир сўм актив келтирган соф фойда",
+          "text": "So'rovlar o'tkazish, raqamli kanallarda qoldirilgan sharhlarni tahlil qilish",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Return on Equity – капитал рентабеллиги",
+          "text": "Arzon kreditlar taklif etish, biznes-rejalarini tahlil qilish",
           "correct": false
         },
         {
           "key": "C",
-          "text": "NIM – соф фоизли маржа",
+          "text": "Konsalting, faktoring, anderrayting tizimlari orqali",
           "correct": false
         },
         {
           "key": "D",
-          "text": "CIR – харажатларга нисбат",
+          "text": "Ekspertiza markazlari tashkil etish va turli aksiyalar o'tkazish orqali",
           "correct": false
         }
       ],
@@ -1897,55 +2036,55 @@
     {
       "id": "71",
       "order": 71,
-      "question": "NIM?",
+      "question": "O'rta darajaBank Strategiyasida belgilangan ko'rsatkichlarga erishishda qanday monitoring va tahliliy instrument qo'llaniladi?",
       "options": [
         {
           "key": "A",
-          "text": "Net Interest Margin – соф фоизли маржа",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Sof foizli daromadlarning foizli daromad keltruvchi aktivlarga нисбати",
+          "text": "Balanced Score Card - strategik samaradorlikni boshqarish vositasi va standartlashtirilgan hisobot shakli bo'lib, Strategiya ijrosini monitoring qilish, shuningdek ko'rsatkichlarni bajarish yoki bajarmaslik oqibatlarini kuzatish imkonini beradi.",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "Kanban - bu Bank faoliyatining eng muhim jihatlarini aks ettiruvchi tizim...",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "ROE – капитал рентабеллиги",
+          "text": "Agile - yondashuvning eng muhim xususiyatlari...",
           "correct": false
         },
         {
           "key": "D",
-          "text": "ROA – активлар рентабеллиги",
+          "text": "Moliyaviy model - 1 ta operasiyadan olinadigan sof daromadni oshirish...",
           "correct": false
         }
       ],
-      "answerKey": "B",
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "72",
       "order": 72,
-      "question": "NPS?",
+      "question": "Qiyin darajaStrategiya ishlab chiqishda Bankimizning qanday zaif tomonlari inobatga olingan?",
       "options": [
         {
           "key": "A",
-          "text": "Net Promoter Score – мижозлар содиқлиги кўрсаткичи, уларнинг бошқаларга банкни тавсия этишга тайёрлиги",
+          "text": "Biznes jarayonlarning nisbatan murakkabligi, raqamlashtirish darajasining pastligi, tarkibiy bo'linmalar o'rtasidagi kommunikasiyaning zaifligi, xodimlarda zamonaviy bilim va ko'nikmalarning (biznesni rivojlantirish yondashuvi, raqamli texnologiyalar sohasi, o'zgarishlarga moslashuvchanlik) yetishmasligi",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Customer Satisfaction Index – қониқиш индекси",
+          "text": "To'g'ri javob yo'q",
           "correct": false
         },
         {
           "key": "C",
-          "text": "CIR – харажатлар",
+          "text": "Biznes jarayonlarning nisbatan murakkabligi, raqamlashtirish darajasining qoniqarligi...",
           "correct": false
         },
         {
           "key": "D",
-          "text": "ROE – капитал рентабеллиги",
+          "text": "Biznes jarayonlarning nisbatan murakkabligi, raqamlashtirish darajasining pastligi...",
           "correct": false
         }
       ],
@@ -1955,26 +2094,26 @@
     {
       "id": "73",
       "order": 73,
-      "question": "CSI?",
+      "question": "Qiyin darajaStrategiyani muvaffaqiyatli amalga oshirishga qanday imkoniyatlar ta'sir qiladi?",
       "options": [
         {
           "key": "A",
-          "text": "Customer Satisfaction Index – мижознинг компания билан мулоқотидан қанчалик қониққани, маҳсулот ёки хизматга нисбатан қондирилганлиги",
+          "text": "Innovasiyalarning takomillashishi, xalqaro moliyaviy institutlarning mamlakat bank tizimiga qiziqishi, YaIMning o'sishi, mehnatga layoqatli aholining ko'payishi, masofadan xizmat ko'rsatish ko'lamining kengayishi",
           "correct": true
         },
         {
           "key": "B",
-          "text": "NPS – мижозлар содиқлиги",
+          "text": "Innovasiyalarning takomillashishi, xalqaro tajribaga ega yuqori malakali mutaxassislarning ko'pligi...",
           "correct": false
         },
         {
           "key": "C",
-          "text": "CIR – харажатлар",
+          "text": "Innovasiyalarning takomillashishi, xalqaro reyting kompaniyalarining baholari...",
           "correct": false
         },
         {
           "key": "D",
-          "text": "ROA – активлар рентабеллиги",
+          "text": "Innovasiyalarning takomillashishi, xalqaro moliyaviy institutlarning qiziqishi...",
           "correct": false
         }
       ],
@@ -1984,171 +2123,171 @@
     {
       "id": "74",
       "order": 74,
-      "question": "Лойиҳа бошқаруви офиси (PM",
+      "question": "Qiyin darajaStrategiyani amalga oshirishga qanday tahdidlar ta'sir qiladi?",
       "options": [
         {
           "key": "A",
-          "text": "Фақат ходимларни назорат қилиш ва тайинланган вазифаларни бажариш",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Мақсадлари: лойиҳалардан кўриладиган қийматни ошириш, лойиҳа бошқарувини марказлаштириш ва стандартлаштириш, лойиҳа жараёнларини такомиллаштириш. Вазифалари бу мақсадларга эришишга ёрдам берадиган аниқ, ўлчанадиган қадамлар ва ҳаракатлардир, масалан стандартларни ишлаб чиқиш, ходимларни ўқитиш, лойиҳа бажарилишини назорат қилиш ва ресурсларни бошқариш",
+          "text": "Raqobatning kuchayishi, aholi moliyaviy savodxonligining pastligi, geosiyosiy holat, yuqori malakali mutaxassislarning yetishmasligi",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "Raqobatning kuchayishi, mehnatga layoqatli aholining ko'payishi...",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Фақат ҳисоботларни тузиш ва тақдим қилиш",
+          "text": "Raqobatning kuchayishi, aholi moliyaviy savodxonligining pastligi, ichki siyosiy beqarorlik...",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат маблағларни бошқариш",
+          "text": "Raqobatning kuchayishi, aholi moliyaviy savodxonligining pastligi, geosiyosiy holat, serverlar quvvatining pastligi",
           "correct": false
         }
       ],
-      "answerKey": "B",
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "75",
       "order": 75,
-      "question": "Лойиҳаларнинг бажарилиш жараёни қандай назорат қилинади?",
+      "question": "Qiyin darajaLoyiha risklarini boshqarish nimalarni nazarda tutadi?",
       "options": [
         {
           "key": "A",
-          "text": "Фақат ҳар ҳафта йиғилишлар орқали",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Лойиҳани амалга оширишни назорат қилиш реал кўрсаткичларни ўлчаш, уларни режалаштирилган кўрсаткичлар билан таққослаш ва тузатиш чораларини кўриш учун оғишларни ҳисоблашни ўз ичига олган мониторинг ва назорат жараёни орқали амалга оширилади. Шунингдек, Канбан тизими қўлланилади",
+          "text": "Zararni kamaytirish uchun vaziyatni aniqlash, tahlil qilish, baholash, xatarlarni kuzatish va zarur tizimli choralar ko'rish",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "Хatarlarni aniqlash, tahlil qilish, baholash, kuzatish, aybdorlarni aniqlash...",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Фақат бюджетга мувофиқлигини текшириш",
+          "text": "Хatarlarni tahlil qilish, baholash, kuzatish, mas'ullarni aniqlash...",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат вақт режасига риоя қилиш",
+          "text": "Хatarlarni tahlil qilish, baholash, kuzatish, mas'ul departamentlarga tavsiyalar taqdim etish",
           "correct": false
         }
       ],
-      "answerKey": "B",
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "76",
       "order": 76,
-      "question": "Лойиҳанинг муваффақияти қандай аниқланади ва ўлчанади?",
+      "question": "Qiyin darajaLoyihalarni boshqarishda Kanban usuli diqqat-e'tiborni nimaga qaratadi?",
       "options": [
         {
           "key": "A",
-          "text": "Фақат молиявий натижаларга қараб",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Лойиҳаларининг муваффақияти ҳар томонлама баҳоланади: молиявий кўрсаткичлар (ROI, NPV), муддат ва бюджетга мувофиқлик, натижалар сифати, мижоз ва жамоанинг қониқиши, стратегик мақсадларга эришиш ва бизнес асосланиши. Миқдорий ва сифат кўрсаткичлар комбинацияси қўлланилади",
+          "text": "Kanban usuli loyihalarni amalga oshirishda diqqat-e'tiborni ishlar (vazifalar) oqimini boshqarishga qaratadi",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "Kanban usuli loyihalarni amalga oshirishda diqqat-e'tiborni ishlar rahbariyat topshiriqlariga qaratadi",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Фақат мижоз қониқиши асосида",
+          "text": "Kanban usuli loyihalarni amalga oshirishda diqqat-e'tiborni davlat topshiriqlariga qaratadi",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат иш жараёни самарадорлиги асосида",
+          "text": "Kanban usuli loyihalarni amalga oshirishda diqqat-e'tiborni moliyaviy ko'rsatkichlarga qaratadi",
           "correct": false
         }
       ],
-      "answerKey": "B",
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "77",
       "order": 77,
-      "question": "Лойиҳаларнинг иқтисодий самарадорлиги қандай баҳоланади?",
+      "question": "Qiyin darajaKanban doskadagi ustunlar nimani bildiradi?",
       "options": [
         {
           "key": "A",
-          "text": "Фақат ҳисобланган фойда асосида",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Лойиҳаларнинг иқтисодий самарадорлиги пулнинг вақт қийматини ҳисобга олган ҳолда статистик (ROI, ўзини қоплаш муддати) ва динамик (NPV, IRR) усуллардан фойдаланиб олинади, натижалар лойиҳага сарфланган маблағлар билан солиштирилади",
+          "text": "Kanban doskadagi ustunlar loyihani amalga oshirishdagi ish jarayonlarining bosqichlarini bildiradi",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "Kanban doskadagi ustunlar loyihadan olinayotgan daromadni bildiradi",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Фақат харажатларни қисқартиришга қараб",
+          "text": "Kanban doskadagi ustunlar ko'rsatkichlarning o'tgan davrga nisbatan o'sishini bildiradi",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат мижоз қониқиши билан баҳоланади",
+          "text": "Kanban doskadagi ustunlar o'sishni foizlarda ko'rsatadi",
           "correct": false
         }
       ],
-      "answerKey": "B",
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "78",
       "order": 78,
-      "question": "Лойиҳаларнинг вақт ва бюджет чегаралари қандай бошқарилади?",
+      "question": "Qiyin darajaKanban doskaga yopishtiriladigan kartochkalarda nimalar aks ettiriladi?",
       "options": [
         {
           "key": "A",
-          "text": "Фақат бюджет режасини тузиш билан",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "Лойиҳа вақтини ва бюджетини бошқариш режалаштириш, назорат қилиш ва оптималлаштиришни ўз ичига олади. Бу жараёнда босқичлар, таннарх, ҳақиқий харажатлар ва кўрсаткичлар мунтазам текширилади",
+          "text": "Loyihalar bilan bog'liq bo'lgan ma'lumotlar, alohida ish vazifalari: loyihalar nomi, muddatlar, topshiriqlar (so'rovlar), vazifalar va h.k.",
           "correct": true
         },
         {
+          "key": "B",
+          "text": "Loyihani amalga oshirish uchun asos bo'lgan Prezident qarorlari...",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Фақат вақт режасига риоя қилиш",
+          "text": "Loyihani amalga oshirish uchun asos bo'lgan Qonunlar...",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат маблағ сарфини назорат қилиш",
+          "text": "Loyihani amalga oshirish uchun asos bo'lgan Kodekslar...",
           "correct": false
         }
       ],
-      "answerKey": "B",
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "79",
       "order": 79,
-      "question": "Кичик бизнесга комплекс хизматлар кўрсатиш бўйича танловда биринчи банк бўлиш учун нималар қилиш керак?",
+      "question": "Qiyin darajaKanban tizimida jarayonlarni takomillashtirish uchun dastlab nimaga e'tibor qilish lozim?",
       "options": [
         {
           "key": "A",
-          "text": "Мижозга йўналтирилган ёндашувни кучайтириш, самарали сервис-моделини яратиш, банк ва нобанк маҳсулотлар эко-тизимини шакллантириш, пакетли таклифлар ва мижозларнинг содиқлигини таъминлаш, NFS ва экспертиза марказлари",
+          "text": "Kanban tizimida jarayonlarni takomillashtirish uchun avvalambor mavjud blokirovkalarga, yuzaga kelgan \"tor joy\"larga, muddati cho'zilayotgan vazifalarga, oqimning notekisligiga e'tibor qaratish lozim",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат банк филиалларини кўпайтириш",
+          "text": "Kanban tizimida jarayonlarni takomillashtirish uchun loyihalar byudjetiga...",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат кредит портфелини кенгайтириш",
+          "text": "Kanban tizimida jarayonlarni takomillashtirish uchun Rais topshiriqlariga...",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат реклама ва маркетинг орқали",
+          "text": "Kanban tizimida jarayonlarni takomillashtirish uchun Markaziy bank talablariga...",
           "correct": false
         }
       ],
@@ -2158,55 +2297,55 @@
     {
       "id": "80",
       "order": 80,
-      "question": "Рентабелликни ва банк капитали қийматини оширишга қандай эришилади?",
+      "question": "Qiyin darajaKapital yetarliligi?",
       "options": [
         {
           "key": "A",
-          "text": "Фақат активлар портфелини кенгайтириш",
-          "correct": false
+          "text": "Bank kapitalining riskni hisobga olib hisoblangan jami aktivlarga nisbati",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Активларни бошқариш самарадорлигини ошириш ва кредит сифатини яхшилаш",
+          "text": "Bank aktivlar o'sishini moliyalashtirishi va yo'qotishlarsiz majburiyatlarni bajarish imkoniyati",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Активларни бошқариш самарадорлигини ва кредит портфели сифатини ошириш, нархларни рискка асосланган ҳолда белгилаш, риск маданиятни такомиллаштириш, ресурс базасини диверсификация қилиш, молиявий барқарорликни таъминлаш ва ESG тамойилларини жорий қилиш",
-          "correct": true
+          "text": "Qiymati bozorda shakllanadigan, qisqa muddat ichida sotilishi mumkin bo'lgan aktivlar",
+          "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат молиявий аудит ўтказиш",
+          "text": "Bozor narxini kotirovka bo'yicha aniqlash mumkin bo'lmagan aktivlar",
           "correct": false
         }
       ],
-      "answerKey": "C",
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "81",
       "order": 81,
-      "question": "Банкни рақамлаштириш, инновацион IT-ечимларни жорий этиш орқали операцион самарадорликка эришиш учун нима қилиш лозим?",
+      "question": "Qiyin daraja — Nolikvidli aktivlar nima?",
       "options": [
         {
           "key": "A",
-          "text": "Бизнес-жараёнларни рақамлаштириш, жараёнларни бошқариш ва харажатлар назоратини оптималлаштириш, масофавий хизматлар сони ва ҳажмини ошириш, UX/UIни такомиллаштириш, ташкилий-функционал модель самарадорлигини ошириш",
+          "text": "Bozor narxini kotirovka bo'yicha aniqlash mumkin bo'lmagan yoki bu turdagi aktivlarning xarid narxi sotuvchi va xaridor o'rtasidagi kelishuv natijasida alohida tarzda aniqlanadigan, qiymati katta miqdordagi o'zgarishlarga uchrab turishi mumkin bo'lgan va taqqoslashni qiyinlashtiradigan aktivlar",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Фақат IT тизимларни янгилаш",
+          "text": "Bank aktivlar o'sishini moliyalashtirishi va ko'zda tutilmagan (nomaqbul) yo'qotishlarsiz majburiyatlarining o'z vaqtida bajarilishini ta'minlash imkoniyati",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фақат ходимларни ўқитиш",
+          "text": "Bank kapitalining riskni hisobga olib hisoblangan jami aktivlarga nisbati",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Фақат реклама ва маркетинг орқали",
+          "text": "30 kun ichida qaytadigan va likvidli aktivlarning 30 kungacha bo'lgan majburiyatlarga nisbati",
           "correct": false
         }
       ],
@@ -2216,272 +2355,433 @@
     {
       "id": "82",
       "order": 82,
-      "question": "Кучли корпоратив маданиятни ва аниқ натижага интилувчи жамоани шакллантириш қандай амалга оширилади?",
+      "question": "Qiyin daraja — Joriy likvidlik ko'rsatkichi?",
       "options": [
         {
           "key": "A",
-          "text": "Фақат ички коммуникацияни кучайтириш",
-          "correct": false
-        },
-        {
-          "key": "B",
-          "text": "\"Ўзгаришлар агентлари\" дастурини амалга ошириш, \"Agile\" жамоаларни яратиш ва уларнинг кўламини кенгайтириш, ходимларни ўқитиш, мотивацион модел, грейдинг ва KPI тизимини жорий этиш",
-          "correct": true
-        },
-        {
-          "key": "C",
-          "text": "Фақат тренинг ва семинарлар",
-          "correct": false
-        },
-        {
-          "key": "D",
-          "text": "Фақат малакаси юқори ходимларни тайинлаш\n\nSavol 71:БРБни кичик бизнесга комплекс хизмат кўрсатувчи \"инновацион банк\"ка айлантириш (трансформация қилиш) нималарни талаб қилади?",
-          "correct": false
-        },
-        {
-          "key": "A",
-          "text": "Технологик янгиланишларга ва инновацион инвестицияларга сармоя киритиш, корпоратив маданиятда туб ва тизимли ўзгаришларни амалга ошириш, стратегик тафаккурни ривожлантириш, ривожланишни тезлаштириш, бозорда рақобатбардошликни таъминлаш, Time to Market (T2M) кўрсаткичини қисқартириш, ҳамда маълумотлар базасини ва информацион етакчиликни такомиллаштириш.",
+          "text": "30 kun ichida qaytadigan va likvidli aktivlarning 30 kungacha bo'lgan majburiyatlarga nisbati",
           "correct": true
         },
         {
           "key": "B",
-          "text": "Инновацион банк сифатида трансформация қилиш учун технологик лойиҳаларга инвестиция киритиш, корпоратив муҳитда катта ўзгаришлар қилиш, стратегик фикрлашни кенгайтириш, ривожланишни фаоллаштириш, бозорда маълумотларни самарали бошқариш ва Time to Market (T2M)ни қисқартириш талаб этилади.",
+          "text": "Bank kapitalining riskni hisobga olib hisoblangan jami aktivlarga nisbati",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Кичик бизнес учун комплекс хизмат кўрсатувчи банкни яратиш, технология ва инвестицияларни кенгайтириш, корпоратив маданиятни модернизация қилиш, стратегик қарашлар ва инновацион фикрларни қўллаш, тез ривожланишни таъминлаш, Time to Market (T2M)ни оптимизация қилиш ва маълумотлар ҳамда аналитик базани такомиллаштиришни талаб қилади.",
+          "text": "Bank aktivlar o'sishini moliyalashtirishi va ko'zda tutilmagan (nomaqbul) yo'qotishlarsiz majburiyatlarining o'z vaqtida bajarilishini ta'minlash imkoniyati",
           "correct": false
         },
         {
           "key": "D",
-          "text": "Инновацион банк трансформацияси технологик янгиланишлар ва инвестициялар, корпоратив маданиятда асосий ўзгаришлар, стратегик фикрлашни ривожлантириш, ривожланишни интенсивлаштириш, бозордаги маълумотлар ва информацион етакчиликни кучайтириш, ҳамда Time to Market (T2M)ни қисқартиришни талаб қилади.",
+          "text": "Qiymati bozorda shakllanadigan, bozor qiymati bo'yicha qisqa muddat ichida ularni sotib olishga osonlik bilan xaridor topiladigan, doimiy ravishda ko'zda tutilmagan (nomaqbul) yo'qotishlarsiz sotiluvchi va sotib olinuvchi aktivlar",
           "correct": false
         }
       ],
-      "answerKey": "B",
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "83",
       "order": 83,
-      "question": "Savol: Банк хизматларининг содда, оддий ва қулайлигини таъминлаш вазифаси нималарни назарда тутади?a ✔ - содда жараёнлар, қулай интерфейслар;\n\nмижозлар хулқ-атворига асосланган мақсадли сегментация;\n\nинновацион маҳсулотлар ва пакетли таклифларни ўз ичига олган шаффоф маҳсулотлар тўпламини яратиш;\n\nрақамли онбординг;\n\nмижозларнинг содиқлиги дастурини қўллаш;\n\nсамарали брендинг ва маркетинг (реферал дастур, CVM, сторителлинг, бизнес учун меди",
+      "question": "Qiyin daraja — Sof barqaror moliyalashtirish me'yori nimani bildiradi?",
       "options": [
         {
           "key": "A",
-          "text": "",
-          "correct": false
+          "text": "Mavjud resurslarning muddatlari bo'yicha joylashtirilgan aktivlar muddatlariga monandligi",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Фаол мижозларни сегментларга ажратиш ва хизматларни ихтисослаштиришc - Низоларни судгача ҳал қилиш билан шуғулланишd - Таркибий бўлинмаларни интеграциялаш",
+          "text": "Qiymati bozorda shakllanadigan, bozor qiymati bo'yicha qisqa muddat ichida ularni sotib olishga osonlik bilan xaridor topiladigan, doimiy ravishda ko'zda tutilmagan (nomaqbul) yo'qotishlarsiz sotiluvchi va sotib olinuvchi aktivlar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bank kapitalining riskni hisobga olib hisoblangan jami aktivlarga nisbati",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bank aktivlar o'sishini moliyalashtirishi va ko'zda tutilmagan (nomaqbul) yo'qotishlarsiz majburiyatlarining o'z vaqtida bajarilishini ta'minlash imkoniyati",
           "correct": false
         }
       ],
-      "answerKey": null,
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "84",
       "order": 84,
-      "question": "Savol: Банк хизматларининг оммабоплигини таъминлаш вазифаси нималарни назарда тутади?a - Банкда ички мотивация тизимини шакллантиришb ✔ - мукаммал UX/UIга ва daily banking кенг функциялари (телефон рақами орқали Р2Р, қулай SWIFT, ҳужжатлар шаблонлари ва конструкторлари, DovTec",
+      "question": "Qiyin daraja — NPS",
       "options": [
         {
-          "key": "Г",
-          "text": ";\n\nCash-in/cash-out функцияли банкоматларнинг кенг тармоғи орқали SMS ва QR-код ёрдамида нақд пул ечиш тизимини яратиш;\n\nбанк тармоқларини Hub&Spokeга трансформация қилиш",
+          "key": "A",
+          "text": "Bu mijozlar sodiqligining ko'rsatkichi bo'lib, ularning boshqalarga bankni tavsiya etishga tayyorligini (istagini) ko'rsatadi. Bu ko'rsatkich so'rovlar o'tkazish orqali aniqlanadi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bu mijozning qoniqish indeksi bo'lib, u mijozning kompaniya bilan bo'lgan so'nggi muloqotidan qanchalik qoniqqanligini baholaydigan metrikadir. Bu indeks kompaniyaning mahsulotlari yoki xizmatlariga nisbatan mijoz kutilmalarining qanchalik qondirilganligini ko'rsatadi",
           "correct": false
         },
         {
           "key": "C",
-          "text": "Фаолият самарадорлигини оширишd - Рақамли маркетинг каналларини оптималлаштириш",
+          "text": "Bank aktivlar o'sishini moliyalashtirishi va ko'zda tutilmagan (nomaqbul) yo'qotishlarsiz majburiyatlarining o'z vaqtida bajarilishini ta'minlash imkoniyati",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Aktivlar rentabelligi ko'rsatkichi bo'lib, bir so'm aktiv keltirgan sof foydani bildiradi, ya'ni sof foydaning aktivlarga nisbati",
           "correct": false
         }
       ],
-      "answerKey": null,
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "85",
       "order": 85,
-      "question": "Savol: Банк хизматларининг тезкорлигини таъминлаш вазифаси нималарни назарда тутади?a - Банк капиталини назорат қилишb ✔ - транзакцияларни ва мижозлар сўровини зудлик билан ёки реал вақт режимида қайта ишлаш;\n\nоптималлашган ва автоматлаштирилган бизнес-жараёнлар;\n\nсамарали риск-менежмент;\n\nмукаммал молиявий технологиялар ва IT-инфраструктура (ML-scoring, soft-collection, CRM ва ҳ. к.);\n\nмаълумотлар омбори ва уларни таҳлил қилувчи мукаммал воситалар",
+      "question": "Qiyin daraja — CSI",
       "options": [
         {
+          "key": "A",
+          "text": "Bu mijozning qoniqish indeksi bo'lib, u mijozning kompaniya bilan bo'lgan so'nggi muloqotidan qanchalik qoniqqanligini baholaydigan metrikadir. Bu indeks kompaniyaning mahsulotlari yoki xizmatlariga nisbatan mijoz kutilmalarining qanchalik qondirilganligini ko'rsatadi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Kapital rentabelligi ko'rsatkichi bo'lib, kapitalga qo'yilgan bir so'm keltirgan sof foydani bildiradi, ya'ni sof foydaning kapitalga nisbati",
+          "correct": false
+        },
+        {
           "key": "C",
-          "text": "Лойиҳа бошқарув тизимини жорий этишd - ESG стандартларини таъминлаш",
+          "text": "Bu mijozlar sodiqligining ko'rsatkichi bo'lib, ularning boshqalarga bankni tavsiya etishga tayyorligini (istagini) ko'rsatadi. Bu ko'rsatkich so'rovlar o'tkazish orqali aniqlanadi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bank aktivlar o'sishini moliyalashtirishi va ko'zda tutilmagan (nomaqbul) yo'qotishlarsiz majburiyatlarining o'z vaqtida bajarilishini ta'minlash imkoniyati",
           "correct": false
         }
       ],
-      "answerKey": null,
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "86",
       "order": 86,
-      "question": "Savol: Фоизсиз даромадлар нималар ҳисобига ўстирилади?a ✔ - ҳисоб-китоб-касса амалиётларидан олинадиган комиссион даромадлар, 1 та операциядан олинадиган соф даромадни ошириш, тўловлар, ўтказмалар ва конверсия операцияларининг ўртача ҳажмини ошириш, \"СПОТ\" битимларидан олинадиган даромадлар, банк карталаридан олинадиган даромадларнинг кенг турлари",
+      "question": "Qiyin daraja — Loyihalarni bajarish jarayoni qanday nazorat qilinadi?",
       "options": [
         {
-          "key": "Б",
-          "text": "кито",
-          "correct": false
-        },
-        {
-          "key": "Б",
-          "text": "касса амалиётларидан олинадиган комиссион даромадлар, 1 та операциядан олинадиган соф даромадни ошириш, тўловлар, ўтказмалар ва конверсия операцияларининг ўртача ҳажмини ошириш, \"СПОТ\" битимларидан олинадиган даромадлар, банк карталаридан олинадиган даромадларнинг кенг турлари",
-          "correct": false
+          "key": "A",
+          "text": "Loyihaning vaqtini, byudjetini, sifatini va resurslarini kuzatish, xavflarni boshqarish va loyiha maqsadlariga erishilganligini baholash",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Ноликвидли активлардан фойдаланишc - Рақамли маркетинг каналлари орқали даромадd - Мижозларнинг кўплигидан келадиган соф даромад",
+          "text": "Loyihaning muddatini, byudjetini, sifatini va resurslarini kuzatish, natijalari to'g'risida Boshqaruv Raisiga bildirishnoma kiritish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Loyihaning muddatini, byudjetini, sifatini va resurslarini kuzatish, xavflarni boshqarish va aksiyadorlarga muntazam axborot berish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bankning asosiy moliyaviy natijalarini kuzatish, xavflarni boshqarish va loyiha maqsadlariga erishilganligini baholash",
           "correct": false
         }
       ],
-      "answerKey": null,
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "87",
       "order": 87,
-      "question": "Savol: Банк Стратегиясига кўра NPLни пасайтириш учун нима қилиш керак?a ✔ - андеррайтинг функциясини такомиллаштириш (аниқ мезонлар, аналитик моделла",
+      "question": "Qiyin daraja — Loyihaning muvaffaqiyati qanday aniqlanadi?",
       "options": [
         {
+          "key": "A",
+          "text": "Loyiha pasportida belgilangan maqsadlarga erishilganligi baholanadi",
+          "correct": true
+        },
+        {
           "key": "B",
-          "text": "Мижозларни сегментлаштиришc - Янги маҳсулотлар ишлаб чиқишd - Фаол мижозларни қўлла",
+          "text": "Moliyaviy ko'rsatkichlar (ROI, NPV), belgilangan muddatlar va byudjetga muvofiqligi, natijalar sifati, mijozlar va jamoaning qoniqishi, shuningdek, strategik maqsadlarga erishish va biznes asoslanishi",
           "correct": false
         },
         {
-          "key": "Б",
-          "text": "қувватлаш",
+          "key": "C",
+          "text": "Miqdoriy ko'rsatkichlar va sifat ko'rsatkichlarining kombinasiyasi, shuningdek barcha manfaatdor tomonlarning fikr-mulohazalari qo'llaniladi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Moliyaviy ko'rsatkichlar (ROI, NPV), belgilangan muddatlar va byudjetga muvofiqligi, natijalar sifati, mijozlar va jamoaning qoniqishi, shuningdek barcha manfaatdor tomonlarning fikr-mulohazalari qo'llaniladi",
           "correct": false
         }
       ],
-      "answerKey": null,
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "88",
       "order": 88,
-      "question": "Savol: Банкда яратилаётган Business HUB доирасидаги хизматлар экотизимида нималар назарда тутилган?a ✔ - Консалтинг, бухгалтерия ҳисоби, солиқ ва ҳуқуқий масалалар бўйича маслаҳатлар, бизнесни он-лайн рўйхатдан ўтказиш, бизнес-мактаби, пакетли таклифлар, мижозларни медиа воситасида қўллаб-қувватлаш, иш юритишда фойдаланиладиган ҳужжатлар конструкторлари ва шаблонлари",
+      "question": "Qiyin daraja — Kichik biznesga kompleks xizmatlar ko'rsatish bo'yicha tanlovda birinchi bank bo'lish uchun nimalar qilish kerak?",
       "options": [
         {
-          "key": "Б",
-          "text": "қувватлаш, иш юритишда фойдаланиладиган ҳужжатлар конструкторлари ва шаблонлари",
-          "correct": false
+          "key": "A",
+          "text": "Mijozga yo'naltirilgan yondashuvni kuchaytirish, xizmat ko'rsatishning samarali servis-modelini yaratish, bank va nobank mahsulotlar (xizmatlar)ning keng ko'lamli eko-tizimini shakllantirish, paketli takliflar va mijozlarning sodiqligini ta'minlash dasturlarini yo'lga qo'yish, NFSni joriy qilish, ekspertiza markazlarini tashkil qilish",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Банкнинг ички коммуникация тизимини кучайтиришc - Лойиҳа рискларини баҳолашd - NPLларни пасайтириш",
+          "text": "Mijozga yo'naltirilgan yondashuvni kuchaytirish, xizmat ko'rsatishning samarali servis-modelini yaratish, bank va nobank mahsulotlar (xizmatlar)ning keng ko'lamli eko-tizimini shakllantirish, yangi filiallar ochish hisobiga bank tarmog'ini kengaytirish, NFSni joriy qilish, ekspertiza markazlarini tashkil qilish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijozga yo'naltirilgan yondashuvni kuchaytirish, xizmat ko'rsatishning samarali servis-modelini yaratish, bank va nobank mahsulotlar (xizmatlar)ning keng ko'lamli eko-tizimini shakllantirish, paketli takliflar va mijozlarning sodiqligini ta'minlash dasturlarini yo'lga qo'yish, ta'lim kreditlari va mikroqarzlar hajmini oshirish, ekspertiza markazlarini tashkil qilish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijozga yo'naltirilgan yondashuvni kuchaytirish, xizmat ko'rsatishning samarali servis-modelini yaratish, bank va nobank mahsulotlar (xizmatlar)ning keng ko'lamli eko-tizimini shakllantirish, paketli takliflar va mijozlarning sodiqligini ta'minlash dasturlarini yo'lga qo'yish, Process Mining'ni joriy etish",
           "correct": false
         }
       ],
-      "answerKey": null,
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "89",
       "order": 89,
-      "question": "Savol: Мижозга йўналтирилган бизнес-модель нималарни назарда тутади?a ✔ - Бу моделнинг асосий элементи - бу мижоз ва унинг эҳтиёжларидир. Шунинг учун банк бизнес жараёнларни ушбу эҳтиёжларни тушунишга ва қондиришга қаратиб ишлаб чиқиши лозим: инновацион, яъни бозорда янги бўлган маҳсулотлар ва хизматлар яратиш, мижозларнинг ўзгарувчан эҳтиёжларига зудлик билан жавоб бериш ва хизматларни доимий мослаштириб бориш, ҳамкорлар экотизимидан фойдаланиш (стартаплар, финтех компанияла",
+      "question": "Qiyin daraja — Kuchli korporativ madaniyatni va aniq natijaga intiluvchi jamoani shakllantirish qanday amalga oshiriladi?",
       "options": [
         {
+          "key": "A",
+          "text": "\"O'zgarishlar agentlari\" dasturini amalga oshirish, \"Agile\" jamoalarni yaratish va ularning ko'lamini kengaytirish, bankda ichki kommunikasiyani kuchaytirish, xodimlarni o'qitish orqali ularning malaka darajasini oshirish, samarali motivasion model yaratish, greyding va KPI tizimini joriy etish",
+          "correct": true
+        },
+        {
           "key": "B",
-          "text": "Фақат маҳсулотларнинг нархини пасайтиришc - Банк филиаллари сонини кўпайтиришd - Мижозларнинг кредит юкламасини назорат қилиш",
+          "text": "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog'ozlariga investisiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, NFSni joriy qilish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Biznes-jarayonlarni raqamlashtirish, jarayonlarni boshqarish va xarajatlar nazoratini optimallashtirish, masofaviy xizmatlar soni va hajmini oshirish, NFSni joriy qilish, tashkiliy-funksional model samaradorligini oshirish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish, \"O'zgarishlar agentlari\" dasturini amalga oshirish, \"Agile\" jamoalarni yaratish va ularning ko'lamini kengaytirish",
           "correct": false
         }
       ],
-      "answerKey": null,
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "90",
       "order": 90,
-      "question": "Savol: \"Мижоз йўли\"ни яхшилашга ёндашув қандай бўлиши керак?a ✔ - Мижоз банк билан алоқа қилиш давомида қандай қадамларни ўташини ва буни мижоз қандай қабул қилишини банк ҳис қилиши, тушуниши ва таҳлил қилиши лозим. Унинг ҳар бир босқичдаги ташвишларини ўрганиб, уларни енгиллаштириш мақсадида ўзининг жараёнларини оптималлаштиради. Бунга ҳар бир босқич, ҳар бир алоқа қандай кўринишда эканлиги батафсил тасвирланиши керак",
+      "question": "Qiyin daraja — BRBni kichik biznesga kompleks xizmat ko'rsatuvchi \"innovasion bank\"ka aylantirish (transformasiya qilish) nimalarni talab qiladi?",
       "options": [
         {
+          "key": "A",
+          "text": "\"texnologik investisiyalarni; korporativ madaniyatdagi tub o'zgarishlarni; strategik tafakkurni; intensiv rivojlanishni; T2Mni (Time to market) qisqartirishni; bozorda informasion yetakchilikni va ma'lumotlar omborini takomillashtirishni.\"",
+          "correct": true
+        },
+        {
           "key": "B",
-          "text": "ESG стандартларини қўллашc - Лойиҳа бюджетига эътибор қаратишd - CIR ва ROE кўрсаткичларини таҳлил қилиш",
+          "text": "\"Filiallarning asosiy moliyaviy ko'rsatkichlarini monitoring qilish;Bosh ofis topshiriqlarini o'z muddatida ijrosini nazorat qilish;zarur hollarda biznes-rejalariga tuzatishlar kiritish\"",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "\"xorijiy investisiyalarni jalb qilish; davlat dasturlarini amalga oshirish; ijro nazoratini kuchaytirish; intensiv rivojlanishni; T2Mni (Time to market) qisqartirishni; bozorda informasion etakchilikni va ma'lumotlar omborini takomillashtirishni.\"",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish, \"O'zgarishlar agentlari\" dasturini amalga oshirish, \"Agile\" jamoalarni yaratish va ularning ko'lamini kengaytirish",
           "correct": false
         }
       ],
-      "answerKey": null,
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "91",
       "order": 91,
-      "question": "Savol: Банк бизнес-моделининг 3 та асосий элементи: мижоз, маҳсулот, каналлар. Шундан келиб чиқиб, бизнес-моделимизни қандай тавсифлаб бера оласиз?a ✔ - Мижозларимизнинг асосий сегментлари ва субсегментларини, уларга тақдим этиладиган асосий молиявий ва нобанк маҳсулотларни ҳамда мижозлар билан алоқа каналлари, сотув ва хизмат кўрсатиш каналларини аниқлаб олиш, эҳтиёжларни ўрганиш, янги инновацион маҳсулотлар ишлаб чиқиш тизимини такомиллаштириш, сотув жараёнларини оптималлаштириш",
+      "question": "Qiyin daraja — Bank xizmatlarining ommabopligini ta'minlash vazifasi nimalarni nazarda tutadi?",
       "options": [
         {
+          "key": "A",
+          "text": "\"mukammal UХ/UIga va daily banking keng funksiyalari (telefon raqami orqali P2P, qulay SWIFT, hujjatlar shablonlari va konstruktorlari, DovTech) mijozlarga 24/7 davomida uzluksiz va er yuzining har qanday nuqtasida xizmat ko'rsatishni yo'lga qo'yish; to'lovlarni qabul qilishning keng tarmog'ini yaratish (POS va mPOS-terminallar, QR-kod orqali to'lovlar, internet-ekvayring); Cash-in/cash-out funksiyali bankomatlarning keng tarmog'i orqali SMS va QR-kod yordamida naqd pul yechish tizimini yaratish; bank tarmoqlarini Hub&Spokega transformasiya qilish.\"",
+          "correct": true
+        },
+        {
           "key": "B",
-          "text": "Фаолият самарадорлигини оширишc - NPLни камайтиришd - Капитал етарлилигини назорат қилиш",
+          "text": "\"anderrayting funksiyasini takomillashtirish (aniq mezonlar, analitik modellar); doimiy monitoring va risklarni baholash, mijozning to'lovga qobiliyati yomonlashayotganligini olindan aniqlash tizimini joriy qilish; operasion risklarni boshqarishga oid korporativ madaniyatni joriy qilish; nizolarni sudgacha hal qilish bilan shug'ullanuvchi xodimlarning ixtisoslashuvi darajasini oshirish.\"",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "\"- sodda jarayonlar, qulay interfeyslar; mijozlar xulq-atvoriga asoslangan maqsadli segmentasiya; innovasion mahsulotlar va paketli takliflarni o'z ichiga olgan shaffof mahsulotlar to'plamini yaratish; raqamli onbording; mijozlarning sodiqligi dasturini qo'llash; samarali brending va marketing (referal dastur, CVM, storitelling, biznes uchun media)\"",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "\"- tranzaksiyalarni va mijozlar so'rovini zudlik bilan yoki real vaqt rejimida qayta ishlash; optimallashgan va avtomatlashtirilgan biznes-jarayonlar; samarali risk-menejment; mukammal moliyaviy texnologiyalar va IT-infrastruktura (ML-scoring, soft-collection, CRM va h. k.); ma'lumotlar ombori va ularni tahlil qiluvchi mukammal vositalar.\"",
           "correct": false
         }
       ],
-      "answerKey": null,
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "92",
       "order": 92,
-      "question": "Savol: Фаол мижозлар сони ва уларга тақдим этилаётган маҳсулотлар сотувини оширишда чакана бизнес ҳамда юридик шахсларга хизмат кўрсатувчи бизнес-тузилмаларнинг ҳамкорлиги қандай бўлиши керак?a ✔ - Мижозларни ўстиришда биргаликда мижозлар эҳтиёжини ўрганиш, маҳсулотлар ишлаб чиқиш ва мижозлар хулқ-атворини таҳлил қилган ҳолда уларнинг фаоллигини ошириш бўйича биргаликдаги тадбирларни амалга ошириш. Натижада, чикана мижозларни микробизнес соҳасига ўтказиш, ундан кичик бизнес, кейин ўрта бизнес ва корпоратив бизнес соҳасига ўтказиш бўйича чоралар кўриш",
+      "question": "Qiyin daraja — Bank xizmatlarining tezkorligini ta'minlash vazifasi nimalarni nazarda tutadi?",
       "options": [
         {
+          "key": "A",
+          "text": "\"- tranzaksiyalarni va mijozlar so'rovini zudlik bilan yoki real vaqt rejimida qayta ishlash; optimallashgan va avtomatlashtirilgan biznes-jarayonlar; samarali risk-menejment; mukammal moliyaviy texnologiyalar va IT-infrastruktura (ML-scoring, soft-collection, CRM va h.k.); ma'lumotlar ombori va ularni tahlil qiluvchi mukammal vositalar.\"",
+          "correct": true
+        },
+        {
           "key": "B",
-          "text": "Янги филиаллар очишc - CIR ва NIM кўрсаткичларини таҳлил қилишd - ESG стандартларини қўллаш",
+          "text": "Konsalting, buxgalteriya hisobi, soliq va huquqiy masalalar bo'yicha maslahatlar, biznesni on-layn ro'yxatdan o'tkazish, biznes-maktabi, paketli takliflar, mijozlarni media vositasida qo'llab-quvvatlash, ish yuritishda foydalaniladigan hujjatlar konstruktorlari va shablonlari.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "\"anderrayting funksiyasini takomillashtirish (aniq mezonlar, analitik modellar); doimiy monitoring va risklarni baholash, mijozning to'lovga qobiliyati yomonlashayotganligini olindan aniqlash tizimini joriy qilish; kredit portfeli barqarorligini baholash maqsadida muntazam stress-testlar o'tkazib borish; nizolarni sudgacha hal qilish bilan shug'ullanuvchi xodimlarning ixtisoslashuvi darajasini oshirish.\"",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "hisob-kitob-kassa amaliyotlaridan olinadigan komission daromadlar, 1 ta operasiyadan olinadigan sof daromadni oshirish, to'lovlar, o'tkazmalar va konversiya operasiyalarining o'rtacha hajmini oshirish, \"SPOT\" bitimlaridan olinadigan daromadlar, bank kartalaridan olinadigan daromadlarning keng turlari.",
           "correct": false
         }
       ],
-      "answerKey": null,
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "93",
       "order": 93,
-      "question": "Savol: Битта мижозга тўғри келадиган маҳсулотлар сонини оширишга нималар таъсир қилади?a ✔ - Маҳсулотлар жозибадорлиги, таҳлилий CRM, кросс-сотувлар, мижозга индивидуал ёндашув ва ҳ.к.",
+      "question": "Qiyin daraja — Bank Strategiyasiga ko'ra NPLni pasaytirish uchun nima qilish kerak?",
       "options": [
         {
+          "key": "A",
+          "text": "\"anderrayting funksiyasini takomillashtirish (aniq mezonlar, analitik modellar); doimiy monitoring va risklarni baholash, mijozning to'lovga qobiliyati yomonlashayotganligini olindan aniqlash tizimini joriy qilish; operasion risklarni boshqarishga oid korporativ madaniyatni joriy qilish; to'lovlarni undirish dasturlarini va restrukturizasiya rejalarini ishlab chiqish; kredit portfeli barqarorligini baholash maqsadida muntazam stress-testlar o'tkazib borish; nizolarni sudgacha hal qilish bilan shug'ullanuvchi xodimlarning ixtisoslashuvi darajasini oshirish.\"",
+          "correct": true
+        },
+        {
           "key": "B",
-          "text": "Фаолият самарадорлигини оширишc - Лойиҳа бюджетини назорат қилишd - Hub&Spoke моделини жорий қилиш",
+          "text": "\"- sodda jarayonlar, qulay interfeyslar; mijozlar xulq-atvoriga asoslangan maqsadli segmentasiya; innovasion mahsulotlar va paketli takliflarni o'z ichiga olgan shaffof mahsulotlar to'plamini yaratish; raqamli onbording; mijozlarning sodiqligi dasturini qo'llash; samarali brending va marketing (referal dastur, CVM, storitelling, biznes uchun media)\"",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "\"- tranzaksiyalarni va mijozlar so'rovini zudlik bilan yoki real vaqt rejimida qayta ishlash; optimallashgan va avtomatlashtirilgan biznes-jarayonlar; samarali risk-menejment; mukammal moliyaviy texnologiyalar va IT-infrastruktura (ML-scoring, soft-collection, CRM va h.k.); ma'lumotlar ombori va ularni tahlil qiluvchi mukammal vositalar.\"",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog'ozlariga investisiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish.",
           "correct": false
         }
       ],
-      "answerKey": null,
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "94",
       "order": 94,
-      "question": "Savol: Банкда нималарни рақамлаштириш керак?a ✔ - Маҳсулотларни, мижозларни (рақамли онбордин",
+      "question": "Qiyin daraja — Mijozga yo'naltirilgan biznes-model nimalarni nazarda tutadi?",
       "options": [
         {
-          "key": "Г",
-          "text": ", алоқа ва сотув каналларини, маълумотларни (ҳисоботларни), бэк-офисни ва ҳ.к.",
-          "correct": false
+          "key": "A",
+          "text": "Bu modelning asosiy elementi — bu mijoz va uning ehtiyojlaridir. Shuning uchun bank biznes jarayonlarni ushbu ehtiyojlarni tushunishga va qondirishga qaratib ishlab chiqishi lozim: innovasion, ya’ni bozorda yangi bo‘lgan mahsulotlar va xizmatlar yaratish, mijozlarning o‘zgaruvchan ehtiyojlariga zudlik bilan javob berish va xizmatlarni doimiy moslashtirib borish.",
+          "correct": true
         },
         {
           "key": "B",
-          "text": "Ноликвидли активлардан фойдаланишc - CIR ва ROE таҳлилиd - Мижозларнинг кредит юкламасини назорат қилиш",
+          "text": "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog‘ozlariga investisiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta’minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Konsalting, buxgalteriya hisobi, soliq va huquqiy masalalar bo‘yicha maslahatlar, biznesni on-layn ro‘yxatdan o‘tkazish, biznes-maktabi, paketli takliflar, mijozlarni media vositasida qo‘llab-quvvatlash, ish yuritishda foydalaniladigan hujjatlar konstruktorlari va shablonlari.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijoz bank bilan aloqa qilish davomida qanday qadamlarni o‘tashini va buni mijoz qanday qabul qilishini bank his qilishi, tushunishi va tahlil qilishi lozim.",
           "correct": false
         }
       ],
-      "answerKey": null,
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "95",
       "order": 95,
-      "question": "Savol: Рақамлаштириш нима беради?a Хизматлар тезлиги ошади, мижозлар ишончи ва содиқлиги ортади, CSI ва CLV кўрсаткичлари ортадиb Фаолият самарадорлигини баҳолаш учун янгича ҳисобот тизими яратишc ✔ Турли каналлар орқали хизмат кўрсатиш узлуксизлиги таъминланади, сотув ҳажмлари ошадиd Янги филиаллар очиш ва уларни рақамлаштириш",
-      "options": [],
-      "answerKey": null,
+      "question": "Qiyin daraja — \"Mijoz yo‘li\"ni yaxshilashga yondashuv qanday bo‘lishi kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijoz bank bilan aloqa qilish davomida qanday qadamlarni o‘tashini va buni mijoz qanday qabul qilishini bank his qilishi, tushunishi va tahlil qilishi lozim. Uning har bir bosqichdagi tashvishlarini o‘rganib, ularni yengillashtirish maqsadida o‘zining jarayonlarini optimallashtiradi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijozlarimizning asosiy segmentlari va subsegmentlarini, ularga taqdim etiladigan asosiy moliyaviy va nobank mahsulotlarni aniqlab olish, ehtiyojlarni o‘rganish, yangi innovasion mahsulotlar ishlab chiqish tizimini takomillashtirish.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijozga yo‘naltirilgan yondashuvni kuchaytirish, xizmat ko‘rsatishning samarali servis-modelini yaratish, bank va nobank mahsulotlarning keng ko‘lamli eko-tizimini shakllantirish, paketli takliflar va sodiqlik dasturlarini yo‘lga qo‘yish.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Konsalting, buxgalteriya hisobi, soliq va huquqiy masalalar bo‘yicha maslahatlar, biznesni on-layn ro‘yxatdan o‘tkazish, biznes-maktabi, paketli takliflar, mijozlarni media vositasida qo‘llab-quvvatlash.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "96",
       "order": 96,
-      "question": "Savol: Мижозларни сегментларга (субсегментларг",
+      "question": "Qiyin daraja — Bank biznes-modelining 3 ta asosiy elementi: mijoz, mahsulot, kanallar. Shundan kelib chiqib, biznes-modelimizni qanday tavsiflab bera olasiz?",
       "options": [
         {
           "key": "A",
-          "text": "ажратишдан мақсад нима?a Янги маҳсулотлар ишлаб чиқишb Мижозларнинг кредит юкламасини назорат қилишc  Ҳар бир сегментдаги мижозлар учун маҳсус банк маҳсулотларини таклиф қилиш, улар билан мулоқот қилишнинг алоҳида моделларини ишлаб чиқиш ва қўллашd Рақамли каналлардан фойдаланиш самарадорлигини баҳолаш",
+          "text": "Mijozlarimizning asosiy segmentlari va subsegmentlarini, ularga taqdim etiladigan asosiy moliyaviy va nobank mahsulotlarni hamda mijozlar bilan aloqa kanallari, sotuv va xizmat ko‘rsatish kanallarini aniqlab olish, ehtiyojlarni o‘rganish, yangi innovasion mahsulotlar ishlab chiqish tizimini takomillashtirish, sotuv jarayonlarini optimallashtirish.",
           "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijoz bank bilan aloqa qilish davomida qanday qadamlarni o‘tashini va buni mijoz qanday qabul qilishini bank his qilishi, tushunishi va tahlil qilishi lozim.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Aktivlarni boshqarish samaradorligini oshirish, davlat qimmatli qog‘ozlariga investisiya qilish, risk-madaniyatni takomillashtirish.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijozga yo‘naltirilgan yondashuvni kuchaytirish, xizmat ko‘rsatishning samarali servis-modelini yaratish, bank va nobank mahsulotlarning eko-tizimini shakllantirish.",
+          "correct": false
         }
       ],
       "answerKey": "A",
@@ -2490,157 +2790,147 @@
     {
       "id": "97",
       "order": 97,
-      "question": "Savol: Мижозларни сегментлаш қандай кўрсаткичлар асосида амалга оширилиши мумкин?a Тушуми (айланмас",
-      "options": [],
-      "answerKey": null,
+      "question": "Qiyin daraja — Faol mijozlar soni va ularga taqdim etilayotgan mahsulotlar sotuvini oshirishda chakana biznes hamda yuridik shaxslarga xizmat ko‘rsatuvchi biznes-tuzilmalarning hamkorligi qanday bo‘lishi kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijozlarni o‘stirishda birgalikda mijozlar ehtiyojini o‘rganish, mahsulotlar ishlab chiqish va mijozlar xulq-atvorini tahlil qilgan holda ularning faolligini oshirish bo‘yicha tadbirlarni amalga oshirish.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "\"Mahsulotlarni, mijozlarni (raqamli onbording), aloqa va sotuv kanallarini raqamlashtirish.\"",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, ESG tamoyillarini joriy qilish.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "hisob-kitob-kassa amaliyotlaridan olinadigan komission daromadlar, \"SPOT\" bitimlaridan olinadigan daromadlar.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "98",
       "order": 98,
-      "question": "Savol: Фаол бўлмаган мижозлар қандай аниқланади?a ✔ Охирги ярим йилда банк билан операциялар амалга оширмаган мижозлар нофаол деб топиладиb Фақат кредит тарихига кўра аниқланадиc Мижозлар мобил илова орқали транзакция қилмаган бўлсаd Янги филиаллардан фойдаланмаган мижозлар",
-      "options": [],
-      "answerKey": null,
+      "question": "Qiyin daraja — Raqamlashtirish nima beradi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Хizmatlar tezligi oshadi, mijozlar ishonchi, sodiqligi va tajribasi ortadi, turli kanallar orqali xizmat ko‘rsatish uzluksizligi ta’minlanadi, CSI va CLV kabi ko‘rsatkichlar ortadi, sotuv hajmlari oshadi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Har bir segmentdagi mijozlar uchun mahsus bank mahsulotlarini taklif qilish.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Aktivlarni boshqarish samaradorligini oshirish, davlat qimmatli qog‘ozlariga investisiya qilish.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bank mahsulotlarini xarid qilish, tariflarni o‘zgartirish va limitlarni boshqarish.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "99",
       "order": 99,
-      "question": "Savol: Фаол бўлмаган мижозларни қандай фаоллаштирса бўлади?a Махсус таклифлар тақдим этиш, акциялар ташкил этишb ✔ PUSH-хабарлар юбориш, қўнғироқ орқали фид-бэк олиш ва эҳтиёжларига мос маҳсулотлар таклиф этишc CIR ва ROE таҳлили орқали назорат қилишd Мижозларга мажбурий маҳсулот сотиш",
-      "options": [],
-      "answerKey": null,
+      "question": "Qiyin daraja — Faol bo‘lmagan mijozlar qanday aniqlanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Oxirgi yarim yilda bank bilan operasiyalar amalga oshirmagan mijozlar nofaol deb topiladi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Kredit buyurtmasida ismi va familiyasini ko‘rsatmagan mijozlar nofaol deb topiladi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Olingan kredit qarzdorligini o‘z vaqtida so‘ndirmagan mijozlar nofaol deb topiladi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Oxirgi bir oyda bank bilan operasiyalar amalga oshirmagan mijozlar nofaol deb topiladi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "100",
       "order": 100,
-      "question": "Savol: Бугунги кунда БРБ рақамли хизматлар экотизимига нималар киради?a ✔ БРБ мобиль иловаси, Менинг бизнесим, Менинг буюртмам, Менинг томорқам, Бизнес 24/7 платформаси, веб-сайтb Фақат мобил илова ва интернет-банкингc Фақат Бизнес 24/7 платформасиd Фақат филиаллардаги сервислар",
+      "question": "Qiyin daraja — Bank Strategiyasiga ko‘ra ko‘p funksiyali on-layn ofis orqali kichik biznesga qanday xizmatlar taqdim etiladi?",
       "options": [
         {
-          "key": "Б",
-          "text": "сайтb Фақат мобил илова ва интернет-банкингc Фақат Бизнес 24/7 платформасиd Фақат филиаллардаги сервислар",
+          "key": "A",
+          "text": "Bank mahsulotlari va xizmatlarini xarid qilish, o‘zining tariflarini belgilash va o‘zgartirish, hisobraqamlarini va limitlarini boshqarish, on-layn to‘lovlarni amalga oshirish, nomoliyaviy xizmatlarga ulanish, moliyaviy holatini tahlil qilish va hisobotlar shakllantirish.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bank mahsulotlari va xizmatlarini xarid qilish, investision loyihalarini moliyalashtirish, hisobraqamlarini va limitlarini boshqarish.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Har bir mijozga individual yondashgan holda uning ehtiyojlarini o‘rganish.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bank mahsulotlari va xizmatlarini xarid qilish, investision loyihalarini moliyalashtirish, nomoliyaviy xizmatlarga ulanish, anderrayting xizmatlarini ko‘rsatish.",
           "correct": false
         }
       ],
-      "answerKey": null,
+      "answerKey": "A",
       "locale": "mixed"
     },
     {
       "id": "101",
       "order": 101,
-      "question": "Savol: Банк Стратегиясига кўра кўп функцияли он-лайн офис орқали кичик бизнесга қандай хизматлар тақдим этилади?a ✔ Банк маҳсулотлари ва хизматларини харид қилиш, ўз тарифларини белгилаш ва ўзгартириш, ҳисобрақамлар ва лимитларни бошқариш, он-лайн тўловларни амалга ошириш, номолиявий хизматларга уланиш, молиявий ҳолатини таҳлил қилиш ва ҳисоботлар шакллантиришb Фақат онлайн ҳисобрақам очишc Мижозлар билан тўғридан-тўғри учрашувd Фақат кредитлаш хизматлари",
-      "options": [],
-      "answerKey": null,
-      "locale": "mixed"
-    },
-    {
-      "id": "102",
-      "order": 102,
-      "question": "Savol: Банк Стратегиясига кўра Алоқа-марказини трансформация қилиш орқали унинг функцияларини қандай кенгайтириш назарда тутилган?a Сотув каналлари учун фаол қўлланишb Алоқа марказини фақат техник қўллаб-қувватлашга йўналтиришc ✔ Алоқа-марказини сотув каналига айлантириш назарда тутилганd Янги филиаллар очиш",
+      "question": "Qiyin daraja — Bank tarmoqlarini transformasiya qilish natijasida filiallarda qanday mutaxassislarning ulushi ortadi?",
       "options": [
         {
           "key": "A",
-          "text": "марказини трансформация қилиш орқали унинг функцияларини қандай кенгайтириш назарда тутилган?a Сотув каналлари учун фаол қўлланишb Алоқа марказини фақат техник қўлла",
-          "correct": false
-        },
-        {
-          "key": "Б",
-          "text": "қувватлашга йўналтиришc  Алоқ",
+          "text": "BХM, BХO xodimlari sonining 75 foizini mahsulotlar va xizmatlarni sotish bilan shug‘ullanuvchi mutaxassislar tashkil etishi belgilangan.",
           "correct": true
         },
         {
-          "key": "A",
-          "text": "марказини сотув каналига айлантириш назарда тутилганd Янги филиаллар очиш",
-          "correct": false
-        }
-      ],
-      "answerKey": "Б",
-      "locale": "mixed"
-    },
-    {
-      "id": "103",
-      "order": 103,
-      "question": "Savol: Relationship Manager (R",
-      "options": [],
-      "answerKey": null,
-      "locale": "mixed"
-    },
-    {
-      "id": "104",
-      "order": 104,
-      "question": "Savol: Бозорда БРБда кимлар билан рақобат қилади?a ✔ Бошқа банклар, микромолия ташкилотлари, финтех компаниялар (Клик, Пейм",
-      "options": [],
-      "answerKey": null,
-      "locale": "mixed"
-    },
-    {
-      "id": "105",
-      "order": 105,
-      "question": "Savol: Банк Стратегиясига кўра чакана бизнес мижозларининг сонини оширишда қайси канал муҳим ҳисобланади?a Ноликвидли активларb ✔ Рақамли канал - Мобиль илова, 2023 йилдаги 7%дан 2026 йилда 80%га ошириш кўзда тутилганc Фақат филиалларd ТВ ва радио рекламаси",
-      "options": [],
-      "answerKey": null,
-      "locale": "mixed"
-    },
-    {
-      "id": "106",
-      "order": 106,
-      "question": "Savol: Чакана бизнес йўналишида мижозларни жалб қилишнинг энг самарали йўли қайси ҳисобланади?a ТВ+радиоb Ташқи рекламаc ✔ Қариндош ва яқинлар, таниш ва дўстларнинг тавсияси - 58%d Мутахассислар маслаҳати - 29%",
-      "options": [],
-      "answerKey": null,
-      "locale": "mixed"
-    },
-    {
-      "id": "107",
-      "order": 107,
-      "question": "Savol: Қариндош ва яқинлар, таниш ва дўстларнинг тавсияси орқали чакана бизнес мижозларини кўпайтиришнинг энг самарали чораси нима?a Рақамли рекламаb ✔ Реферал дастурлар жорий этиш, тавсия қилган мижозга бонуслар тақдим этишc Янги филиаллар очишd Мижозларнинг кредит юкламасини назорат қилиш",
-      "options": [],
-      "answerKey": null,
-      "locale": "mixed"
-    },
-    {
-      "id": "108",
-      "order": 108,
-      "question": "Savol: Чакана бизнес мижозларининг эҳтиёжларини ўрганиш қандай амалга оширилади?a Янги маҳсулотлар таклиф қилишb ✔ Сўровлар ўтказиш, рақамли каналларда қолдирилган шарҳларни таҳлил қилишc Фаол мижозларни сегментлашd Ташқи реклама",
-      "options": [],
-      "answerKey": null,
-      "locale": "mixed"
-    },
-    {
-      "id": "109",
-      "order": 109,
-      "question": "Savol: Банк тармоқларини трансформация қилиш натижасида филиалларда қандай мутахассисларнинг улуши ортади?a ✔ Маҳсулотлар ва хизматларни сотиш билан шуғулланувчи мутахассислар 75% ташкил этишиb Фақат техник қўллаб-қувватлаш мутахассислариc Ҳисоб-китоб бўйича ходимларd HR мутахассислари",
-      "options": [
-        {
-          "key": "Б",
-          "text": "қувватлаш мутахассислариc Ҳисо",
+          "key": "B",
+          "text": "Strategiyaga ko‘ra 2026 yilda Bank tarmoqlari xodimlarining 50 foizi sotuv mutaxassislari bo‘ladi.",
           "correct": false
         },
         {
-          "key": "Б",
-          "text": "китоб бўйича ходимларd HR мутахассислари",
+          "key": "C",
+          "text": "Strategiyaga ko‘ra 2026 yilda Bosh ofis xodimlarining 30 foizi sotuv mutaxassislari bo‘ladi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Biznes departamentlar xodimlarining 80 foizi sotuv bilan shug‘ullanuvchi mutaxassislar bo‘ladi.",
           "correct": false
         }
       ],
-      "answerKey": null,
-      "locale": "mixed"
-    },
-    {
-      "id": "110",
-      "order": 110,
-      "question": "Savol: Банк Стратегиясида белгиланган мақсадларга эришиш, Йўл харитасидаги ташаббусларнинг бажарилишини таъминлаш учун Банкда қандай усуллар қўлланилмоқда?a ✔ Ходимлар KPI картасига талаблар киритилган, Канбан тизими йўлга қўйилган, Смарт Офисда Ҳаракатлар режаси назоратдаb Янги филиаллар очишc Фаол мижозларни сегментлашd Ташқи реклама",
-      "options": [],
-      "answerKey": null,
-      "locale": "mixed"
-    },
-    {
-      "id": "111",
-      "order": 111,
-      "question": "Savol: Банк Стратегиясида белгиланган кўрсаткичларга эришишда қандай мониторинг ва таҳлилий инструмент қўлланилади?\n\na Balanced Score Card – стратегик самарадорликни бошқариш воситасиb ✔ Стандартлаштирилган ҳисобот шакли орқали Стратегия ижросини мониторинг қилишc Янги филиалларнинг самарадорлигини баҳолашd Мижозларнинг мобил иловадаги фаоллиги",
-      "options": [],
-      "answerKey": null,
+      "answerKey": "A",
       "locale": "mixed"
     }
-  ],
-  "createdAt": "2025-10-21T07:27:44.704Z",
-  "schema": "v1"
+  ]
 }
