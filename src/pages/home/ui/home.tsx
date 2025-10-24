@@ -16,7 +16,7 @@ const Home = () => {
             </Center>
           </Link>
         ))}
-        <Text fz={14} style={{ position: "absolute", bottom: 10 }}>
+        <Text ta="center" fz={14} px="md" style={{ position: "absolute", bottom: 10 }}>
           <FontAwesomeIcon icon={faCopyright} size="xs" /> Innovatsion va raqamli texnologiyalari
           departamenti
         </Text>

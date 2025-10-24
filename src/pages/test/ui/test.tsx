@@ -20,7 +20,13 @@ const Test = () => {
     const nextCard = cardRefs.current[currentIndex + 1];
 
     if (nextCard) {
-      nextCard.scrollIntoView({ behavior: "smooth", block: "center" });
+      setTimeout(() => {
+        nextCard.scrollIntoView({
+          behavior: "smooth",
+          block: "end",
+          inline: "nearest",
+        });
+      }, 100);
     }
   };
 
