@@ -6,6 +6,7 @@ import axborot from "./axborot.json";
 import ijro from "./ijro.json";
 import fil from "./fil.json";
 import komplens from "./komplens.json";
+import chakana from "./chakana.json";
 
 export const data = {
   raqamli,
@@ -16,4 +17,5 @@ export const data = {
   testing,
   fil,
   komplens,
+  chakana,
 };

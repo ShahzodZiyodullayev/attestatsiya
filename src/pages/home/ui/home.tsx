@@ -35,6 +35,7 @@ const LINKS = [
   { label: "Yuridik departament", to: "yuridik" },
   { label: "Fil set", to: "fil" },
   { label: "Komplens", to: "komplens" },
+  { label: "Chakana", to: "chakana" },
   { label: "Tasodifiy 50 ta", to: "random" },
   // { label: "Dev mode", to: "testing" },
 ];

@@ -1,0 +1,2907 @@
+{
+  "title": "Chakana",
+  "sourceFileName": "Chakana.xlsx",
+  "count": 100,
+  "items": [
+    {
+      "id": "1",
+      "order": 1,
+      "question": "Qanday holatlarda norezident jismoniy shaxslarga chet el valyutasi sotiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Respublika hududida milliy valyuta mablagʻlarining qonuniy manbalardan olinganligini tasdiqlovchi hujjatlar taqdim etilganda amalga oshiriladi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Norezident jismoniy shaxslarga chet el valyutasi sotish taʼqiqlanadi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Norezident jismoniy shaxslar tomonidan  shaxsini tasdiqlovchi xujjatlar taqdim qilinganda amalga oshiriladi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "barcha javoblar toʻgʻri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "2",
+      "order": 2,
+      "question": "Qanday holatlarda bank xodimiga valyuta ayirboshlash operatsiyalarini amalga oshirish taqiqlanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javob toʻgʻri",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "valyuta ayirboshlash operatsiyalarini sirtdan amalga oshirish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "tegishli maʼlumotnoma bermasdan valyuta ayirboshlash operatsiyalarini bajarish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "valyuta ayirboshlash operatsiyasini bajarmasdan tegishli maʼlumotnomalarni berish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "3",
+      "order": 3,
+      "question": "Qanday hollarda bank tomonidan chet el valyutasini sotib olish amaliyotlari uchun jismoniy shaxslardan shaxsini tasdiqlovchi hujjat talab etiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "BXM 500 baravari miqdoriga teng boʻlgan yoki undan oshgan hollarda",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "BXM 400 baravari miqdoriga teng boʻlgan yoki undan oshgan hollarda",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "BXM 300 baravari miqdoriga teng boʻlgan yoki undan oshgan hollarda",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "BXM 200 baravari miqdoriga teng boʻlgan yoki undan oshgan hollarda",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "4",
+      "order": 4,
+      "question": "Mijozlar tomonidan qancha miqdordagi valyuta sotib olish amaliyotlari uchun mijozlarni lozim darajada tekshirish talab etiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "100 AQSH dollaridan oshgan miqdorda",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Xujjat talab etilmaydi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "1000 AQSH dollaridan oshgan miqdorda",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "500 AQSH dollaridan oshgan miqdorda",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "5",
+      "order": 5,
+      "question": "Jismoniy shaxslarga xalqaro pul oʻtkazmalari orqali kelgan chet el valyuta mablagʻlarini  milliy valyutada toʻlashda qaysi kursdan foydalaniladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tijorat banki tomonidan mustaqil ravishda belgilangan xorijiy valyutani bankning sotib olish kursidan foydalaniladi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Yevro krosskursi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "AQSH dollari krosskursi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "AQSH dollari va Yevro krosskursi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "6",
+      "order": 6,
+      "question": "Xalqaro pul oʻtkazmalari tizimlari orqali oʻtkazmani olish uchun mijozdan nima talab qilinadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javob toʻgʻri",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijozlar tomonidan shaxsini tasdiqlovchi hujjat",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "oʻtkazma yuboruvchisi ismi sharifi va summasi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "oʻtkazmaning maxfiy kodi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "7",
+      "order": 7,
+      "question": "Valyutani tartibga solish toʻgʻrisidagi Qonunga koʻra valyutani tartibga soluvchi organlar kimlar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Oʻzbekiston Respublikasi Markaziy banki",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Soliq qoʻmitasi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Moliya vazirligi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Toʻgʻri javob keltirilmagan",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "8",
+      "order": 8,
+      "question": "Valyutani tartibga solish toʻgʻrisidagi Qonunga koʻra valyuta qimmatliklariga nimalar kiradi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javob toʻgʻri",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Chet el valyutasi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "nominali chet el valyutasida ifodalangan qimmatli qogʻozlar va toʻlov hujjatlari",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "norezidentlar tomonidan chiqarilgan nominalga ega boʻlmagan qimmatli qogʻozlar, sof quyma oltin",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "9",
+      "order": 9,
+      "question": "Valyutani tartibga solish toʻgʻrisidagi Qonunga koʻra valyuta kursiga tarif bering?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chet el valyutasining Oʻzbekiston Respublikasi valyutasiga nisbatan kursi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "bir nechta mamlakat pul birligining boshqa bir mamlakat pul birligiga nisbati;",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Oʻzbekiston Respublikasi valyutasining chet el valyutasiga nisbatan kross kursi;",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Toʻgʻri javob keltirilmagan",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "10",
+      "order": 10,
+      "question": "Oʻzbekiston banklarida har bir omonatchining omonat mablagʻining maksimum qismi davlat kafolati ostida boʻlib, qancha miqdorga qadar kafolatlanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "200 million soʻmgacha",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "300 million soʻmgacha",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "400 million soʻmgacha",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "500 million soʻmgacha",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "11",
+      "order": 11,
+      "question": "Voyaga yetmaganlarning omonatlarni mustaqil tasarruf etish yoshi nechi yoshdan belgilab qoʻyilgan",
+      "options": [
+        {
+          "key": "A",
+          "text": "14 yoshdan",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "15 yoshdan",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "12 yoshdan",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Toʻgʻri javob keltirilmagan",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "12",
+      "order": 12,
+      "question": "Banklardagi omonatlarni himoya qilish kafolatlari toʻgʻrisidagi Qonunga muvofiq, kimlar kafolatlash obyekti hisoblanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javob toʻgʻri",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Jismoniy shaxslar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "yakka tartibdagi tadbirkorlar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "yuridik shaxslar",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "13",
+      "order": 13,
+      "question": "Rezident jismoniy shaxslarga tarif bering?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javob toʻgʻri",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Oʻzbekiston Respublikasi fuqarolari, shu jumladan xorijdagi Oʻzbekiston Respublikasi fuqarolari",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Oʻzbekiston Respublikasida yashash guvohnomasiga ega boʻlgan chet el fuqarolari",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Oʻzbekiston Respublikasida yashash guvohnomasiga ega boʻlgan fuqaroligi boʻlmagan shaxslar",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "14",
+      "order": 14,
+      "question": "Valyutani tartibga solish toʻgʻrisidagi Qonunga koʻra valyutani nazorat qiluvchi organlar kimlar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javob toʻgʻri",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Oʻzbekiston Respublikasi Markaziy banki, Hisob palatasi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Moliya vazirligi, Davlat soliq qoʻmitasi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Davlat bojxona qoʻmitasi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "15",
+      "order": 15,
+      "question": "“Biznesni rivojlantirish banki” ATB tizimida amaldagi mavjud xalqaro pul oʻtkazmalarini aniqlang:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Zolotaya korona, Western Union, MoneyGram, Ria, UPT, Azia Express, Astrasend, Kvikpey",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Zolotaya korona, Western Union, MoneyGram, Ria, UPT, Contact",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Zolotaya korona, Western Union, MoneyGram, Ria, UPT, Unistream",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Zolotaya korona, Western Union, MoneyGram, Ria, Contact, Unistream",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "16",
+      "order": 16,
+      "question": "Xalqaro pul oʻtkazmalari tizimlari orqali kelgan oʻtkazmalarni kimlarga taqdim qilish mumkin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "faqat oʻtkazma nomiga kelgan shaxs yoki notarial ishonchnoma bilan tasdiqlangan vakiliga",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "faqat oʻtkazma nomiga kelgan shaxs yoki uning yaqin qarindoshlariga",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "faqat oʻtkazma nomiga kelgan shaxsning oʻziga",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "barcha javoblar toʻgʻri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "17",
+      "order": 17,
+      "question": "Qanday hollarda XPOʻ xodimi telefon orqali jismoniy shaxsning oʻtkazmasi xaqida maʼlumotni berishi mumkin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "ruxsat berilmaydi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "oʻtkazma egasining bankka murojaat qilish imkoni boʻlmagan taqdirda",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "murojaat qiluvchi oʻtkazmaning maxfiy kodini toʻgʻri taqdim qilganda",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "xalqaro pul oʻtkazmalari tizimi vakiliyoki Bosh bank xodimi qoʻngʻiroq qilganda",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "18",
+      "order": 18,
+      "question": "Xalqaro pul oʻtkazmalarini qaysi xorijiy valyutalarda amalga oshirilishi mumkin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "AQSH dollari va Yevroda",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "AQSH dollari, Yevro va Rossiya rublida",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "AQSH dollari, Yevro, Rossiya rubli va boshqa xohlagan chet el valyutasida",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "barcha erkin almashinadigan valyutalarda",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "19",
+      "order": 19,
+      "question": "Xalqaro pul oʻtkazmalari “Valyutani tartibga solish” qonuniga asosan qanday valyuta operatsiyalari turiga kiradi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "joriy xalqaro operatsiyalari",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "kapital xarakati bilan bogʻliq operatsiyalar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "tashqi savdo tusidagi operatsiyalar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "toʻgʻri javob yoʻq",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "20",
+      "order": 20,
+      "question": "Xalqaro pul oʻtkazmalari orqali jismoniy shaxslar tomonidan chet elga yuborish mumkin boʻlgan valyuta miqdori qancha?",
+      "options": [
+        {
+          "key": "A",
+          "text": "100.000.000 soʻm mablagʻning valyutadagi ekvivalentini",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "50.000.000 soʻm ekvivalentidagi AQSH dollari",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "100.000.000 soʻm ekvivalentidagi Yevro",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "10.000 AQSH dollari ekvivalenti",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "21",
+      "order": 21,
+      "question": "Norezident jismoniy shaxslarga chet el valyutasini qancha miqdorgacha sotish mumkin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "milliy valyuta mablagʻlarining qonuniy manbalardan olinganligini hujjatlar bilan tasdiqlangan miqdorda",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "cheklanmagan miqdorda",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "10.000 AQSH dollaridan oshmagan miqdorgacha",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "100.000.000 soʻm ekvivalenti miqdorigacha",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "22",
+      "order": 22,
+      "question": "Xalqaro pul oʻtkazmalari tizimlarida xodimga biriktirilgan login va parollarni boshqa xodim ishlatilishiga qaysi hollarda ruxsat beriladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "ruxsat berilmaydi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "XPOʻ xodimi vaqtinchalik ish joyida boʻlmagan hollarda",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "XPOʻ xodimining ishonchnomasi va buyruq asosida topshirilganda",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "filial rahbarining boʻyrugʻi va Bosh bank ruxsati bilan",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "23",
+      "order": 23,
+      "question": "Xalqaro pul oʻtkazmalari boʻyicha toʻlovlarni amalga oshirishda qaysi hollarda ochiq valyuta pozitsiyasi ishlatiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "toʻlovlarni milliy valyutada amalga oshirilganda",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "ochiq valyuta pozitsiyasi ishlatilmaydi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "valyutali oʻtkazmalar amalga oshirilganda",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "barcha hollarda ochiq valyuta pozitsiyasi ishlatiladi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "24",
+      "order": 24,
+      "question": "Qaysi hollarda qaytarilgan oʻtkazma uchun vositachilik haqi joʻnatuvchiga qaytariladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "oʻtkazma amalga oshirilgan kuni joʻnatuvchi tashabbusi bilan bekor qilinsa",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "qaytarilgan oʻtkazma uchun vositachilik haqi joʻnatuvchiga qaytarilmaydi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "hamma hollarda qaytariladi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "faqat XPOʻ tizimi va Bosh bank tomonidan ruxsat bergan hollarda",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "25",
+      "order": 25,
+      "question": "Valyuta ayirboshlash shaxobchasida qanday valyuta turlari boʻyicha operatsiyalar amalga oshiriladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "AQSH dollari, Yevro, Angliya funt sterlingi, Yaponiya Ienasi, Rossiya rubli, Shvetsariya franki",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "AQSH dollari, Yevro, Angliya funt sterlingi, Yaponiya Ienasi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "AQSH dollari, Yevro, Angliya funt sterlingi, Yaponiya Ienasi, Tenge",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "AQSH dollari, Yevro, Angliya funt sterlingi, Turk lirasi, Rossiya rubli",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "26",
+      "order": 26,
+      "question": "Jismoniy shaxslar bilan valyuta ayirboshlash operatsiyalari....",
+      "options": [
+        {
+          "key": "A",
+          "text": "cheklovlarsiz valyuta ayirboshlash amaliyotlariga ruxsat beriladi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "bitta mijozga 100 000 AQSH dollari ekvivalentigacha ayirboshlashga ruxsat beriladi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "bitta mijozga 50 000 AQSH dollari ekvivalentigacha ayirboshlashga ruxsat beriladi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "bitta mijozga 500 000 AQSH dollari ekvivalentigacha ayirboshlashga ruxsat beriladi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "27",
+      "order": 27,
+      "question": "Ekspert komissiyasi tomonidan haqiqiy emas deb topilgan naqd chet el valyutalari.....?",
+      "options": [
+        {
+          "key": "A",
+          "text": "kupyura ekspertiza dalolatnomasi bilan birga huquqni muxofaza qiluvchi organlarga yuboriladi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "ekspertiza dalolatnomasi bilan kupyura egasiga qaytariladi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "kupyura ekspertiza dalolatnomasi bilan birga MBga yuboriladi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "kupyura ekspertiza dalolatnomasi bilan birga emitent bankka yuboriladi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "28",
+      "order": 28,
+      "question": "Valyuta ayirboshlash shoxobchalarida  shikastlanish belgilari mavjud muomalaga yaroqli banknotalarni qabul qilishda vositachilik miqdori qancha?",
+      "options": [
+        {
+          "key": "A",
+          "text": "summaning 5 foizi miqdorida",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "summaning 3 foizi miqdorida",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "summaning 1 foizi miqdorida",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "summaning 0.5 foizi miqdorida",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "29",
+      "order": 29,
+      "question": "Qanday chet el valyutalari valyuta ayirboshlash shoxobchasida inkassoga qabul qilinishi mumkin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Muomalaga yaroqsiz banknotalar",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Haqiqiyligiga shubha tugʻilgan banknotalar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Shikastlangan banknotalar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mayda dogʻlarga ega banknotalar",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "30",
+      "order": 30,
+      "question": "SWIFT – nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "maʼlumotlarni shifrlash yoʻli bilan tranzaksiyalarni yuqori xavfsizlik darajasida amalga oshirishni taʼminlovchi xalqaro banklararo axborot uzatish va toʻlovlarni amalga oshirish tizimi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Xalqaro toʻlov tizimi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "xalqaro pul oʻtkazmasi boʻyicha jismoniy shaxslar tomonidan xorijiy valyutadagi toʻlovlarni, xalqaro (transchegaraviy) oʻtkazmalarni amalga oshirish tizimi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "toʻgʻri javob mavjud emas",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "31",
+      "order": 31,
+      "question": "Depozit va omonat sertifikatlari milliy va xorijiy valyutada chiqarilishi mumkinmi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mumkin emas, depozit va omonat sertifikatlari faqat milliy valyutada chiqariladi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mumkin",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Faqat yuridik shaxslar uchun mumkin",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Faqat jismoniy shaxslar uchun mumkin",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "32",
+      "order": 32,
+      "question": "Esdalik tangalar sotish va sotib olish narxi qaysi tashkilot tomonidan belgilanadi ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Markaziy bank tomonidan belgilanadi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bozor talab va takliflaridan kelib chikib belgilanadi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tijorat banklari tomonidan mustakil tarzda belgilanadi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Moliya vazirligi tomonidan.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "33",
+      "order": 33,
+      "question": "Rezedent jismoniy shaxs invoys orqali horijiy davlatga pul oʻtkazish istagini bildirdi,\nQuyida keltirilgan misollardan toʻgʻri javobni aniqlang:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Shaxsiy ehtiyoj uchun 1 dona mahsulot sotib olish uchun pul joʻnatish",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Shaxsiy ehtiyoj uchun 100 ming AQSH dollari miqdorigacha 1 dona mahsulot uchun pul joʻnatish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Shaxsiy ehtiyoj uchun cheklanmagan miqdorda pul joʻnatish",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Toʻgʻri javob mavjud emas",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "34",
+      "order": 34,
+      "question": "Jismoniy shaxslarning talab qilib olinguncha saqlanadigan omonatlari muddatlari toʻgʻri koʻrsatilgan qatorni belgilang?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bu turdagi omonatlar muddatsiz omonatlar hisoblanib, mijozning birinchi talabidayoq qaytariladi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "3 oy",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "12 oy",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "15 oy",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "35",
+      "order": 35,
+      "question": "Omonat daftarchasi bu-",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bank tomonidan omonat boʻyicha bajarilgan amaliyotlarni omonatchiga yozma ravishda tasdiqlovchi va omonat boʻyicha olingan majburiyatlarni kafolatlovchi hujjat",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Yuridik shahslarga hisob raqamidagi pul mablagʻlarini kafolotlovchi xujjat",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Yuridik va Jismoniy shaxslarning pul mablagʻlarini oʻzida aks ettirgan xujjat",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Jismoniy shaxslarning bank kartalari boʻyicha amalga oshirgan operatsiyalarini tasdiqlovchi xujjati",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "36",
+      "order": 36,
+      "question": "Muddatli omonatlar tarifi toʻgʻri koʻrsatilgan qatorni belgilang?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bank omonati shartnomasida belgilangan muddat tugaganidan keyin qaytarish sharti bilan jalb qilingan omonatlar muddatli omonatlar hisoblanadi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bir yildan ortiq muddatga qoʻyilgan omonatlar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Omonatchilarning talab qilinishi bilanoq berilishi belgilangan omonatlar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Toʻgʻri javob mavjud emas",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "37",
+      "order": 37,
+      "question": "Xarakatsiz omonatlar bu-",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javoblar toʻgʻri.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Talab qilib olinguncha saqlanadigan omonatlar boʻyicha bir yil davomida xech kanday operatsiyalar bajarilmagan omonatlar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Jamgʻarma omonatlarning muddati tugagandan keyin bir yil davomida foizlar hisoblanishidan tashqari hech qanday operatsiyalar amalga oshirilmagan omonatlar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Muddatli omonatlarning muddati tugagandan keyin bir yil davomida foizlar hisoblanishidan tashqari hech qanday operatsiyalar amalga oshirilmagan omonatlar",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "38",
+      "order": 38,
+      "question": "Omonat hisobvaragʻini ochish uchun mijoz qanday xujjatlarni taqdim qilishi zarur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Shaxsini tasdiqlovchi hujjat hamda ariza",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Shaxsini tasdiqlovchi hujjat",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ariza",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Omonat shartnomasi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "39",
+      "order": 39,
+      "question": "Nosavdo tusdagi pul oʻtkazmalari qaysi valyuta operatsiya turiga kiradi:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Joriy xalqaro operatsiyasi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Tashqi valyuta operatsiyasi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "kapital xarakat bilan bogʻliq operatsiyasi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ichki valyuta operatsiyasi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "40",
+      "order": 40,
+      "question": "Norezedent jismoniy shaxslarga hisobraqam ochish necha kun ichida amalga oshirilishi lozim?",
+      "options": [
+        {
+          "key": "A",
+          "text": "15 kun ichida",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "20 kun ichida",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "30 kun ichida",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "10 kun ichida",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "41",
+      "order": 41,
+      "question": "Qanday holatlarda omonatlarga taʼqiq qoʻyiladi",
+      "options": [
+        {
+          "key": "A",
+          "text": "Omonatlarini sud organlari ajrimiga, tergov va surishtiruv organlari, sud ijrochilarining qarorlariga asosan xatlash mumkin.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Omonatlarini faqat sud organlari ajrimiga asosan xatlash mumkin.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Omonatlarini sud organlari ajrimiga va sud ijrochilarining qarorlariga asosan xatlash mumkin.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Omonatlarini sud organlari ajrimiga, tergov va surishtiruv organlari qarorlariga asosan xatlash mumkin.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "42",
+      "order": 42,
+      "question": "Bankning boshqaruv organlariga kimlar kiradi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Aksiyadorlarning umumiy yigʻilishi, bankning kuzatuv kengashi va boshqaruvi bankning boshqaruv organlaridir.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bankning kuzatuv kengashi va boshqaruvi bankning boshqaruv organlaridir.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Aksiyadorlarning umumiy yigʻilishi va boshqaruvi bankning boshqaruv organlaridir.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Aksiyadorlarning umumiy yigʻilishi bankning boshqaruv organidir.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "43",
+      "order": 43,
+      "question": "Uchinchi shaxslarga tushuncha bering?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bank, uning mijozi (vakili) va Oʻzbekiston Respublikasi Markaziy bankidan tashqari boshqa barcha shaxslar uchinchi shaxslar hisoblanadi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bank va uning mijozidan tashqari boshqa barcha shaxslar uchinchi shaxslar hisoblanadi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bank va Oʻzbekiston Respublikasi Markaziy bankidan tashqari boshqa barcha shaxslar uchinchi shaxslar hisoblanadi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bank, uning mijozi va Oʻzbekiston Respublikasi Markaziy bankidan tashqari boshqa barcha shaxslar uchinchi shaxslar hisoblanadi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "44",
+      "order": 44,
+      "question": "Offshor hududlarga tarif bering?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Imtiyozli soliq rejimini taqdim qiluvchi va (yoki) moliyaviy operatsiyalarni amalga oshirishda ular haqidagi maʼlumotlarni oshkor etmaslikni va taqdim qilmaslikni koʻzda tutuvchi davlatlar va hududlar.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Imtiyozli soliq rejimini taqdim qilishni koʻzda tutuvchi davlatlar va hududlar.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Moliyaviy operatsiyalarni amalga oshirishda ular haqidagi maʼlumotlarni oshkor etmaslikni va taqdim qilmaslikni koʻzda tutuvchi davlatlar va hududlar.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Jinoiy daromadlarni legallashtirishga qarshi kurashish boʻyicha moliyaviy choralarni ishlab chiqish  hamda jinoiy faoliyatdan olingan daromadlarni legallashtirishga va terrorizmni moliyalashtirishga qarshi kurashish tizimlarida strategik kamchiliklari mavjud deb belgilangan davlatlar va hududlar;",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "45",
+      "order": 45,
+      "question": "\"BRB bank tarifiga muvofiq \tVisa kartalar uchun “Chargeback” uchun bank taʼrifiga muvofiq berilgan variantni toping?\"",
+      "options": [
+        {
+          "key": "A",
+          "text": "100 000 soʻm",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "150 000 soʻm",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "120 000 soʻm",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "90 000 soʻm",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "46",
+      "order": 46,
+      "question": "“Oʻzbekiston Respublikasi hududida bank kartalarining chiqarilishi va muomalada boʻlishi qoidalari toʻgʻrisidagi”nizomga muvofiq (№3294) “debet bank karta” ga toʻgʻri tarif berilgan qatorni tanlang\"",
+      "options": [
+        {
+          "key": "A",
+          "text": "oʻz saqlovchisiga u va bank kartasi yemitenti oʻrtasida tuzilgan shartnoma shartlariga binoan tegishli karta hisobvaragʻidagi pul mablagʻlari qoldigʻi doirasida toʻlov operatsiyalarini amalga oshirish va (yoki) naqd pul mablagʻlarini olish uchun (korporativ bank kartasi bundan mustasno) tasarruf yetish imkonini beradi;",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "oʻz saqlovchisiga, yaʼni yuridik shaxsning vakolatiga yega xodimi yoki yakka tartibdagi tadbirkorga karta hisobvaragʻidagi pul mablagʻlarini boshqarish imkoniyatini beradi;",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "oʻz saqlovchisiga u va bank kartasi yemitenti oʻrtasida tuzilgan shartnoma shartlariga binoan toʻlov operatsiyalarini amalga oshirish va (yoki) naqd pul mablagʻlarini olish uchun (bundan korporativ bank kartasi mustasno) tegishli karta hisobvaragʻidagi pul mablagʻlari qoldigʻidan ortiq operatsiyalarni amalga oshirish imkonini beradi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "barcha javoblar toʻgri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "47",
+      "order": 47,
+      "question": "Bank tarifiga muvofiq Viza klassik bank kartalarida internet toʻlovlari uchun bank komissiyasi toʻgʻri keltirilgan qatorni toping",
+      "options": [
+        {
+          "key": "A",
+          "text": "0.6% (0,10 AQSH dollaridan kam boʻlmagan miqdorda)",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "0.5% (0,10 AQSH dollaridan kam boʻlmagan miqdorda)",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "1% (0,10 AQSH dollaridan kam boʻlmagan miqdorda",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "1.5% (0,10 AQSH dollaridan kam boʻlmagan miqdorda)",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "48",
+      "order": 48,
+      "question": "NFC nima ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "kontaksiz toʻlov tizimi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "SMS kod internet toʻlovini tasdiqlash uchun",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "bank kartasi orqa tomonidagi kod",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "barcha javoblar toʻgri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "49",
+      "order": 49,
+      "question": "CVV nima ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "bank kartasi orqa tomonidagi kod",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "kontaksiz toʻlov tizimi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "SMS kod internet toʻlovini tasdiqlash uchun",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Xalqaro toʻlov tizimi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "50",
+      "order": 50,
+      "question": "Odatda internet orqali online xaridlar qilinayotganda quyidagi karta maʼlumotlaridan qaysi biri talab yetiladi.",
+      "options": [
+        {
+          "key": "A",
+          "text": "\"bank kartasining 16ta raqami\nbank kartasining amal qilish muddati\nbank kartasi ism, familyasi                                             CVV yoki CVC kod",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "bank kartasi yegasining JSHIR.si",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bank kartasining oxirgi 4ta raqami",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bank kartasi SHIR(pinkod) kodi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "51",
+      "order": 51,
+      "question": "3DSecure tizimi qanday ishlaydi",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xizmat koʻrsatuvchi provayder veb-saytiga karta haqidagi maʼlumotlarni kiritgandan soʻng, karta yegasining telefon raqamiga operatsiyani bajarish uchun kiritilishi kerak boʻlgan kod bilan SMS-xabar yuboriladi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Doʻkonning POS-terminalida tovar uchun kontaksiz toʻlov amalga oshirilganda, karta yegasining mobil telefoniga operatsiyani yakunlash uchun kiritilishi kerak boʻlgan kodli SMS-xabar keladi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "toʻlovlarni toʻlov tizimining operatori, toʻlov tizimi ishtirokchilari va (yoki) toʻlov tashkilotlarining toʻlov tizimi operatori tomonidan belgilangan toʻlov tizimining tartib-taomillarini, infratuzilmasini va qoidalarini qoʻllash vositasida hamkorlik qilish yoʻli bilan amalga oshirishni taʼminlaydigan munosabat",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "barcha javoblar toʻgri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "52",
+      "order": 52,
+      "question": "Visa Infinite yegalari uchun bir yilda necha martagacha XALQARO INTERNET-ROUMING taqdim yetiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "2",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "1",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "4",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "53",
+      "order": 53,
+      "question": "“Oʻzbekiston Respublikasi hududida bank kartalarining chiqarilishi va muomalada boʻlishi qoidalari toʻgʻrisidagi”nizomga muvofiq (№3294) MCC kod nima",
+      "options": [
+        {
+          "key": "A",
+          "text": "terminal ajratilgan mijoz toifasi kodi boʻlib, savdo va xizmat koʻrsatish faoliyat turini 4 xonali raqam bilan tasniflaydi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "bank kartasi orqali pul mablagʻlarini tasarruf yetish mumkin boʻlgan bank hisobvaragʻi;",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "bank kartasi orqali amalga oshirilgan operatsiyalarni tasdiqlovchi, operatsiyaning miqdori, turi, amalga oshirilgan sanasi toʻgʻrisidagi maʼlumotlarni va ushbu hujjatni shakllantirishda foydalanilgan bank kartasi, terminal yoki bankomatni toʻgʻri aniqlay bilish imkoniyatini beruvchi axborotni oʻzida mujassamlashtirgan qogʻoz yoki yelektron shakldagi hujjat (chek)",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "bank kartasi orqa tomonidagi kod",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "54",
+      "order": 54,
+      "question": "Bank kartasining CVV kodi qanday ishlatiladi va uning ahamiyati nimada?",
+      "options": [
+        {
+          "key": "A",
+          "text": "CVV kodi onlayn toʻlovlarni xavfsiz qilish uchun ishlatiladi va tranzaksiyaning haqiqiyligini tasdiqlaydi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "CVV koda faqat bankomatlarda tranzaksiyani amalga oshirish uchun ishlatiladi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "CVV kodi kartaning faqat chiqarilish vaqtida koʻrsatiladi, keyinchalik ishlatilmaydi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "CVV kodi kartaning maxfiy qismini shifrlash uchun ishlatiladi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "55",
+      "order": 55,
+      "question": "Kredit kartasi va debet kartasining farqi qanday?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kredit kartasi qarz asosida ishlaydi, debet kartasi yesa hisobdagi pulga tayanadi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Debet kartasi faqat savdo nuqtalarida ishlatiladi, kredit kartasi yesa faqat bankomatlarda",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kredit kartasi faqat yuqori toʻlov tizimlarida ishlatiladi, debet kartasi yesa barcha tizimlarda",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kredit kartasi naqd pul olish imkoniyatiga yega, debet kartasi yesa naqd pul olishni cheklaydi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "56",
+      "order": 56,
+      "question": "Global Payment Card Industry Data Security Standard (PCI DSS) ning asosiy maqsadi nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bank kartalari maʼlumotlarini himoya qilish, xavfsiz toʻlovlarni taʼminlash va kartalarni oʻgʻirlikdan saqlash",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Yangi kartalar ishlab chiqarishni tezlashtirish va kartalar bozorini rivojlantirish",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bank kartalari uchun minimal komissiyalarni belgilash",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kartalarning faqat naqd pul olish imkoniyatini yaratish",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "57",
+      "order": 57,
+      "question": "Uzcard-Duo (5614***) bank kartalari necha yilga chiqariladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 yilga",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "6 yilga",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "4yilga",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "9 yilga",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "58",
+      "order": 58,
+      "question": "Visa infinite bank kartasi egasi karta aktiv boʻlgan holatda “DragonPASS Lounge”(launge) xizmatidan yilida necha marotaba tekinga foydalanishi mumkin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6-martagacha",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "5-martagacha",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "3-martagacha",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "9-martagacha",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "59",
+      "order": 59,
+      "question": "Norezident jismoniy shaxslar uchun bank kartalari ochishda qaysi hujjatlar talab etiladi",
+      "options": [
+        {
+          "key": "A",
+          "text": "PNFL\npasport\nvaqtinchalik yashash manzili haqida maʻlumotnoma (vremennaya propiska)\nKYC anketa (bank tomonidan taqdim etiladi)",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "pasport\nmahalladan maʻlumotnoma",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "pasport\nish joyidan maʻlumotnoma",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "pasport\nKYC anketa (bank tomonidan taqdim etiladi)",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "60",
+      "order": 60,
+      "question": "Anderrayter tushunchasiga tarif bering?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kredit va mikroqarz arizalarini tezkor, sifatli oʻrganish hamda vakolati doirasida qaror qabul qilish uchun yetarli malaka va bilimga ega boʻlgan masʼul xodim",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Qarz oluvchining moliyaviy holati, ijtimoiy ahvoli, kredit tarixi va kiritilgan maʻlumotlarni qarz oluvchi taqdim etgan (elektron olingan) hujjatlarga muvofiqligiga tayangan holda, kelgusida qarz oluvchi tomonidan kreditni qaytarish ehtimolini baholovchi maʻsul xodim",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bu kredit arizalarini mavjud dasturiy taʼminotlar asosida tezkor va sifatli oʻrganib, yakuniy qaror qabul qilish va kredit shartnomasini tuzish yoki rad etishga asos boʻlgan tahliliy maʼlumotlarni vakolatli shaxsga taqdim etuvchi masʼul kredit xodimi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "B va C javoblar toʻgʻri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "61",
+      "order": 61,
+      "question": "Annuitet toʻlov usuli nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kredit qaytarilishida imtiyozli davr qoʻllanilmaydigan, barcha toʻlovlar teng ulushlarda yoki muntazam ravishda belgilangan davr boʻyicha teng tarzda belgilangan toʻlov jadvali",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Asosiy qarz imtiyozli davrdan soʻng teng ulushlarga boʻlinadigan va foiz toʻlovlarini qoʻshgandan keyin hosil boʻladigan har oylik toʻlovlardan iborat toʻlov jadvali",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kredit qaytarilishida imtiyozli davr qoʻllanilmaydigan, asosiy qarz teng ulushlarga boʻlinadigan va foiz toʻlovlarini qoʻshgandan keyin hosil boʻladigan har oylik toʻlovlardan iborat toʻlov jadvali",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kredit qaytarilishida imtiyozli davr soʻng, barcha toʻlovlar teng ulushlarda belgilangan toʻlov jadvali",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "62",
+      "order": 62,
+      "question": "Differensial toʻlov usuli nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Asosiy qarz imtiyozli davrdan soʻng teng ulushlarga boʻlinadigan va foiz toʻlovlarini qoʻshgandan keyin hosil boʻladigan har oylik toʻlovlardan iborat toʻlov jadvali",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Kredit qaytarilishida imtiyozli davr qoʻllanilmaydigan, barcha toʻlovlar teng ulushlarda yoki muntazam ravishda belgilangan davr boʻyicha teng tarzda belgilangan toʻlov jadvali",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kredit qaytarilishida imtiyozli davr qoʻllanilmaydigan, asosiy qarz teng ulushlarga boʻlinadigan va foiz toʻlovlarini qoʻshgandan keyin hosil boʻladigan har oylik toʻlovlardan iborat toʻlov jadvali",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kredit qaytarilishida imtiyozli davr soʻng, barcha toʻlovlar teng ulushlarda belgilangan toʻlov jadvali",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "63",
+      "order": 63,
+      "question": "Birgalikda qarz oluvchi kim?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Qarz oluvchi bilan kredit (mikroqarz) va uning foizlari boʻyicha oylik toʻlovlarda qatnashuvchi, shuningdek kredit (mikroqarz) boʻyicha solidar javob beruvchi jismoniy shaxs",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Qarz oluvchi bilan kredit (mikroqarz) va uning foizlari boʻyicha oylik toʻlovlarda qatnashuvchi, shuningdek kredit (mikroqarz) boʻyicha toʻla yoki qisman javob beruvchi jismoniy shaxs",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Jismoniy shaxsning bank oldidagi boshqa shaxsning kredit shartnomasidan kelib chiqadigan majburiyatlari boʻyicha toʻla yoki qisman javobgar boʻlish majburiyatini qabul qiluvchi shaxs",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Jismoniy shaxsning bank oldidagi boshqa shaxsning kredit shartnomasidan kelib chiqadigan majburiyatlari boʻyicha toʻla yoki qisman javobgar boʻlish majburiyatini qabul qiluvchi jismoniy shaxs",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "64",
+      "order": 64,
+      "question": "Kredit byurosiga taʼrif bering?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kredit axboroti subektlarining kredit maʼlumotlar bazasini shakllantiruvchi va kredit axboroti foydalanuvchilarining buyurtmasiga asosan kredit tarixi toʻgʻrisida maʼlumotlarni taqdim etuvchi tashkilot",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Kredit axboroti almashinuvini amalga oshirish boʻyicha xizmatlar koʻrsatuvchi shaxs",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kredit axborot maʼlumotlarni foydalanuvchilarining buyurtmasiga asosan taqdim etuvchi tashkilot",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "A va C javoblar toʻgʻri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "65",
+      "order": 65,
+      "question": "Kredit tarixi nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mijozning bank va kredit tashkilotlari oldidagi avvalgi va mavjud kredit qarzdorligi va boshqa majburiyatlari, mijoz tomonidan majburiyatlarining oʻz vaqtida va toʻliq bajarilishi holatlari boʻyicha tahliliy maʼlumotlar",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Kredit axboroti subyektining identifikatsiyalash imkonini beradigan, qarz bitimlari, shuningdek ularning ijro etilishi holati boʻyicha pul summasini toʻlash majburiyatlarini oʻz ichiga oladigan axborot",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijozning tijorat banklari oldidagi avvalgi va mavjud kredit qarzdorligi va boshqa majburiyatlari, mijoz tomonidan majburiyatlarining oʻz vaqtida va toʻliq bajarilishi holatlari boʻyicha tahliliy maʼlumotlar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "B va C javoblar toʻgʻri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "66",
+      "order": 66,
+      "question": "Mijozni identifikatsiyalash nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Barcha javoblar toʻgʻri",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mijozni lozim darajada tekshirish maqsadida mijoz haqidagi maʼlumotlarni ular tomonidan taqdim etilgan hujjatlar asosida aniqlash",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mijozni lozim darajada tekshirish maqsadida mijozlar haqidagi maʻlumotlarni ular tomonidan taqdim etilgan hujjatlar, ochiq manbalar va maʻlumotlar bazalarida mavjud boʻlgan qoʻshimcha tasdiqlangan maʻlumotlar asosida aniqlash",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mijozni lozim darajada tekshirish maqsadida ochiq manbalar va maʻlumotlar bazalarida mavjud boʻlgan maʻlumotlar asosida aniqlash",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "67",
+      "order": 67,
+      "question": "Qarz yuki koʻrsatkichi nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Qarz oluvchi (birgalikda qarz oluvchi)ning barcha kreditlari va mikroqarzlari boʻyicha oʻrtacha oylik toʻlovlari miqdorining qarz oluvchi(birgalikda qarz oluvchi)ning oʻrtacha oylik daromadi miqdoriga boʻlgan nisbati",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Qarz oluvchi(birgalikda qarz oluvchi)ning oʻrtacha oylik daromadi miqdorining qarz oluvchi (birgalikda qarz oluvchi)ning barcha kreditlari va mikroqarzlari boʻyicha oʻrtacha oylik toʻlovlari miqdoriga boʻlgan nisbati",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Qarz oluvchi tomonidan barcha qarz beruvchilar bilan tuzilgan kredit (mikroqarz) shartnomalari, shuningdek qarz oluvchi kafil va/yoki birgalikda qarz oluvchi sifatida ishtirok etadigan kredit (mikroqarz) shartnomalari boʻyicha toʻlovlar yigʻindisi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Qarz oluvchi tomonidan barcha qarz beruvchilar bilan tuzilgan kredit (mikroqarz) shartnomalari, shuningdek qarz oluvchi kafil sifatida ishtirok etadigan kredit (mikroqarz) shartnomalari boʻyicha toʻlovlarning oʻrtacha oylik miqdorining qarz oluvchining oʻrtacha oylik daromadi miqdoriga boʻlgan nisbati",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "68",
+      "order": 68,
+      "question": "Kreditlar qanday tamoyillar asosida beriladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Banklar va bank faoliyati toʻgʻrisidagi qonunga muvofiq - kreditlarni ularning qaytarilishi, foizliligi va muddatliligi sharti bilan oʻz nomidan oʻzining mablagʻlari hamda jalb etilgan mablagʻlar hisobidan berilishi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Banklar va bank faoliyati toʻgʻrisidagi qonunga muvofiq - kreditlarni ularning qaytarilishi, maqsadligi va muddatliligi sharti bilan oʻz nomidan oʻzining mablagʻlari hamda jalb etilgan mablagʻlar hisobidan berilishi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Banklar va bank faoliyati toʻgʻrisidagi qonunga muvofiq - kreditlarni ularning qaytarilishi, taʻminlanganligi va muddatliligi sharti bilan oʻz nomidan oʻzining mablagʻlari hamda jalb etilgan mablagʻlar hisobidan berilishi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar notoʻgʻri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "69",
+      "order": 69,
+      "question": "Isteʼmol krediti qanday shakllarda beriladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Moliyaviy isteʼmol krediti va tovar isteʼmol krediti isteʼmol kreditining shakllaridir.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Moliyaviy isteʼmol krediti isteʼmol kreditining shakllaridir.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tovar isteʼmol krediti isteʼmol kreditining shakllaridir.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar notoʻgʻri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "70",
+      "order": 70,
+      "question": "Qanday mol-mulklar isteʼmol krediti obyekti boʻlishi mumkin emas?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Koʻchmas mulk, shuningdek qonunga muvofiq muomaladan chiqarilgan yoki muomalada boʻlishi cheklangan boshqa mol-mulk isteʼmol krediti obyekti boʻlishi mumkin emas.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Avtomabil isteʼmol krediti obyekti boʻlishi mumkin emas.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mebel va jixozlar isteʼmol krediti obyekti boʻlishi mumkin emas.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "A va B javoblar toʻgʻri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "71",
+      "order": 71,
+      "question": "Isteʼmol krediti obyekti nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Jismoniy shaxsning isteʼmol ehtiyojlari uchun moʻljallangan tovarlar, ishlar va xizmatlar isteʼmol krediti obyekti hisoblanadi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Koʻchmas mulk isteʼmol krediti obyekti hisoblanadi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Oziq-ovqat mahsulotlari isteʼmol krediti obyekti hisoblanadi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "A va C javoblar toʻgʻri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "72",
+      "order": 72,
+      "question": "Isteʼmol krediti toʻgʻrisidagi qonunga muvofiq kredit buyurtmasini koʻrib chiqish muddati qancha?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 ish kunida",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "1 ish kunida",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "3 ish kunida",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "15 ish kunida",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "73",
+      "order": 73,
+      "question": "Mikroqarz qanday tamoyillar asosida ajratiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Jismoniy shaxs boʻlgan qarz oluvchiga toʻlovlilik, muddatlilik va qaytarish shartlari asosida ajratiladigan pul mablagʻi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Barcha jovoblar toʻgʻri",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Jismoniy shaxs boʻlgan qarz oluvchiga ta'minlanganlilik, muddatlilik va qaytarish shartlari asosida ajratiladigan pul mablagʻi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Jismoniy shaxs boʻlgan qarz oluvchiga maqsadlilik, muddatlilik va qaytarish shartlari asosida ajratiladigan pul mablagʻi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "74",
+      "order": 74,
+      "question": "Mikroqarz mablagʻlarini ajratishda mikroqarz maksimal miqdori belgilanganmi, agar belgilangan boʻlsa qancha miqdor belgilangan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "yuz million soʻmdan oshmaydigan miqdorda belgilangan",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "ellik million soʻmdan oshmaydigan miqdorda belgilangan",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "uch yuz million soʻmdan oshmaydigan miqdorda belgilangan",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "oʻn yetti million soʻmdan oshmaydigan miqdorda belgilangan",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "75",
+      "order": 75,
+      "question": "Iqtisodiyot va moliya vazirligi huzurida Taʼlim kreditini moliyalashtirish jamgʻarma mablagʻlari hisobidan taʼlim kredit kimlarga beriladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Oliy va professional taʼlim tashkilotlarida tahsil olish uchun taʼlim kreditini faqat kunduzgi taʼlim shaklida oʻqiyotgan talaba va oʻquvchilarga ajratiladi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Oliy va professional taʼlim tashkilotlarida tahsil olish uchun taʼlim krediti sirtqi, kunduzgi taʼlim shaklida oʻqiyotgan talaba va oʻquvchilarga ajratiladi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Oliy va professional taʼlim tashkilotlarida tahsil olish uchun taʼlim krediti onlayn, sirtqi, kunduzgi taʼlim shaklida oʻqiyotgan talaba va oʻquvchilarga ajratiladi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha jovoblar toʻgʻri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "76",
+      "order": 76,
+      "question": "Taʼlim kredit qancha muddatga ajratiladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Talabaning rasmiy oʻqishni tamomlashning belgilangan yakuniy muddati + 6 oy + 7 yil.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Talabaning rasmiy oʻqishni tamomlashning belgilangan yakuniy muddati + 7 yil.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Talabaning rasmiy oʻqishni tamomlashning belgilangan yakuniy muddati + 8 yil.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Talabaning rasmiy oʻqishni tamomlashning belgilangan yakuniy muddati + 6 oy + 8 yil.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "77",
+      "order": 77,
+      "question": "Overdraft krediti nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Qayta tiklanadigan kredit liniyasi shaklida qarz oluvchiga bank kartalari orqali beriladigan kredit (mikroqarz) turi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Qayta tiklanadigan kredit liniyasi shaklida qarz oluvchiga bank kassasi orqali beriladigan kredit (mikroqarz) turi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Qayta tiklanmaydigan kredit liniyasi shaklida qarz oluvchiga bank kartalari orqali beriladigan kredit (mikroqarz) turi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "A va B javoblar toʻgʻri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "78",
+      "order": 78,
+      "question": "Bank  tomonidan jismoniy shaxsga ajratilayotgan krediti taʼminotiga kimlar kafil boʻlishi mumkin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Oʻzbekiston Respublikasi fuqarosi boʻlgan, Oʻzbekiston Respublikasida muqim yashaydigan va barqaror daromadga ega boʻlgan jismoniy shaxslar",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Oʻzbekiston Respublikasi fuqarosi boʻlgan, Oʻzbekiston Respublikasida muqim yashaydigan jismoniy shaxslar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Oʻzbekiston Respublikasi fuqarosi boʻlgan yoki Oʻzbekiston Respublikasida yashash guvohnomasiga ega boʻlgan fuqaro hamda Oʻzbekiston Respublikasida muqim yashaydigan va barqaror daromadga ega boʻlgan jismoniy shaxslar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar toʻgʻri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "79",
+      "order": 79,
+      "question": "Skoring tushunchasiga tarif bering?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Qarz oluvchining moliyaviy holati, ijtimoiy ahvoli va kiritilgan maʼlumotlarni qarz oluvchi taqdim etgan (elektron olingan) hujjatlarga muvofiqligiga tayangan holda, kelgusida qarz oluvchi tomonidan kreditni qaytarish ehtimolini baholash tizimi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Qarz oluvchining moliyaviy holati, ijtimoiy ahvoli, kredit tarixi va kiritilgan maʼlumotlarni qarz oluvchi taqdim etgan (elektron olingan) hujjatlarga muvofiqligiga tayangan holda, kelgusida qarz oluvchi tomonidan kreditni qaytarish ehtimolini baholash tizimi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Qarz oluvchining ijtimoiy ahvoli, kredit tarixi va kiritilgan maʼlumotlarni qarz oluvchi taqdim etgan (elektron olingan) hujjatlarga muvofiqligiga tayangan holda, kelgusida qarz oluvchi tomonidan kreditni qaytarish ehtimolini baholash tizimi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Qarz oluvchining kredit tarixi maʼlumotlarni tayangan holda, kelgusida qarz oluvchi tomonidan kreditni qaytarish ehtimolini baholash tizimi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "80",
+      "order": 80,
+      "question": "Kreditlar qaytarilishining asosiy mezoni boʻlib nima hisoblanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bank tomonidan ajratiladigan kreditlarning shartnoma shartlariga muvofiq qaytarilishining asosiy mezoni boʻlib, loyihaning oʻz-oʻzini qoplashi va qarzdorning real pul oqimlari, jismoniy shaxslar boʻyicha ularning daromadlari hisoblanadi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bank tomonidan ajratiladigan kreditlarning shartnoma shartlariga muvofiq qaytarilishining asosiy mezoni boʻlib, loyihaning oʻz-oʻzini qoplashi, qarzdorning real pul oqimlari va debitorlik qarzdorliklari, jismoniy shaxslar boʻyicha ularning daromadlari hisoblanadi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kreditlar qaytarilishining asosiy mezoni taʼminot hisoblanib, bunda garov (mol-mulk, kafillik, sugʻurta va boshqalar)",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar toʻgʻri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "81",
+      "order": 81,
+      "question": "“Ijtimoiy himoya yagona reyestri”ga kiritilgan oilalarning farzandlariga ajratiladigan taʼlim krediti boʻyicha qanaqa imtiyoz berilgan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ajratilayotgan taʼlim kreditiga taʼminot talab qilinmaydi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Taʼlim krediti foizsiz ajratiladi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Taʼlim krediti foizsiz va taʻminotsiz ajratiladi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "B va C javoblar toʻgʻri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "82",
+      "order": 82,
+      "question": "Anderrayting tushunchasini yoritib bering?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Anderrayting – bu kreditlashga doir amaldagi meʼyoriy xujjatlarga muvofiq anderrayter tomonidan qarz oluvchining kreditga layoqatligini mustaqil taxlil qilish va oʻziga belgilangan vakolatlar doirasida kredit berish yoki uni rad etish toʻgʻrisida qarorlarni qabul qilish jarayoni.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Anderrayting – bu kreditlashga doir amaldagi meʼyoriy xujjatlarga muvofiq anderrayter tomonidan qarz oluvchining kreditga layoqatligini mustaqil taxlil qilish va oʻziga belgilangan vakolatlar doirasida maʻlumotlar taqdim qilish jarayoni.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Anderrayting –kredit buyurtmalarini avtomatlashtirilgan tarzda qayta ishlash dasturi boʻlib, bankda mavjud mijoz maʼlumotlari asosida kredit ajratish tizimi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "B va C javoblar toʻgʻri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "83",
+      "order": 83,
+      "question": "Kredit byurolarda kredit axboroti necha yil saqlanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 yil davomida saqlanadi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "3 yil davomida saqlanadi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "7 yil davomida saqlanadi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "10 yil davomida saqlanadi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "84",
+      "order": 84,
+      "question": "Bank isteʼmolchini qanday huquqqa ega ekanligi haqida xabardor qilishi lozim?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Isteʼmolchi bank xizmatlarini koʻrsatish toʻgʻrisidagi shartnomani (kredit, depozit, bank hisobvaragʻiga xizmat koʻrsatish, lizing, bank kartalari va boshqalar boʻyicha) imzo qoʻymasdan oldin tanishib chiqishi uchun oʻzi bilan olib ketishga haqli. Bank isteʼmolchini ushbu huquqqa ega ekanligi toʻgʻrisida xabardor qilishi lozim.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Isteʼmolchi bank xizmatlarini koʻrsatish toʻgʻrisidagi shartnomani (kredit, depozit, bank hisobvaragʻiga xizmat koʻrsatish, lizing, bank kartalari va boshqalar boʻyicha) tanishib chiqib imzolagandan soʻng, oʻzi bilan olib ketishga haqli. Bank isteʼmolchini ushbu huquqqa ega ekanligi toʻgʻrisida xabardor qilishi lozim.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Isteʼmolchi bank xizmatlarini koʻrsatish toʻgʻrisidagi shartnomani (kredit, depozit, bank hisobvaragʻiga xizmat koʻrsatish, lizing, bank kartalari va boshqalar boʻyicha) shartlar bilan tanishib chiqqandan soʻng imzo qoʻyishga majbur",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar notoʻgʻri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "85",
+      "order": 85,
+      "question": "Bank xizmatlari bank va isteʼmolchi oʻrtasida nimaga asosan amalga oshiriladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tuzilgan shartnoma hamda ommaviy oferta tarzidagi shartnoma",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ommaviy oferta tarzidagi shartnoma va axbarot varaqalari",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ogʻzaki kelishuv va tuzilgan shartnoma",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar notoʻgʻri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "86",
+      "order": 86,
+      "question": "Bank xizmatlarini taqdim etish shartlarining oʻzgarishi haqidagi maʼlumot mijozga rasmiy veb-saytida eʼlon qilinishi kuchga kirishidan kamida necha kun oldin xabardor qilinadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "10 kun oldin, valyuta ayirboshlash kurslarining oʻzgarishi toʻgʻrisidagi maʼlumot zudlik bilan.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "10 bank ish kun oldin, valyuta ayirboshlash kurslarining oʻzgarishi toʻgʻrisidagi maʼlumot zudlik bilan.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "10 kun oldin, valyuta ayirboshlash kurslarining oʻzgarishi toʻgʻrisidagi maʼlumot 1 kun oldin.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "10 kun oldin, valyuta ayirboshlash kurslarining oʻzgarishi toʻgʻrisidagi maʼlumot 3 kun oldin.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "87",
+      "order": 87,
+      "question": "Markaziy bankning asosiy stavkasi tushirilgan taqdirda, VM-527-sonli qarori bilan ajratilgan taʼlim krediti  boʻyicha foiz qanday oʻzgaradi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "VM-527-sonli qarori bilan ajratilgan taʼlim kredit foiz stavkasi mutanosib ravishda pasayadi, oshsa oʻzgarishsiz qoldiriladi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "VM-527-sonli qarori bilan ajratilgan taʼlim kredit foiz stavkasi oʻzgarishsiz qoldiriladi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "VM-527-sonli qarori bilan ajratilgan taʼlim kredit foiz stavkasi mutanosib ravishda oshadi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "VM-527-sonli qarori bilan ajratilgan taʼlim kredit foiz stavkasi mutanosib ravishda pasayadi, oshsa mutanosib tarzda oshadi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "88",
+      "order": 88,
+      "question": "Jismoniy shaxs kredit olish uchun murojat qilganda, identifikatsiya qilishda mijozdan asosan qanday hujjatlar soʻraladi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Shaxsni tasdiqlovchi xujjat (Pasport, ID karta yoki uning oʻrnini bosadigan hujjatlar)",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Shaxsni tasdiqlovchi xujjat (Pasport, ID karta yoki uning oʻrnini bosadigan hujjatlar) va istiqomat qilayotgan MFYdan maʻlumotnoma",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Shaxsni tasdiqlovchi xujjat (Pasport, ID karta yoki uning oʻrnini bosadigan hujjatlar) va istiqomat qilayotgan MFYdan va ish joyidan maʻlumotnoma.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar notoʻgʻri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "89",
+      "order": 89,
+      "question": "Kredit mahsuloti pasport nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bankning kredit mahsulotini barcha elementlarini, jumladan mahsulotni mijozlarga taqdim qilish tartibi, shartlari, sotuv kanallari, xususiyatlari, raqobat muhitini tahlili, mijoz segmenti, mahsulotni taqdim qilishning mukammal biznes jarayoni sxemasini (nazorat nuqtalari koʻrsatilgan holda) oʻzida mujassam qilgan, kredit mahsulotlari uchun kelishilishi majburiy boʻlgan Bank mahsulotlarini joriy qilish va boshqarish qoʻmitasi tomonidan tasdiqlanadigan hujjat",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bankning kredit mahsulotini mijozlarga taqdim qilish shartlari, mukammal biznes jarayoni sxemasini oʻzida mujassam qilgan, kredit mahsulotlari uchun kelishilishi majburiy boʻlgan Bank mahsulotlarini joriy qilish va boshqarish qoʻmitasi tomonidan tasdiqlanadigan hujjat",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bankning kredit mahsulotini barcha elementlarini, jumladan mahsulotni mijozlarga taqdim qilish tartibi, shartlari, sotuv kanallari, xususiyatlari, raqobat muhitini tahlili, mijoz segmenti, mahsulotni taqdim qilishning mukammal biznes jarayoni sxemasini (nazorat nuqtalari koʻrsatilgan holda) oʻzida mujassam qilgan hujjat",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar toʻgʻri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "90",
+      "order": 90,
+      "question": "BRB tizimida avtomatlashtirilgan qaror qabul qilish tizimi nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "“Yagona oyna” CRM dasturi yoki BRB onlayn mobil ilovasi orqali jismoniy shaxslarga kredit va mikroqarzlar ajratilishida skoring parametrlari asosida avtomatik qaror qabul qilish jarayonlari.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Jismoniy shaxslarga kredit va mikroqarzlar ajratilishida anderayter qarori asosida avtomatik qaror qabul qilish jarayonlari.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "“Yagona oyna” CRM dasturi orqali jismoniy shaxslarga kredit va mikroqarzlar ajratilishida faqatgina stop faktorlar asosida avtomatik qaror qabul qilish tizimi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar toʻgʻri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "91",
+      "order": 91,
+      "question": "Oʻzini oʻzi band qilgan shaxslarga taʼrif bering?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mehnat daromadi olishga yoʻnaltirilgan, jismoniy va yuridik shaxslarga xizmatlar koʻrsatish, ishlarni bajarish boʻyicha shaxsiy mehnati bilan ishtirok etishga asoslangan faoliyatni mustaqil amalga oshiradigan, yakka tartibdagi tadbirkorlar sifatida roʻyxatga olinmagan, mehnat staji hisobga olinishi va ragʻbatlantiruvchi imtiyozlardan foydalanish huquqi bilan davlat soliq xizmati organlarida roʻyxatdan oʻtkazilgan jismoniy shaxslar",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mehnat daromadi olishga yoʻnaltirilgan, jismoniy va yuridik shaxslarga xizmatlar koʻrsatish, ishlarni bajarish boʻyicha shaxsiy mehnati bilan ishtirok etishga asoslangan faoliyatni mustaqil amalga oshiradigan, yakka tartibdagi tadbirkorlar sifatida roʻyxatga olingan, mehnat staji hisobga olinishi va ragʻbatlantiruvchi imtiyozlardan foydalanish huquqi bilan yagona davlat xizmati organlarida roʻyxatdan oʻtkazilgan shaxslar",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mehnat daromadi olishga yoʻnaltirilgan, jismoniy va yuridik shaxslarga xizmatlar koʻrsatish, ishlarni bajarish boʻyicha shaxsiy mehnati bilan ishtirok etishga asoslangan faoliyatni mustaqil amalga oshiradigan mehnat staji hisobga olinishi va ragʻbatlantiruvchi imtiyozlardan foydalanish huquqi bilan davlat soliq xizmati organlarida roʻyxatdan oʻtkazilgan shaxslar",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar toʻgʻri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "92",
+      "order": 92,
+      "question": "Mehnat qonunchiligiga muvofiq mavsumiy ishlarni bajaradigan qarz oluvchilarning oʻrtacha oylik daromadlari qanday hisoblanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mehnat qonunchiligiga muvofiq mavsumiy ishlarni bajaradigan qarz oluvchilarning oʻrtacha oylik daromadlari miqdorini hisoblashda bank ushbu qarz oluvchilar tomonidan soʻnggi 6 oy ichida kamida 3 oyi uchun uzluksiz olingan daromadlarining oltidan bir qismini aniqlaydi.Mavsumiy ishlarni bajaradigan qarz oluvchilarning 6 oy va undan ortiq, biroq 12 oydan oshmagan muddat uchun daromadlarining oʻrtacha miqdori muvofiq aniqlanadi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mehnat qonunchiligiga muvofiq mavsumiy ishlarni bajaradigan qarz oluvchilarning oʻrtacha oylik daromadlari miqdorini hisoblashda bank ushbu qarz oluvchilar tomonidan soʻnggi 12 oy ichida kamida 3 oyi uchun uzluksiz olingan daromadlarining oltidan bir qismini aniqlaydi. Mavsumiy ishlarni bajaradigan qarz oluvchilarning 12 oydan oshmagan muddat uchun daromadlarining oʻrtacha miqdori muvofiq aniqlanadi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mehnat qonunchiligiga muvofiq mavsumiy ishlarni bajaradigan qarz oluvchilarning oʻrtacha oylik daromadlari miqdorini hisoblashda bank ushbu qarz oluvchilar tomonidan soʻnggi 12 oy ichida kamida 6 oyi uchun uzluksiz olingan daromadlarining uchdan bir qismini aniqlaydi.Mavsumiy ishlarni bajaradigan qarz oluvchilarning 6 oy va undan ortiq, biroq 12 oydan oshmagan muddat uchun daromadlarining oʻrtacha miqdori muvofiq aniqlanadi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mehnat qonunchiligiga muvofiq mavsumiy ishlarni bajaradigan qarz oluvchilarning oʻrtacha oylik daromadlari miqdorini hisoblashda bank ushbu qarz oluvchilar tomonidan soʻnggi 6 oy ichida kamida 3 oyi uchun uzluksiz olingan daromadlarining uchdan bir qismini aniqlaydi.Mavsumiy ishlarni bajaradigan qarz oluvchilarning 6 oy va undan ortiq, biroq 12 oydan oshmagan muddat uchun daromadlarining oʻrtacha miqdori muvofiq aniqlanadi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "93",
+      "order": 93,
+      "question": "Bank qarz oluvchining va (yoki) birgalikda qarz oluvchining daromadlarini aniqlashda qanday maʼlumotlardan foydalanadi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "ish haqi toʻgʻrisidagi tasdiqlangan maʼlumotlar; \npensiya miqdori toʻgʻrisidagi maʼlumotlar; \nfuqarolarning jamgʻarib boriladigan pensiya badallari toʻgʻrisidagi maʼlumotlar;\ntoʻlangan soliqlar toʻgʻrisidagi maʼlumotlar;\nfoizlar, dividendlar, mol-mulkni ijaraga berishdan olingan daromadlar toʻgʻrisidagi maʼlumotlar;\nbank hisobvaraqlariga tushgan tushumlari.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "ish haqi toʻgʻrisidagi tasdiqlangan maʼlumotlar; \npensiya va alimentlar miqdori toʻgʻrisidagi maʼlumotlar; \nfuqarolarning jamgʻarib boriladigan pensiya badallari toʻgʻrisidagi maʼlumotlar;\nDexqon xoʻjalik va YaTT bank hisobvaraqlariga tushgan tushumlari;\ntoʻlangan soliqlar toʻgʻrisidagi maʼlumotlar;\nfoizlar, dividendlar, mol-mulkni ijaraga berishdan olingan daromadlar toʻgʻrisidagi maʼlumot",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "ish haqi toʻgʻrisidagi tasdiqlangan maʼlumotlar; \npensiya miqdori toʻgʻrisidagi maʼlumotlar; \nfuqarolarning jamgʻarib boriladigan pensiya badallari toʻgʻrisidagi maʼlumotlar;\nDexqon xoʻjalik va YaTTlarning bank hisobvaraqlariga tushgan tushumlari;\ntoʻlangan soliqlar toʻgʻrisidagi maʼlumotlar;\nfoizlar, dividendlar, mol-mulkni ijaraga berishdan olingan daromadlar toʻgʻrisidagi maʼlumotlar;\nbank hisobvaraqlariga tushgan tushumlari.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "ish haqi toʻgʻrisidagi tasdiqlangan maʼlumotlar; \npensiya miqdori toʻgʻrisidagi maʼlumotlar; \nfuqarolarning jamgʻarib boriladigan pensiya badallari toʻgʻrisidagi maʼlumotlar;\ntoʻlangan soliqlar toʻgʻrisidagi maʼlumotlar;\nfoizlar, dividendlar, mol-mulkni ijaraga berishdan olingan daromadlar toʻgʻrisidagi maʼlumotlar.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "94",
+      "order": 94,
+      "question": "Qarz yuki koʻrsatkichini hisoblash va kredit (mikroqarz) berilishi oʻrtasidagi vaqt oraligʻi necha ish kunidan oshmasligi kerak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3 ish kunidan oshmasligi kerak.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "5 ish kunidan oshmasligi kerak.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "10 ish kunidan oshmasligi kerak.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "15 ish kunidan oshmasligi kerak.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "95",
+      "order": 95,
+      "question": "Bank marjasi nima?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bankning kreditlar boʻyicha oʻrnatiladigan foyda normasi",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bankning kreditlar boʻyicha oʻrnatiladigan foiz stavkasi",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bankning kreditlar boʻyicha oʻrnatiladigan foyda stavkasi",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bankning kreditlar boʻyicha oʻrnatiladigan foiz normasi",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "96",
+      "order": 96,
+      "question": "Bugungi kunda taʼlim kredit necha foiz stavkada ajratilmoqda?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Oʻzbekiston Respublikasi Markaziy bankining asosiy foiz stavkasi miqdorida ajratiladi. Xotin-qizlarning toʻlov-kontrakt asosida tahsil olishi uchun ajratilgan taʼlim krediti boʻyicha kredit 14 foizda ajratiladi hamda hisoblangan foizlar Iqtisodiyot va moliya vazirligi huzuridagi Taʼlim kreditini moliyalashtirish jamgʻarmasi mablagʻlari hisobidan qoplanadi. (Markaziy bankning asosiy stavkasi pasaytirilgan taqdirda, taʼlim krediti boʻyicha foiz stavkasi mutanosib ravishda pasaytiriladi, oshirilgan taqdirda esa oʻzgartirishsiz qoldiriladi)",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "14 foiz stavkasi miqdorida ajratiladi. Xotin-qizlarning toʻlov-kontrakt asosida tahsil olishi uchun ajratilgan taʼlim krediti boʻyicha kredit foizlar Iqtisodiyot va moliya vazirligi huzuridagi Taʼlim kreditini moliyalashtirish jamgʻarmasi mablagʻlari hisobidan qoplanadi. (Markaziy bankning asosiy stavkasi pasaytirilgan taqdirda, taʼlim krediti boʻyicha foiz stavkasi mutanosib ravishda pasaytiriladi, oshirilgan taqdirda esa oʻzgartirishsiz qoldiriladi)",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Oʻzbekiston Respublikasi Markaziy bankining asosiy foiz stavkasi miqdorida ajratiladi. Xotin-qizlarning toʻlov-kontrakt asosida tahsil olishi uchun ajratilgan taʼlim krediti foizlar Iqtisodiyot va moliya vazirligi huzuridagi Taʼlim kreditini moliyalashtirish jamgʻarmasi mablagʻlari hisobidan qoplanadi. (Markaziy bankning asosiy stavkasi pasaytirilgan taqdirda, taʼlim krediti boʻyicha foiz stavkasi mutanosib ravishda pasaytiriladi, oshirilgan taqdirda esa oʻzgartirishsiz qoldiriladi)",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Barcha javoblar toʻgʻri",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "97",
+      "order": 97,
+      "question": "Jismoniy shaxslarga qanday hollarda xorijiy valyutada kredit ajratish mumkin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Jismoniy shaxslarga xorijiy valyutada kredit ajratish taʼqiqlanadi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Jismoniy shaxslarga xorijiy valyutada uy-joy sotib olish uchun ajratiladigan kreditlarga.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Jismoniy shaxslar xorijiy davaltlarga taʻlim olish uchun  xorijiy valyutada ajratiladigan kreditlarga.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Jismoniy shaxslarga tashqi turizim yoʻnalishida ajratiladigan isteʻmol kreditlarga.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "98",
+      "order": 98,
+      "question": "Bankning boshqaruv organlariga kimlar kiradi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Aksiyadorlarning umumiy yigʻilishi, bankning kuzatuv kengashi va boshqaruvi bankning boshqaruv organlaridir.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bankning kuzatuv kengashi va boshqaruvi bankning boshqaruv organlaridir.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Aksiyadorlarning umumiy yigʻilishi va boshqaruvi bankning boshqaruv organlaridir.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Aksiyadorlarning umumiy yigʻilishi bankning boshqaruv organidir.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "99",
+      "order": 99,
+      "question": "Uchinchi shaxslarga tushuncha bering?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bank, uning mijozi (vakili) va Oʻzbekiston Respublikasi Markaziy bankidan tashqari boshqa barcha shaxslar uchinchi shaxslar hisoblanadi.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bank va uning mijozidan tashqari boshqa barcha shaxslar uchinchi shaxslar hisoblanadi.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bank va Oʻzbekiston Respublikasi Markaziy bankidan tashqari boshqa barcha shaxslar uchinchi shaxslar hisoblanadi.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bank, uning mijozi va Oʻzbekiston Respublikasi Markaziy bankidan tashqari boshqa barcha shaxslar uchinchi shaxslar hisoblanadi.",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    },
+    {
+      "id": "100",
+      "order": 100,
+      "question": "Offshor hududlarga tarif bering?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Imtiyozli soliq rejimini taqdim qiluvchi va (yoki) moliyaviy operatsiyalarni amalga oshirishda ular haqidagi maʼlumotlarni oshkor etmaslikni va taqdim qilmaslikni koʻzda tutuvchi davlatlar va hududlar.",
+          "correct": true
+        },
+        {
+          "key": "B",
+          "text": "Imtiyozli soliq rejimini taqdim qilishni koʻzda tutuvchi davlatlar va hududlar.",
+          "correct": false
+        },
+        {
+          "key": "C",
+          "text": "Moliyaviy operatsiyalarni amalga oshirishda ular haqidagi maʼlumotlarni oshkor etmaslikni va taqdim qilmaslikni koʻzda tutuvchi davlatlar va hududlar.",
+          "correct": false
+        },
+        {
+          "key": "D",
+          "text": "Jinoiy daromadlarni legallashtirishga qarshi kurashish boʻyicha moliyaviy choralarni ishlab chiqish  hamda jinoiy faoliyatdan olingan daromadlarni legallashtirishga va terrorizmni moliyalashtirishga qarshi kurashish tizimlarida strategik kamchiliklari mavjud deb belgilangan davlatlar va hududlar;",
+          "correct": false
+        }
+      ],
+      "answerKey": "A",
+      "locale": "uz"
+    }
+  ]
+}
